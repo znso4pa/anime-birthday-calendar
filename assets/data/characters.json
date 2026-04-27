@@ -270,5 +270,29 @@
     "series": "约会大作战",
     "cv": "内田真礼",
     "image": "assets/images/八舞耶俱矢.jpg"
+  },
+   {
+    "name": "ネリア",
+    "romaji": "Neria",
+    "birthday": "04-27",
+    "series": "SHUFFLE! Episode2",
+    "cv": "花园芽衣",
+    "image": "assets/images/ネリア.png"
+  },
+  {
+    "name": "青沼音瑠",
+    "romaji": "Neiru Aonuma",
+    "birthday": "04-27",
+    "series": "奇蛋物语",
+    "cv": "楠木灯",
+    "image": "assets/images/青沼音瑠.jpg"
+  },
+  {
+    "name": "安和昴",
+    "romaji": "Awa Subaru",
+    "birthday": "04-27",
+    "series": "GIRLS BAND CRY",
+    "cv": "美怜",
+    "image": "assets/images/安和昴.jpg"
   }
 ]
