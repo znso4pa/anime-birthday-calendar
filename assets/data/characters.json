@@ -146,7 +146,7 @@
   {
     "name": "山田凉",
     "romaji": "Ryo Yamada",
-    "birthday": "暂无qwq",
+    "birthday": "09-18",
     "series": "孤独摇滚！",
     "cv": "水野朔",
     "image": "assets/images/山田凉.webp"
@@ -198,5 +198,77 @@
     "series": "宝石之国",
     "cv": "小松未可子",
     "image": "assets/images/辰砂.jpg"
+  },
+  {
+    "name": "碓冰拓海",
+    "romaji": "Usui Takumi",
+    "birthday": "04-27",
+    "series": "会长是女仆大人！",
+    "cv": "冈本信彦",
+    "image": "assets/images/碓冰拓海.jpg"
+  },
+  {
+    "name": "见崎鸣",
+    "romaji": "Misaki Mei",
+    "birthday": "04-27",
+    "series": "Another",
+    "cv": "高森奈津美",
+    "image": "assets/images/见崎鸣.jpg"
+  },
+  {
+    "name": "镇元斋",
+    "romaji": "Chin Gentsai",
+    "birthday": "04-27",
+    "series": "拳皇",
+    "cv": "暂无qwq",
+    "image": "assets/images/镇元斋.png"
+  },
+  {
+    "name": "培罗娜",
+    "romaji": "Perona",
+    "birthday": "04-27",
+    "series": "海贼王",
+    "cv": "西原久美子",
+    "image": "assets/images/培罗娜.jpg"
+  },
+  {
+    "name": "白钟直斗",
+    "romaji": "Shirogane Naoto",
+    "birthday": "04-27",
+    "series": "女神异闻录4",
+    "cv": "朴璐美",
+    "image": "assets/images/白钟直斗.jpg"
+  },
+  {
+    "name": "玉章",
+    "romaji": "Gyokushō",
+    "birthday": "04-27",
+    "series": "滑头鬼之孙",
+    "cv": "石田彰",
+    "image": "assets/images/玉章.webp"
+  },
+  {
+    "name": "卡比",
+    "romaji": "Kabi",
+    "birthday": "04-27",
+    "series": "星之卡比",
+    "cv": "",
+    "image": "assets/images/卡比.jpeg"
+  },
+  {
+    "name": "佐藤洋",
+    "romaji": "Satou Hiroshi",
+    "birthday": "04-27",
+    "series": "便·当",
+    "cv": "下野纮",
+    "image": "assets/images/佐藤洋.jpg"
+  },
+  {
+    "name": "八舞耶俱矢",
+    "romaji": "Yamai Yagura",
+    "birthday": "04-27",
+    "series": "约会大作战",
+    "cv": "内田真礼",
+    "image": "assets/images/八舞耶俱矢.jpg"
   }
 ]
