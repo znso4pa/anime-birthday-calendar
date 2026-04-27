@@ -2,6 +2,11 @@ const result = document.getElementById("result");
 const resultHead = document.getElementById("resultHead");
 const nameInput = document.getElementById("nameInput");
 const dateInput = document.getElementById("dateInput");
+const lightbox = document.getElementById("lightbox");
+const lightboxImage = document.getElementById("lightboxImage");
+const lightboxMessage = document.getElementById("lightboxMessage");
+const lightboxTitle = document.getElementById("lightboxTitle");
+const lightboxSubtitle = document.getElementById("lightboxSubtitle");
 
 let allCharacters = [];
 
@@ -36,6 +41,35 @@ function escapeHtml(value) {
     .replace(/'/g, "&#39;");
 }
 
+function openLightbox(src, alt, title, subtitle, message) {
+  lightbox.classList.add("visible");
+  lightbox.setAttribute("aria-hidden", "false");
+  lightboxTitle.textContent = title || "图片预览";
+  lightboxSubtitle.textContent = subtitle || "点击背景或 Esc 关闭";
+
+  if (message) {
+    lightboxImage.style.display = "none";
+    lightboxMessage.textContent = message;
+    lightboxMessage.classList.add("visible");
+    lightboxImage.src = "";
+    lightboxImage.alt = "";
+  } else {
+    lightboxImage.style.display = "block";
+    lightboxMessage.textContent = "";
+    lightboxMessage.classList.remove("visible");
+    lightboxImage.src = src;
+    lightboxImage.alt = alt || "";
+  }
+}
+
+function closeLightbox() {
+  lightbox.classList.remove("visible");
+  lightbox.setAttribute("aria-hidden", "true");
+  lightboxImage.src = "";
+  lightboxMessage.textContent = "";
+  lightboxMessage.classList.remove("visible");
+}
+
 function renderCards(list) {
   if (!list.length) {
     result.innerHTML = '<div class="empty">没有找到结果。</div>';
@@ -52,8 +86,8 @@ function renderCards(list) {
           const cv = escapeHtml(c.cv || "未知");
           const imageSrc = String(c.image || "").trim();
           const imageTag = imageSrc
-            ? `<img src="${escapeHtml(imageSrc)}" alt="${name}" loading="lazy" />`
-            : "";
+            ? `<img src="${escapeHtml(imageSrc)}" alt="${name}" loading="lazy" class="card-image" onclick="openLightbox('${escapeHtml(imageSrc)}', '${escapeHtml(name)}', '${escapeHtml(name)}', '生日：${escapeHtml(birthday)} · 作品：${escapeHtml(series)} · CV：${escapeHtml(cv)}')" />`
+            : `<div class="card-image-missing" onclick="openLightbox('', '', '唉呀～没有找到图片呢', '是时候该告诉笨笨的制作者了', '唉呀～没有找到图片呢，是时候该告诉笨笨的制作者了')">唉呀～没有找到图片呢<br>是时候该告诉笨笨的制作者了</div>`;
           return `
         <article class="card">
           ${imageTag}
@@ -116,6 +150,18 @@ nameInput.addEventListener("keydown", (event) => {
 });
 dateInput.addEventListener("keydown", (event) => {
   if (event.key === "Enter") searchByDate(dateInput.value);
+});
+
+lightbox.addEventListener("click", (event) => {
+  if (event.target === lightbox || event.target.dataset.lightboxClose != null) {
+    closeLightbox();
+  }
+});
+
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && lightbox.classList.contains("visible")) {
+    closeLightbox();
+  }
 });
 
 loadCharacters();

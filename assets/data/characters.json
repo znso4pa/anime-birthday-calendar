@@ -5,7 +5,7 @@
     "birthday": "08-31",
     "series": "VOCALOID",
     "cv": "藤田咲（音源）",
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/Hatsune_Miku_V4X.png"
+    "image": "assets/images/初音未来.jpg"
   },
   {
     "name": "绫波丽",
@@ -13,7 +13,7 @@
     "birthday": "03-30",
     "series": "EVA",
     "cv": "林原惠",
-    "image": "https://upload.wikimedia.org/wikipedia/en/3/30/Rei_Ayanami.jpg"
+    "image": "assets/images/绫波丽.jpg"
   },
   {
     "name": "明日香",
@@ -21,7 +21,7 @@
     "birthday": "12-04",
     "series": "EVA",
     "cv": "三石琴乃",
-    "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Asuka_Langley_Soryu.png"
+    "image": "assets/images/明日香.jpg"
   },
   {
     "name": "洛天依",
@@ -29,7 +29,7 @@
     "birthday": "07-12",
     "series": "Vsinger",
     "cv": "山新（音源）",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Luo_Tianyi.jpg"
+    "image": "assets/images/洛天依.jpg"
   },
   {
     "name": "雷电将军",
@@ -37,7 +37,7 @@
     "birthday": "06-26",
     "series": "原神",
     "cv": "早见沙织/菊花花",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Raiden_Shogun_Full_Wish.png"
+    "image": "assets/images/雷电将军.jpg"
   },
   {
     "name": "胡桃",
@@ -45,7 +45,7 @@
     "birthday": "07-15",
     "series": "原神",
     "cv": "高桥智秋/陶典",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Character_Hu_Tao_Full_Wish.png"
+    "image": "assets/images/胡桃.jpg"
   },
   {
     "name": "神里绫华",
@@ -53,15 +53,15 @@
     "birthday": "09-28",
     "series": "原神",
     "cv": "佐藤利奈/小N",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Character_Kamisato_Ayaka_Full_Wish.png"
+    "image": "assets/images/神里绫华.jpg"
   },
-   {
+  {
     "name": "芙宁娜",
     "romaji": "Furina",
     "birthday": "10-13",
     "series": "原神",
     "cv": "水濑祈/钱琛",
-    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Character_Furina_Full_Wish.png"
+    "image": "assets/images/芙宁娜.jpg"
   },
   {
     "name": "瑟蕾娜",
@@ -69,7 +69,7 @@
     "birthday": "09-01",
     "series": "精灵宝可梦",
     "cv": "牧口真幸",
-    "image": ""
+    "image": "assets/images/瑟蕾娜.jpg"
   },
   {
     "name": "喜多川祐介",
@@ -77,7 +77,7 @@
     "birthday": "01-28",
     "series": "女神异闻录5",
     "cv": "杉田智和",
-    "image": ""
+    "image": "assets/images/喜多川祐介.jpg"
   },
   {
     "name": "金",
@@ -85,7 +85,7 @@
     "birthday": "04-01",
     "series": "七大罪",
     "cv": "铃木达央/福山润",
-    "image": ""
+    "image": "assets/images/金.jpg"
   },
   {
     "name": "温迪",
@@ -93,7 +93,7 @@
     "birthday": "06-16",
     "series": "原神",
     "cv": "小岩井ことり",
-    "image": ""
+    "image": "assets/images/温迪.jpg"
   },
   {
     "name": "要乐奈",
@@ -101,7 +101,7 @@
     "birthday": "02-22",
     "series": "BanG Dream!",
     "cv": "青木阳菜",
-    "image": ""
+    "image": "assets/images/要乐奈.jpg"
   },
   {
     "name": "若叶睦",
@@ -109,7 +109,7 @@
     "birthday": "01-14",
     "series": "BanG Dream!",
     "cv": "渡濑结月",
-    "image": ""
+    "image": "assets/images/若叶睦.jpg"
   },
   {
     "name": "东雪莲",
@@ -117,7 +117,7 @@
     "birthday": "07-24",
     "series": "虚拟主播",
     "cv": "暂无qwq",
-    "image": ""
+    "image": "assets/images/东雪莲.png"
   },
   {
     "name": "僵尸男",
@@ -125,7 +125,7 @@
     "birthday": "暂无qwq",
     "series": "一拳超人",
     "cv": "樱井孝宏",
-    "image": ""
+    "image": "assets/images/僵尸男.jpg"
   },
   {
     "name": "禅院直哉",
@@ -133,7 +133,7 @@
     "birthday": "暂无qwq",
     "series": "咒术回战",
     "cv": "游佐浩二",
-    "image": ""
+    "image": "assets/images/禅院直哉.jpg"
   },
   {
     "name": "能天使",
@@ -141,7 +141,7 @@
     "birthday": "12-24",
     "series": "明日方舟",
     "cv": "石见舞菜香",
-    "image": ""
+    "image": "assets/images/能天使.png"
   },
   {
     "name": "山田凉",
@@ -149,7 +149,7 @@
     "birthday": "暂无qwq",
     "series": "孤独摇滚！",
     "cv": "水野朔",
-    "image": ""
+    "image": "assets/images/山田凉.webp"
   },
   {
     "name": "七海千秋",
@@ -157,7 +157,7 @@
     "birthday": "03-09",
     "series": "弹丸论破",
     "cv": "花泽香菜",
-    "image": ""
+    "image": "assets/images/七海千秋.jpg"
   },
   {
     "name": "纱世里",
@@ -165,7 +165,7 @@
     "birthday": "暂无qwq",
     "series": "Doki Doki Literature Club",
     "cv": "暂无qwq",
-    "image": ""
+    "image": "assets/images/纱世里.jpeg"
   },
   {
     "name": "V flower",
@@ -173,7 +173,7 @@
     "birthday": "05-09",
     "series": "VOCALOID",
     "cv": "暂无qwq",
-    "image": ""
+    "image": "assets/images/V flower.png"
   },
   {
     "name": "雾矢葵",
@@ -181,7 +181,7 @@
     "birthday": "暂无qwq",
     "series": "偶像活动",
     "cv": "田所梓",
-    "image": ""
+    "image": "assets/images/雾矢葵.png"
   },
   {
     "name": "丹恒",
@@ -189,7 +189,7 @@
     "birthday": "暂无qwq",
     "series": "崩坏：星穹铁道",
     "cv": "伊东健人",
-    "image": ""
+    "image": "assets/images/丹恒.jpg"
   },
   {
     "name": "辰砂",
@@ -197,5 +197,6 @@
     "birthday": "暂无qwq",
     "series": "宝石之国",
     "cv": "小松未可子",
-    "image": ""  }
+    "image": "assets/images/辰砂.jpg"
+  }
 ]
