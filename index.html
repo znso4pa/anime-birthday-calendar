@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>二次元生日查询</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <div class="wrap">
+      <h1 class="title">二次元生日查询</h1>
+      <p class="sub">输入角色名可查生日，输入日期可查当天过生日的角色。</p>
+
+      <section class="panel">
+        <div class="search-grid">
+          <div class="field">
+            <label for="nameInput">按角色名查询</label>
+            <input id="nameInput" type="text" placeholder="例如：初音未来、Hatsune Miku（支持罗马音）" />
+            <div class="btn-row">
+              <button id="nameBtn">查询角色</button>
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="dateInput">按日期查询（格式：MM-DD）</label>
+            <input id="dateInput" type="text" placeholder="例如：03-14" />
+            <div class="btn-row">
+              <button id="dateBtn" class="alt">查询日期</button>
+              <button id="todayBtn">今天谁生日</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div id="resultHead" class="result-head"></div>
+      <div id="result"></div>
+    </div>
+
+    <script src="./js/storage.js"></script>
+    <script src="./js/utils.js"></script>
+    <script src="./js/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,201 @@
+[
+  {
+    "name": "初音未来",
+    "romaji": "Hatsune Miku",
+    "birthday": "08-31",
+    "series": "VOCALOID",
+    "cv": "藤田咲（音源）",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/Hatsune_Miku_V4X.png"
+  },
+  {
+    "name": "绫波丽",
+    "romaji": "Rei Ayanami",
+    "birthday": "03-30",
+    "series": "EVA",
+    "cv": "林原惠",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/30/Rei_Ayanami.jpg"
+  },
+  {
+    "name": "明日香",
+    "romaji": "Asuka Langley Soryu",
+    "birthday": "12-04",
+    "series": "EVA",
+    "cv": "三石琴乃",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Asuka_Langley_Soryu.png"
+  },
+  {
+    "name": "洛天依",
+    "romaji": "Luo Tianyi",
+    "birthday": "07-12",
+    "series": "Vsinger",
+    "cv": "山新（音源）",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Luo_Tianyi.jpg"
+  },
+  {
+    "name": "雷电将军",
+    "romaji": "Raiden Shogun",
+    "birthday": "06-26",
+    "series": "原神",
+    "cv": "早见沙织/菊花花",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Raiden_Shogun_Full_Wish.png"
+  },
+  {
+    "name": "胡桃",
+    "romaji": "Hu Tao",
+    "birthday": "07-15",
+    "series": "原神",
+    "cv": "高桥智秋/陶典",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Character_Hu_Tao_Full_Wish.png"
+  },
+  {
+    "name": "神里绫华",
+    "romaji": "Kamisato Ayaka",
+    "birthday": "09-28",
+    "series": "原神",
+    "cv": "佐藤利奈/小N",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Character_Kamisato_Ayaka_Full_Wish.png"
+  },
+   {
+    "name": "芙宁娜",
+    "romaji": "Furina",
+    "birthday": "10-13",
+    "series": "原神",
+    "cv": "水濑祈/钱琛",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Character_Furina_Full_Wish.png"
+  },
+  {
+    "name": "瑟蕾娜",
+    "romaji": "Serena",
+    "birthday": "09-01",
+    "series": "精灵宝可梦",
+    "cv": "牧口真幸",
+    "image": ""
+  },
+  {
+    "name": "喜多川祐介",
+    "romaji": "Yusuke Kitagawa",
+    "birthday": "01-28",
+    "series": "女神异闻录5",
+    "cv": "杉田智和",
+    "image": ""
+  },
+  {
+    "name": "金",
+    "romaji": "King",
+    "birthday": "04-01",
+    "series": "七大罪",
+    "cv": "铃木达央/福山润",
+    "image": ""
+  },
+  {
+    "name": "温迪",
+    "romaji": "Venti",
+    "birthday": "06-16",
+    "series": "原神",
+    "cv": "小岩井ことり",
+    "image": ""
+  },
+  {
+    "name": "要乐奈",
+    "romaji": "Raana Kaname",
+    "birthday": "02-22",
+    "series": "BanG Dream!",
+    "cv": "青木阳菜",
+    "image": ""
+  },
+  {
+    "name": "若叶睦",
+    "romaji": "Wakaba Mutsumi",
+    "birthday": "01-14",
+    "series": "BanG Dream!",
+    "cv": "渡濑结月",
+    "image": ""
+  },
+  {
+    "name": "东雪莲",
+    "romaji": "Azuma Seren",
+    "birthday": "07-24",
+    "series": "虚拟主播",
+    "cv": "暂无qwq",
+    "image": ""
+  },
+  {
+    "name": "僵尸男",
+    "romaji": "Zombieman",
+    "birthday": "暂无qwq",
+    "series": "一拳超人",
+    "cv": "樱井孝宏",
+    "image": ""
+  },
+  {
+    "name": "禅院直哉",
+    "romaji": "Naoya Zenin",
+    "birthday": "暂无qwq",
+    "series": "咒术回战",
+    "cv": "游佐浩二",
+    "image": ""
+  },
+  {
+    "name": "能天使",
+    "romaji": "Exusiai",
+    "birthday": "12-24",
+    "series": "明日方舟",
+    "cv": "石见舞菜香",
+    "image": ""
+  },
+  {
+    "name": "山田凉",
+    "romaji": "Ryo Yamada",
+    "birthday": "暂无qwq",
+    "series": "孤独摇滚！",
+    "cv": "水野朔",
+    "image": ""
+  },
+  {
+    "name": "七海千秋",
+    "romaji": "Nanami Chiaki",
+    "birthday": "03-09",
+    "series": "弹丸论破",
+    "cv": "花泽香菜",
+    "image": ""
+  },
+  {
+    "name": "纱世里",
+    "romaji": "Sayori",
+    "birthday": "暂无qwq",
+    "series": "Doki Doki Literature Club",
+    "cv": "暂无qwq",
+    "image": ""
+  },
+  {
+    "name": "V flower",
+    "romaji": "V flower",
+    "birthday": "05-09",
+    "series": "VOCALOID",
+    "cv": "暂无qwq",
+    "image": ""
+  },
+  {
+    "name": "雾矢葵",
+    "romaji": "Aoi Kiriya",
+    "birthday": "暂无qwq",
+    "series": "偶像活动",
+    "cv": "田所梓",
+    "image": ""
+  },
+  {
+    "name": "丹恒",
+    "romaji": "Dan Heng",
+    "birthday": "暂无qwq",
+    "series": "崩坏：星穹铁道",
+    "cv": "伊东健人",
+    "image": ""
+  },
+  {
+    "name": "辰砂",
+    "romaji": "Cinnabar",
+    "birthday": "暂无qwq",
+    "series": "宝石之国",
+    "cv": "小松未可子",
+    "image": ""  }
+]
