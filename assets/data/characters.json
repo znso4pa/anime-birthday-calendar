@@ -136,8 +136,8 @@
     "image": "assets/images/禅院直哉.jpg"
   },
   {
-    "name": "能天使",
-    "romaji": "Exusiai",
+    "name": "蕾缪乐（能天使）",
+    "romaji": "Remyue(Exusiai)",
     "birthday": "12-24",
     "series": "明日方舟",
     "cv": "石见舞菜香",
@@ -294,5 +294,93 @@
     "series": "GIRLS BAND CRY",
     "cv": "美怜",
     "image": "assets/images/安和昴.jpg"
+  },
+  {
+    "name": "折木奉太郎",
+    "romaji": "Oreki Houtarou",
+    "birthday": "04-28",
+    "series": "冰菓",
+    "cv": "中村悠一",
+    "image": "assets/images/折木奉太郎.jpg"
+  },
+  {
+    "name": "笕京太郎",
+    "romaji": "Kakei Kyoutarou",
+    "birthday": "04-28",
+    "series": "大图书馆的牧羊人",
+    "cv": "间岛淳司",
+    "image": "assets/images/笕京太郎.jpg"
+  },
+  {
+    "name": "狛枝凪斗",
+    "romaji": "Komaeda Nagito",
+    "birthday": "04-28",
+    "series": "弹丸论破",
+    "cv": "绪方惠美",
+    "image": "assets/images/狛枝凪斗.jpg"
+  },
+  {
+    "name": "樱井爱娜",
+    "romaji": "Sakurai Aina",
+    "birthday": "04-28",
+    "series": "革命机Valvrave",
+    "cv": "茅野爱衣",
+    "image": "assets/images/樱井爱娜.jpg"
+  },
+  {
+    "name": "妮法",
+    "romaji": "Nifa",
+    "birthday": "04-28",
+    "series": "进击的巨人",
+    "cv": "千本木彩花",
+    "image": "assets/images/妮法.jpg"
+  },
+  {
+    "name": "犬冢露壬雄",
+    "romaji": "Inuzuka Romio",
+    "birthday": "04-28",
+    "series": "寄宿学校的朱丽叶",
+    "cv": "小野友树",
+    "image": "assets/images/犬冢露壬雄.jpg"
+  },
+  {
+    "name": "帝王光辉",
+    "romaji": "King Halo",
+    "birthday": "04-28",
+    "series": "赛马娘 Pretty Derby",
+    "cv": "佐伯伊织",
+    "image": "assets/images/帝王光辉.jpg"
+  },
+  {
+    "name": "谢鲁斯·拉克洛瓦",
+    "romaji": "Charce Lacroix",
+    "birthday": "04-28",
+    "series": "彼方的阿斯特拉",
+    "cv": "岛崎信长",
+    "image": "assets/images/谢鲁斯·拉克洛瓦.jpg"
+  },
+  {
+    "name": "尾尾",
+    "romaji": "Shiipon",
+    "birthday": "04-28",
+    "series": "秋叶原冥途战争",
+    "cv": "黑泽朋世",
+    "image": "assets/images/尾尾.jpg"
+  },
+  {
+    "name": "木下云母",
+    "romaji": "Kinoshita Kirara",
+    "birthday": "04-28",
+    "series": "SHUFFLE! episode2",
+    "cv": "后藤邑子",
+    "image": "assets/images/木下云母.jpeg"
+  },
+  {
+    "name": "宫坂终",
+    "romaji": "Miyasaka Owari",
+    "birthday": "04-28",
+    "series": "永不落幕的前奏诗",
+    "cv": "暂无qwq",
+    "image": "assets/images/宫坂终.jpg"
   }
 ]
