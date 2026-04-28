@@ -382,5 +382,93 @@
     "series": "永不落幕的前奏诗",
     "cv": "暂无qwq",
     "image": "assets/images/宫坂终.jpg"
+  },
+  {
+    "name": "兰花·李",
+    "romaji": "Ranka Lee",
+    "birthday": "04-29",
+    "series": "超时空要塞Frontier",
+    "cv": "中岛爱",
+    "image": "assets/images/兰花·李.jpg"
+  },
+  {
+    "name": "碇源堂",
+    "romaji": "Gendou Ikari",
+    "birthday": "04-29",
+    "series": "新世纪福音战士",
+    "cv": "立木文彦",
+    "image": "assets/images/碇源堂.jpg"
+  },
+  {
+    "name": "中原中也",
+    "romaji": "Nakahara Chuuya",
+    "birthday": "04-29",
+    "series": "文豪野犬",
+    "cv": "谷山纪章",
+    "image": "assets/images/中原中也.jpg"
+  },
+  {
+    "name": "艾尔莎·葛兰希尔黛",
+    "romaji": "Elsa Granhiert",
+    "birthday": "04-29",
+    "series": "Re：从零开始的异世界生活",
+    "cv": "能登麻美子",
+    "image": "assets/images/艾尔莎·葛兰希尔黛.jpg"
+  },
+  {
+    "name": "水织静久",
+    "romaji": "Shizuku Mizuori",
+    "birthday": "04-29",
+    "series": "Summer Pockets",
+    "cv": "小山佐保美",
+    "image": "assets/images/水织静久.jpg"
+  },
+  {
+    "name": "大神环",
+    "romaji": "Tamaki Ōgami",
+    "birthday": "04-29",
+    "series": "偶像大师 百万现场！",
+    "cv": "稻川英里",
+    "image": "assets/images/大神环.jpeg"
+  },
+  {
+    "name": "白川京",
+    "romaji": "Miyako Shirakawa",
+    "birthday": "04-29",
+    "series": "如果有妹妹就好了。",
+    "cv": "加隈亚衣",
+    "image": "assets/images/白川京.jpg"
+  },
+  {
+    "name": "矢逆一稀",
+    "romaji": "Yasaka Itsuki",
+    "birthday": "04-29",
+    "series": "皿三昧",
+    "cv": "村濑步",
+    "image": "assets/images/矢逆一稀.jpeg"
+  },
+  {
+    "name": "伊波樱",
+    "romaji": "Inami Sakura",
+    "birthday": "04-29",
+    "series": "境界的彼方",
+    "cv": "丰田萌绘",
+    "image": "assets/images/伊波樱.jpg"
+  },
+  {
+    "name": "菊池梦",
+    "romaji": "Kikuchi Yume",
+    "birthday": "04-29",
+    "series": "魔法使的条件",
+    "cv": "宫崎葵",
+    "image": "assets/images/菊池梦.jpg"
+  },
+  {
+    "name": "藤田琴音",
+    "romaji": "Fujita Kotone",
+    "birthday": "04-29",
+    "series": "学园偶像大师",
+    "cv": "饭田光",
+    "image": "assets/images/藤田琴音.jpg"
   }
 ]
