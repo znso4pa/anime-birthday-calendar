@@ -9,6 +9,7 @@ const lightboxTitle = document.getElementById("lightboxTitle");
 const lightboxSubtitle = document.getElementById("lightboxSubtitle");
 
 let allCharacters = [];
+const MAX_RESULTS = 100;
 
 async function loadCharacters() {
   try {
@@ -76,9 +77,12 @@ function renderCards(list) {
     return;
   }
 
+  const displayList = list.length > MAX_RESULTS ? list.slice(0, MAX_RESULTS) : list;
+  const truncated = list.length > MAX_RESULTS;
+
   result.innerHTML = `
     <div class="cards">
-      ${list
+      ${displayList
         .map((c) => {
           const name = escapeHtml(c.name);
           const birthday = escapeHtml(c.birthday || "未知");
@@ -102,13 +106,24 @@ function renderCards(list) {
         })
         .join("")}
     </div>
+    ${truncated ? `<div class="truncate-tip">已显示前${MAX_RESULTS}条结果。请输入更精确的关键词以查看更多匹配项。</div>` : ""}
   `;
 }
 
-function searchByName() {
-  const keyword = nameInput.value.trim().toLowerCase();
-  if (!keyword) {
+function searchByName(isPrefix = false) {
+  const inputValue = nameInput.value.trim();
+  if (!inputValue) {
     resultHead.textContent = "请输入角色名后再查询。";
+    result.innerHTML = "";
+    return;
+  }
+
+  const keyword = inputValue.toLowerCase();
+  const hasChinese = /[\u4e00-\u9fff]/.test(inputValue);
+  const validAscii = /^[a-z]{2,}$/.test(keyword);
+
+  if (!hasChinese && !validAscii) {
+    resultHead.textContent = "请输入至少两个英文字母或一个中文汉字进行搜索。";
     result.innerHTML = "";
     return;
   }
@@ -116,9 +131,14 @@ function searchByName() {
   const list = allCharacters.filter((c) => {
     const name = String(c.name || "").toLowerCase();
     const romaji = String(c.romaji || "").toLowerCase();
-    return name.includes(keyword) || romaji.includes(keyword);
+    return isPrefix
+      ? name.startsWith(keyword) || romaji.startsWith(keyword)
+      : name.includes(keyword) || romaji.includes(keyword);
   });
-  resultHead.textContent = `角色名查询：${nameInput.value.trim()}（${list.length} 条）`;
+
+  const modeText = isPrefix ? "前缀查询" : "角色名查询";
+  const countText = list.length > MAX_RESULTS ? `，仅显示前${MAX_RESULTS}条` : "";
+  resultHead.textContent = `${modeText}：${nameInput.value.trim()}（${list.length} 条${countText}）`;
   renderCards(list);
 }
 
@@ -135,7 +155,8 @@ function searchByDate(dateText) {
   renderCards(list);
 }
 
-document.getElementById("nameBtn").addEventListener("click", searchByName);
+document.getElementById("nameBtn").addEventListener("click", () => searchByName(false));
+document.getElementById("prefixBtn").addEventListener("click", () => searchByName(true));
 document.getElementById("dateBtn").addEventListener("click", () => {
   searchByDate(dateInput.value);
 });
@@ -146,7 +167,10 @@ document.getElementById("todayBtn").addEventListener("click", () => {
 });
 
 nameInput.addEventListener("keydown", (event) => {
-  if (event.key === "Enter") searchByName();
+  if (event.key === "Enter") {
+    event.preventDefault();
+    searchByName(event.shiftKey);
+  }
 });
 dateInput.addEventListener("keydown", (event) => {
   if (event.key === "Enter") searchByDate(dateInput.value);

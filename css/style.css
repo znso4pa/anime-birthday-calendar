@@ -108,6 +108,15 @@ button:hover {
 .result-head {
   margin-top: 18px;
   margin-bottom: 10px;
+}
+
+.truncate-tip {
+  margin-top: 14px;
+  padding: 12px 14px;
+  border-radius: 8px;
+  background: rgba(20, 122, 138, 0.08);
+  color: var(--brand);
+  font-size: 0.95rem;
   font-weight: 600;
 }
 
