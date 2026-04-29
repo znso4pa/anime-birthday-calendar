@@ -470,5 +470,117 @@
     "series": "学园偶像大师",
     "cv": "饭田光",
     "image": "assets/images/藤田琴音.jpg"
+  },
+ {
+    "name": "宫泽谦吾",
+    "romaji": "Miyazawa Kengo",
+    "birthday": "04-30",
+    "series": "Little Busters!",
+    "cv": "织田优成",
+    "image": "assets/images/宫泽谦吾.jpg"
+  },
+  {
+    "name": "大石秀一郎",
+    "romaji": "Oishi Shuichirou",
+    "birthday": "04-30",
+    "series": "网球王子",
+    "cv": "近藤孝行",
+    "image": "assets/images/大石秀一郎.jpg"
+  },
+  {
+    "name": "如月伸太郎",
+    "romaji": "Kisaragi Shintarou",
+    "birthday": "04-30",
+    "series": "目隐都市的演绎者",
+    "cv": "寺岛拓笃",
+    "image": "assets/images/如月伸太郎.png"
+  },
+  {
+    "name": "戴安娜·卡文迪什",
+    "romaji": "Diana Cavendish",
+    "birthday": "04-30",
+    "series": "小魔女学园",
+    "cv": "日笠阳子",
+    "image": "assets/images/戴安娜·卡文迪什.jpg"
+  },
+  {
+    "name": "樱木雏子",
+    "romaji": "Sakuragi Hinako",
+    "birthday": "04-30",
+    "series": "雏子的笔记",
+    "cv": "M·A·O",
+    "image": "assets/images/樱木雏子.jpg"
+  },
+  {
+    "name": "上理卑美子",
+    "romaji": "Agari Himiko",
+    "birthday": "04-30",
+    "series": "古见同学有交流障碍症",
+    "cv": "藤井幸代",
+    "image": "assets/images/上理卑美子.jpg"
+  },
+  {
+    "name": "艾迪",
+    "romaji": "Eddie",
+    "birthday": "04-30",
+    "series": "杀戮天使",
+    "cv": "藤原夏海",
+    "image": "assets/images/艾迪.webp"
+  },
+  {
+    "name": "广川卯月",
+    "romaji": "Hirokawa Uzuki",
+    "birthday": "04-30",
+    "series": "青春猪头少年系列",
+    "cv": "雨宫天",
+    "image": "assets/images/广川卯月.png"
+  },
+  {
+    "name": "花菱遥香",
+    "romaji": "Hanabishi Haruka",
+    "birthday": "04-30",
+    "series": "梦想成为魔法少女",
+    "cv": "前田佳织里",
+    "image": "assets/images/花菱遥香.jpg"
+  },
+  {
+    "name": "菲尔迪南特",
+    "romaji": "Ferdinand",
+    "birthday": "04-30",
+    "series": "火焰之纹章 风花雪月",
+    "cv": "坂泰斗",
+    "image": "assets/images/菲尔迪南特.jpeg"
+  },
+  {
+    "name": "东云绘名",
+    "romaji": "Shinonome Ena",
+    "birthday": "04-30",
+    "series": "世界计划 缤纷舞台！",
+    "cv": "铃木实里",
+    "image": "assets/images/东云绘名.jpg"
+  },
+  {
+    "name": "爱清风香",
+    "romaji": "Aikiyo Fuuka",
+    "birthday": "04-30",
+    "series": "蔚蓝档案",
+    "cv": "菲鲁兹·蓝",
+    "image": "assets/images/爱清风香.jpg"
+  },
+  {
+    "name": "黛铃",
+    "romaji": "Mayuzumi Rin",
+    "birthday": "04-30",
+    "series": "Remember11",
+    "cv": "丰口惠美",
+    "image": "assets/images/黛铃.jpeg"
+  },
+  {
+    "name": "二阶堂青空",
+    "romaji": "Nikaidou Sora",
+    "birthday": "04-30",
+    "series": "五彩斑斓的世界",
+    "cv": "美波りお",
+    "image": "assets/images/二阶堂青空.jpeg"
   }
 ]

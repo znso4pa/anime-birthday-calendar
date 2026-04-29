@@ -164,6 +164,13 @@ button:hover {
   color: var(--muted);
 }
 
+.footer {
+  margin-top: 24px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
 .lightbox {
   position: fixed;
   inset: 0;
