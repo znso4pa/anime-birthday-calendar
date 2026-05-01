@@ -582,5 +582,93 @@
     "series": "五彩斑斓的世界",
     "cv": "美波りお",
     "image": "assets/images/二阶堂青空.jpeg"
+  },
+  {
+    "name": "失马",
+    "romaji": "Gauma",
+    "birthday": "05-01",
+    "series": "SSSS.电光机王",
+    "cv": "滨野大辉",
+    "image": "assets/images/失马.jpg"
+  },
+  {
+    "name": "凯多",
+    "romaji": "Kaidou",
+    "birthday": "05-01",
+    "series": "海贼王",
+    "cv": "玄田哲章",
+    "image": "assets/images/凯多.jpeg"
+  },
+  {
+    "name": "天河舞姬",
+    "romaji": "Maihime Tenkawa",
+    "birthday": "05-01",
+    "series": "QUALIDEA CODE",
+    "cv": "悠木碧",
+    "image": "assets/images/天河舞姬.jpg"
+  },
+  {
+    "name": "明智小衣",
+    "romaji": "Akechi Kokoro",
+    "birthday": "05-01",
+    "series": "侦探歌剧 少女福尔摩斯",
+    "cv": "南条爱乃",
+    "image": "assets/images/明智小衣.jpg"
+  },
+  {
+    "name": "梅·莉黛尔·阿切洛特",
+    "romaji": "May Riddell Archelot",
+    "birthday": "05-01",
+    "series": "魔法使之夜",
+    "cv": "高森奈津美",
+    "image": "assets/images/梅·莉黛尔·阿切洛特.png"
+  },
+  {
+    "name": "鸿纱由美",
+    "romaji": "Ootori Sayumi",
+    "birthday": "05-01",
+    "series": "甜蜜女友3",
+    "cv": "末柄里惠",
+    "image": "assets/images/鸿纱由美.jpeg"
+  },
+  {
+    "name": "冈崎直幸",
+    "romaji": "Okazaki Naoyuki",
+    "birthday": "05-01",
+    "series": "CLANNAD",
+    "cv": "中博史",
+    "image": "assets/images/冈崎直幸.jpg"
+  },
+  {
+    "name": "百夜米迦尔",
+    "romaji": "Hyakuya Mikaeru",
+    "birthday": "05-01",
+    "series": "终结的炽天使",
+    "cv": "小野贤章",
+    "image": "assets/images/百夜米迦尔.jpg"
+  },
+  {
+    "name": "无声铃鹿",
+    "romaji": "Silence Suzuka",
+    "birthday": "05-01",
+    "series": "赛马娘 Pretty Derby",
+    "cv": "高野麻里佳",
+    "image": "assets/images/无声铃鹿.jpg"
+  },
+  {
+    "name": "爱城恋太郎",
+    "romaji": "Aijou Rentarou",
+    "birthday": "05-01",
+    "series": "超超超超超喜欢你的100个女朋友",
+    "cv": "加藤涉",
+    "image": "assets/images/爱城恋太郎.jpg"
+  },
+  {
+    "name": "犬吠埼风",
+    "romaji": "Inubouzaki Fuu",
+    "birthday": "05-01",
+    "series": "结城友奈是勇者",
+    "cv": "内山夕实",
+    "image": "assets/images/犬吠埼风.jpg"
   }
 ]
