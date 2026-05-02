@@ -670,5 +670,125 @@
     "series": "结城友奈是勇者",
     "cv": "内山夕实",
     "image": "assets/images/犬吠埼风.jpg"
+  },
+  {
+    "name": "御坂美琴",
+    "romaji": "Misaka Mikoto",
+    "birthday": "05-02",
+    "series": "某科学的超电磁炮",
+    "cv": "佐藤利奈",
+    "image": "assets/images/御坂美琴.jpg"
+  },
+  {
+    "name": "特别周",
+    "romaji": "Special Week",
+    "birthday": "05-02",
+    "series": "赛马娘 Pretty Derby",
+    "cv": "和气杏未",
+    "image": "assets/images/特别周.jpg"
+  },
+  {
+    "name": "一色慧",
+    "romaji": "Isshiki Satoshi",
+    "birthday": "05-02",
+    "series": "食戟之灵",
+    "cv": "小林裕介",
+    "image": "assets/images/一色慧.jpg"
+  },
+  {
+    "name": "骏川手纲",
+    "romaji": "Hayakawa Tazuna",
+    "birthday": "05-02",
+    "series": "赛马娘 Pretty Derby",
+    "cv": "远野光",
+    "image": "assets/images/骏川手纲.jpg"
+  },
+  {
+    "name": "十鬼蛇王马",
+    "romaji": "Tokita Ohma",
+    "birthday": "05-02",
+    "series": "拳愿阿修罗",
+    "cv": "铃木达央",
+    "image": "assets/images/十鬼蛇王马.jpg"
+  },
+  {
+    "name": "仓科明日香",
+    "romaji": "Kurashina Asuka",
+    "birthday": "05-02",
+    "series": "苍之彼方的四重奏",
+    "cv": "福圆美里",
+    "image": "assets/images/仓科明日香.jpg"
+  },
+  {
+    "name": "小田切双叶",
+    "romaji": "Odagiri Futaba",
+    "birthday": "05-02",
+    "series": "三者三叶",
+    "cv": "小泽亚李",
+    "image": "assets/images/小田切双叶.jpg"
+  },
+  {
+    "name": "天王寺瑚太朗",
+    "romaji": "Tennouji Kotarou",
+    "birthday": "05-02",
+    "series": "Rewrite",
+    "cv": "森田成一",
+    "image": "assets/images/天王寺瑚太朗.jpg"
+  },
+  {
+    "name": "长濑凑",
+    "romaji": "Nagase Minato",
+    "birthday": "05-02",
+    "series": "染红的街道",
+    "cv": "平野绫",
+    "image": "assets/images/长濑凑.jpg"
+  },
+  {
+    "name": "高原步美",
+    "romaji": "Takahara Ayumi",
+    "birthday": "05-02",
+    "series": "只有神知道的世界",
+    "cv": "竹达彩奈",
+    "image": "assets/images/高原步美.jpg"
+  },
+  {
+    "name": "菊千代",
+    "romaji": "Kikuchiyo",
+    "birthday": "05-02",
+    "series": "多娜多娜 一起干坏事吧",
+    "cv": "暂无qwq",
+    "image": "assets/images/菊千代.jpeg"
+  },
+  {
+    "name": "濑川弥",
+    "romaji": "Segawa Wataru",
+    "birthday": "05-02",
+    "series": "杜鹃的婚约",
+    "cv": "东山奈央",
+    "image": "assets/images/濑川弥.jpg"
+  },
+  {
+    "name": "新垣绫濑",
+    "romaji": "Aragaki Ayase",
+    "birthday": "05-02",
+    "series": "我的妹妹哪有这么可爱！",
+    "cv": "早见沙织",
+    "image": "assets/images/新垣绫濑.jpg"
+  },
+  {
+    "name": "源静香",
+    "romaji": "Minamoto Shizuka",
+    "birthday": "05-02",
+    "series": "哆啦A梦",
+    "cv": "嘉数由美",
+    "image": "assets/images/源静香.jpg"
+  },
+  {
+    "name": "柯尼·史普林格",
+    "romaji": "Connie Springer",
+    "birthday": "05-02",
+    "series": "进击的巨人",
+    "cv": "下野纮",
+    "image": "assets/images/柯尼·史普林格.jpg"
   }
 ]
