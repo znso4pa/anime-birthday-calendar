@@ -942,5 +942,141 @@
     "series": "初音岛5",
     "cv": "関根明良",
     "image": "assets/images/白河灯莉.jpeg"
+  },
+  {
+    "name": "古泉一树",
+    "romaji": "Koizumi Itsuki",
+    "birthday": "05-04",
+    "series": "凉宫春日系列",
+    "cv": "小野大辅",
+    "image": "assets/images/古泉一树.jpg"
+  },
+  {
+    "name": "枣恭介",
+    "romaji": "Natsume Kyousuke",
+    "birthday": "05-04",
+    "series": "Little Busters!",
+    "cv": "绿川光",
+    "image": "assets/images/枣恭介.jpg"
+  },
+  {
+    "name": "工藤新一",
+    "romaji": "Kudou Shinichi",
+    "birthday": "05-04",
+    "series": "名侦探柯南",
+    "cv": "山口胜平",
+    "image": "assets/images/工藤新一.jpeg"
+  },
+  {
+    "name": "江户川柯南",
+    "romaji": "Edogawa Conan",
+    "birthday": "05-04",
+    "series": "名侦探柯南",
+    "cv": "高山南",
+    "image": "assets/images/江户川柯南.jpg"
+  },
+  {
+    "name": "折原临也",
+    "romaji": "Orihara Izaya",
+    "birthday": "05-04",
+    "series": "无头骑士异闻录",
+    "cv": "神谷浩史",
+    "image": "assets/images/折原临也.jpg"
+  },
+  {
+    "name": "田村麻奈实",
+    "romaji": "Tamura Manami",
+    "birthday": "05-04",
+    "series": "我的妹妹哪有这么可爱！",
+    "cv": "佐藤聪美",
+    "image": "assets/images/田村麻奈实.jpg"
+  },
+  {
+    "name": "仲上真一郎",
+    "romaji": "Nakagami Shinichirou",
+    "birthday": "05-04",
+    "series": "真实之泪",
+    "cv": "石井真",
+    "image": "assets/images/仲上真一郎.jpg"
+  },
+  {
+    "name": "水户郁魅",
+    "romaji": "Mito Ikumi",
+    "birthday": "05-04",
+    "series": "食戟之灵",
+    "cv": "石上静香",
+    "image": "assets/images/水户郁魅.jpg"
+  },
+  {
+    "name": "飞騨翔子",
+    "romaji": "Hida Shouko",
+    "birthday": "05-04",
+    "series": "Happy Sugar Life",
+    "cv": "洲崎绫",
+    "image": "assets/images/飞騨翔子.jpg"
+  },
+  {
+    "name": "胜木翼",
+    "romaji": "Katsuki Tsubasa",
+    "birthday": "05-04",
+    "series": "漫画女孩",
+    "cv": "小见川千明",
+    "image": "assets/images/胜木翼.jpg"
+  },
+  {
+    "name": "真手凛",
+    "romaji": "Matte RIn",
+    "birthday": "05-04",
+    "series": "请问您今天要来点兔子吗？",
+    "cv": "木村珠莉",
+    "image": "assets/images/真手凛.jpg"
+  },
+  {
+    "name": "露崎真昼",
+    "romaji": "Tsuyuzaki Mahiru",
+    "birthday": "05-04",
+    "series": "少女☆歌剧 Revue Starlight",
+    "cv": "富田麻帆",
+    "image": "assets/images/露崎真昼.jpg"
+  },
+  {
+    "name": "砂尾菜子",
+    "romaji": "Sanao Nako",
+    "birthday": "05-04",
+    "series": "一个人的○○小日子",
+    "cv": "古贺葵",
+    "image": "assets/images/砂尾菜子.jpg"
+  },
+  {
+    "name": "浅仓透",
+    "romaji": "Asakura Tooru",
+    "birthday": "05-04",
+    "series": "偶像大师 闪耀色彩",
+    "cv": "和泉风花",
+    "image": "assets/images/浅仓透.jpg"
+  },
+  {
+    "name": "北白川馅子",
+    "romaji": "Kitashirakawa Anko",
+    "birthday": "05-04",
+    "series": "玉子市场",
+    "cv": "日高里菜",
+    "image": "assets/images/北白川馅子.jpg"
+  },
+  {
+    "name": "野乃原叶夜",
+    "romaji": "Nonohara Haya",
+    "birthday": "05-04",
+    "series": "秋之回忆：从今以后",
+    "cv": "井上奈奈",
+    "image": "assets/images/野乃原叶夜.jpeg"
+  },
+  {
+    "name": "宫村未来",
+    "romaji": "Miyamura Miku",
+    "birthday": "05-04",
+    "series": "我们是不能延期了",
+    "cv": "陶山惠实里",
+    "image": "assets/images/宫村未来.jpg"
   }
 ]
