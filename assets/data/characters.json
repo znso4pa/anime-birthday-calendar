@@ -790,5 +790,157 @@
     "series": "进击的巨人",
     "cv": "下野纮",
     "image": "assets/images/柯尼·史普林格.jpg"
+  },
+  {
+    "name": "古手川唯",
+    "romaji": "Kotegawa Yui",
+    "birthday": "05-03",
+    "series": "出包王女",
+    "cv": "名冢佳织",
+    "image": "assets/images/古手川唯.jpg"
+  },
+  {
+    "name": "萍琪派",
+    "romaji": "Pinkie Pie",
+    "birthday": "05-03",
+    "series": "小马宝莉",
+    "cv": "Andrea Libman",
+    "image": "assets/images/萍琪派.jpg"
+  },
+  {
+    "name": "希耶尔",
+    "romaji": "Ciel",
+    "birthday": "05-03",
+    "series": "月姬",
+    "cv": "佐久间红美 / 本渡枫",
+    "image": "assets/images/希耶尔.jpeg"
+  },
+  {
+    "name": "白河奈奈佳",
+    "romaji": "Shirakawa Nanaka",
+    "birthday": "05-03",
+    "series": "初音岛II",
+    "cv": "茅原实里",
+    "image": "assets/images/白河奈奈佳.jpg"
+  },
+  {
+    "name": "知惠留美子",
+    "romaji": "Chie Rumiko",
+    "birthday": "05-03",
+    "series": "寒蝉鸣泣之时",
+    "cv": "折笠富美子",
+    "image": "assets/images/知惠留美子.jpg"
+  },
+  {
+    "name": "桑原鞘子",
+    "romaji": "Kuwahara Sayako",
+    "birthday": "05-03",
+    "series": "竹剑少女",
+    "cv": "钉宫理惠",
+    "image": "assets/images/桑原鞘子.png"
+  },
+  {
+    "name": "一乘寺贤",
+    "romaji": "Ichijouji Ken",
+    "birthday": "05-03",
+    "series": "数码宝贝大冒险02",
+    "cv": "朴璐美",
+    "image": "assets/images/一乘寺贤.jpg"
+  },
+  {
+    "name": "新田维绪",
+    "romaji": "Nitta Io",
+    "birthday": "05-03",
+    "series": "恶魔幸存者2",
+    "cv": "内田彩",
+    "image": "assets/images/新田维绪.jpg"
+  },
+  {
+    "name": "佐仓羽音",
+    "romaji": "Sakura Hane",
+    "birthday": "05-03",
+    "series": "爆音少女!!",
+    "cv": "上田丽奈",
+    "image": "assets/images/佐仓羽音.jpg"
+  },
+  {
+    "name": "雪染千纱",
+    "romaji": "Yukizome Chisa",
+    "birthday": "05-03",
+    "series": "弹丸论破3",
+    "cv": "中原麻衣",
+    "image": "assets/images/雪染千纱.jpg"
+  },
+  {
+    "name": "桃濑成海",
+    "romaji": "Momose Narumi",
+    "birthday": "05-03",
+    "series": "宅男腐女恋爱真难",
+    "cv": "伊达朱里纱",
+    "image": "assets/images/桃濑成海.jpg"
+  },
+  {
+    "name": "潘朵拉",
+    "romaji": "Pandora",
+    "birthday": "05-03",
+    "series": "Re：从零开始的异世界生活",
+    "cv": "钉宫理惠（动画）、丹下樱（广播剧）",
+    "image": "assets/images/潘朵拉.jpg"
+  },
+  {
+    "name": "小柴舞",
+    "romaji": "Koshiba Mai",
+    "birthday": "05-03",
+    "series": "我的百合乃工作是也！",
+    "cv": "田村由香里",
+    "image": "assets/images/小柴舞.png"
+  },
+  {
+    "name": "风祭雅",
+    "romaji": "Kazamatsuri Miyabi",
+    "birthday": "05-03",
+    "series": "遥仰凰华",
+    "cv": "榊原由依",
+    "image": "assets/images/风祭雅.jpg"
+  },
+  {
+    "name": "西野亚季",
+    "romaji": "Nishino Aki",
+    "birthday": "05-03",
+    "series": "BALDR SKY",
+    "cv": "岩田由贵",
+    "image": "assets/images/西野亚季.jpg"
+  },
+  {
+    "name": "见当加奈美",
+    "romaji": "Kentou Kanami",
+    "birthday": "05-03",
+    "series": "兰斯系列",
+    "cv": "暂无qwq",
+    "image": "assets/images/见当加奈美.jpg"
+  },
+  {
+    "name": "雾岛小夜美",
+    "romaji": "Kirishima Koyomi",
+    "birthday": "05-03",
+    "series": "秋之回忆",
+    "cv": "浅野琉璃",
+    "image": "assets/images/雾岛小夜美.jpg"
+  },
+  {
+    "name": "馆林立叶",
+    "romaji": "Tatebayashi Ritsuha",
+    "birthday": "05-03",
+    "series": "PRIMAL×HEARTS2",
+    "cv": "暂无qwq",
+    "image": "assets/images/馆林立叶.jpg"
+  },
+  {
+    "name": "白河灯莉",
+    "romaji": "Shirakawa Akari",
+    "birthday": "05-03",
+    "series": "初音岛5",
+    "cv": "関根明良",
+    "image": "assets/images/白河灯莉.jpeg"
   }
 ]
