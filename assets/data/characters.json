@@ -1078,5 +1078,517 @@
     "series": "我们是不能延期了",
     "cv": "陶山惠实里",
     "image": "assets/images/宫村未来.jpg"
+  },
+  {
+    "name": "火村夕",
+    "romaji": "Himura Yuu",
+    "birthday": "05-05",
+    "series": "悠久之翼",
+    "cv": "远近孝一",
+    "image": "assets/images/火村夕.jpg"
+  },
+  {
+    "name": "云雀恭弥",
+    "romaji": "Hibari Kyoya",
+    "birthday": "05-05",
+    "series": "家庭教师",
+    "cv": "近藤隆",
+    "image": "assets/images/云雀恭弥.jpg"
+  },
+  {
+    "name": "仓田佐祐理",
+    "romaji": "Kurata Sayuri",
+    "birthday": "05-05",
+    "series": "Kanon",
+    "cv": "川上伦子",
+    "image": "assets/images/仓田佐祐理.jpg"
+  },
+  {
+    "name": "蒙奇·D·路飞",
+    "romaji": "Monkey D. Luffy",
+    "birthday": "05-05",
+    "series": "海贼王",
+    "cv": "田中真弓",
+    "image": "assets/images/蒙奇·D·路飞.jpg"
+  },
+  {
+    "name": "铦之冢崇",
+    "romaji": "Mori nozuka Takashi",
+    "birthday": "05-05",
+    "series": "樱兰高校男公关部",
+    "cv": "桐井大介",
+    "image": "assets/images/铦之冢崇.jpg"
+  },
+  {
+    "name": "土方十四郎",
+    "romaji": "Hijikata Toshirou",
+    "birthday": "05-05",
+    "series": "银魂",
+    "cv": "中井和哉",
+    "image": "assets/images/土方十四郎.jpeg"
+  },
+  {
+    "name": "染谷真子",
+    "romaji": "Someya Mako",
+    "birthday": "05-05",
+    "series": "天才麻将少女",
+    "cv": "白石凉子",
+    "image": "assets/images/染谷真子.jpg"
+  },
+  {
+    "name": "妮娜·弗多拿",
+    "romaji": "Nina Fortner",
+    "birthday": "05-05",
+    "series": "MONSTER",
+    "cv": "能登麻美子",
+    "image": "assets/images/妮娜·弗多拿.webp"
+  },
+  {
+    "name": "水濑伊织",
+    "romaji": "Minase Iori",
+    "birthday": "05-05",
+    "series": "偶像大师",
+    "cv": "钉宫理惠",
+    "image": "assets/images/水濑伊织.jpg"
+  },
+  {
+    "name": "杰·富力士",
+    "romaji": "Gon Freecss",
+    "birthday": "05-05",
+    "series": "全职猎人",
+    "cv": "竹内顺子",
+    "image": "assets/images/杰·富力士.jpg"
+  },
+  {
+    "name": "迪达拉",
+    "romaji": "Deidara",
+    "birthday": "05-05",
+    "series": "火影忍者",
+    "cv": "川本克彦",
+    "image": "assets/images/迪达拉.jpg"
+  },
+  {
+    "name": "赛门·布里兹涅夫",
+    "romaji": "Simon Brezhnev",
+    "birthday": "05-05",
+    "series": "无头骑士异闻录",
+    "cv": "黑田崇矢",
+    "image": "assets/images/赛门·布里兹涅夫.jpeg"
+  },
+  {
+    "name": "望月纪奈子",
+    "romaji": "Mochizuki Kinako",
+    "birthday": "05-05",
+    "series": "我们没有翅膀",
+    "cv": "后藤麻衣",
+    "image": "assets/images/望月纪奈子.jpg"
+  },
+  {
+    "name": "由乃",
+    "romaji": "Yuno",
+    "birthday": "05-05",
+    "series": "向阳素描",
+    "cv": "松来未祐",
+    "image": "assets/images/由乃.jpg"
+  },
+  {
+    "name": "八汐海翔",
+    "romaji": "Yashio Kaito",
+    "birthday": "05-05",
+    "series": "机器人笔记",
+    "cv": "木村良平",
+    "image": "assets/images/八汐海翔.jpg"
+  },
+  {
+    "name": "天宝院游骑",
+    "romaji": "Tenbouin Yuuki",
+    "birthday": "05-05",
+    "series": "法外制裁者",
+    "cv": "丰永利行",
+    "image": "assets/images/天宝院游骑.jpg"
+  },
+  {
+    "name": "河嶋桃",
+    "romaji": "Kawajima Momo",
+    "birthday": "05-05",
+    "series": "少女与战车",
+    "cv": "上坂堇",
+    "image": "assets/images/河嶋桃.jpg"
+  },
+  {
+    "name": "十神白夜",
+    "romaji": "Togami Byakuya",
+    "birthday": "05-05",
+    "series": "弹丸论破",
+    "cv": "石田彰",
+    "image": "assets/images/十神白夜.jpg"
+  },
+  {
+    "name": "波岛出海",
+    "romaji": "Hashima Izumi",
+    "birthday": "05-05",
+    "series": "路人女主的养成方法",
+    "cv": "赤﨑千夏",
+    "image": "assets/images/波岛出海.jpeg"
+  },
+  {
+    "name": "天上院明日香",
+    "romaji": "Tenjoin Asuka",
+    "birthday": "05-05",
+    "series": "游戏王GX",
+    "cv": "小林沙苗",
+    "image": "assets/images/天上院明日香.jpg"
+  },
+  {
+    "name": "火野莱卡",
+    "romaji": "Hino Raika",
+    "birthday": "05-05",
+    "series": "绯弹的亚里亚AA",
+    "cv": "沼仓爱美",
+    "image": "assets/images/火野莱卡.jpg"
+  },
+  {
+    "name": "萌咲莓",
+    "romaji": "Moe Saki Ichigo",
+    "birthday": "05-05",
+    "series": "那就是声优！",
+    "cv": "长久友纪",
+    "image": "assets/images/萌咲莓.jpg"
+  },
+  {
+    "name": "梓·B·麦克拉伦",
+    "romaji": "Azusa B. McLaren",
+    "birthday": "05-05",
+    "series": "水星领航员",
+    "cv": "中林芽依",
+    "image": "assets/images/梓·B·麦克拉伦.jpg"
+  },
+  {
+    "name": "岬太郎",
+    "romaji": "Misaki Tarou",
+    "birthday": "05-05",
+    "series": "足球小将",
+    "cv": "山中真寻",
+    "image": "assets/images/岬太郎.jpg"
+  },
+  {
+    "name": "中岛敦",
+    "romaji": "Nakajima Atsushi",
+    "birthday": "05-05",
+    "series": "文豪野犬",
+    "cv": "上村祐翔",
+    "image": "assets/images/中岛敦.jpg"
+  },
+  {
+    "name": "阿形胜平",
+    "romaji": "Agata Kappei",
+    "birthday": "05-05",
+    "series": "羁绊者",
+    "cv": "梶裕贵",
+    "image": "assets/images/阿形胜平.jpeg"
+  },
+  {
+    "name": "樱宁宁",
+    "romaji": "Sakura Nene",
+    "birthday": "05-05",
+    "series": "NEW GAME!",
+    "cv": "朝日奈丸佳",
+    "image": "assets/images/樱宁宁.jpg"
+  },
+  {
+    "name": "太田",
+    "romaji": "Oota",
+    "birthday": "05-05",
+    "series": "田中君总是如此慵懒",
+    "cv": "小野大辅",
+    "image": "assets/images/太田.jpg"
+  },
+  {
+    "name": "蜜蜜·帕尔巴顿",
+    "romaji": "Mimi Pearlbaton",
+    "birthday": "05-05",
+    "series": "Re：从零开始的异世界生活",
+    "cv": "村川梨衣",
+    "image": "assets/images/蜜蜜·帕尔巴顿.jpg"
+  },
+  {
+    "name": "泷谷真",
+    "romaji": "Takiya Makoto",
+    "birthday": "05-05",
+    "series": "小林家的龙女仆",
+    "cv": "中村悠一",
+    "image": "assets/images/泷谷真.jpg"
+  },
+   {
+    "name": "王梅",
+    "romaji": "Wang Mei",
+    "birthday": "05-05",
+    "series": "百变之星",
+    "cv": "折笠富美子",
+    "image": "assets/images/王梅.jpg"
+  },
+  {
+    "name": "迪诺",
+    "romaji": "Dino",
+    "birthday": "05-05",
+    "series": "调教咖啡厅",
+    "cv": "前野智昭",
+    "image": "assets/images/迪诺.webp"
+  },
+  {
+    "name": "中野一花",
+    "romaji": "Nakano Ichika",
+    "birthday": "05-05",
+    "series": "五等分的新娘",
+    "cv": "花泽香菜",
+    "image": "assets/images/中野一花.jpg"
+  },
+  {
+    "name": "中野二乃",
+    "romaji": "Nakano Nino",
+    "birthday": "05-05",
+    "series": "五等分的新娘",
+    "cv": "竹达彩奈",
+    "image": "assets/images/中野二乃.jpg"
+  },
+  {
+    "name": "中野三玖",
+    "romaji": "Nakano Miku",
+    "birthday": "05-05",
+    "series": "五等分的新娘",
+    "cv": "伊藤美来",
+    "image": "assets/images/中野三玖.jpg"
+  },
+  {
+    "name": "中野四叶",
+    "romaji": "Nakano Yotsuba",
+    "birthday": "05-05",
+    "series": "五等分的新娘",
+    "cv": "佐仓绫音",
+    "image": "assets/images/中野四叶.jpg"
+  },
+  {
+    "name": "中野五月",
+    "romaji": "Nakano Itsuki",
+    "birthday": "05-05",
+    "series": "五等分的新娘",
+    "cv": "水濑祈",
+    "image": "assets/images/中野五月.jpg"
+  },
+  {
+    "name": "一里波奇",
+    "romaji": "Hitori Bocchi",
+    "birthday": "05-05",
+    "series": "一个人的OO小日子",
+    "cv": "森下千咲",
+    "image": "assets/images/一里波奇.jpg"
+  },
+  {
+    "name": "伊井野弥子",
+    "romaji": "Iino Miko",
+    "birthday": "05-05",
+    "series": "辉夜大小姐想让我告白",
+    "cv": "富田美忧",
+    "image": "assets/images/伊井野弥子.jpg"
+  },
+  {
+    "name": "彼方·星岛",
+    "romaji": "Kanata Hoshijima",
+    "birthday": "05-05",
+    "series": "彼方的阿斯特拉",
+    "cv": "细谷佳正",
+    "image": "assets/images/彼方·星岛.jpg"
+  },
+  {
+    "name": "关野露子",
+    "romaji": "Sekino Roko",
+    "birthday": "05-05",
+    "series": "满溢的水果挞",
+    "cv": "和气杏未",
+    "image": "assets/images/关野露子.jpg"
+  },
+  {
+    "name": "由崎星空",
+    "romaji": "Yuzaki Nasa",
+    "birthday": "05-05",
+    "series": "总之就是非常可爱",
+    "cv": "榎木淳弥",
+    "image": "assets/images/由崎星空.jpg"
+  },
+  {
+    "name": "大川村宁",
+    "romaji": "Okawamura Nei",
+    "birthday": "05-05",
+    "series": "魔都精兵的奴隶",
+    "cv": "立花日菜",
+    "image": "assets/images/大川村宁.jpeg"
+  },
+  {
+    "name": "大友荣作",
+    "romaji": "Ootomo Eisaku",
+    "birthday": "05-05",
+    "series": "青之芦苇",
+    "cv": "村濑步",
+    "image": "assets/images/大友荣作.jpg"
+  },
+  {
+    "name": "天乃莉莉纱",
+    "romaji": "Amano Ririsa",
+    "birthday": "05-05",
+    "series": "2.5次元的诱惑",
+    "cv": "前田佳织里",
+    "image": "assets/images/天乃莉莉纱.jpg"
+  },
+  {
+    "name": "高桥蓬",
+    "romaji": "Takahashi Yomogi",
+    "birthday": "05-05",
+    "series": "顶点!!!!!!!!!!!!!!!",
+    "cv": "富田美忧",
+    "image": "assets/images/高桥蓬.jpg"
+  },
+  {
+    "name": "白河千岁",
+    "romaji": "Shirakawa Chitose",
+    "birthday": "05-05",
+    "series": "关于邻家的天使大人",
+    "cv": "白石晴香",
+    "image": "assets/images/白河千岁.jpg"
+  },
+  {
+    "name": "樱花朝日",
+    "romaji": "Ouka Asahi",
+    "birthday": "05-05",
+    "series": "别当欧尼酱了！",
+    "cv": "石原夏织",
+    "image": "assets/images/樱花朝日.jpg"
+  },
+  {
+    "name": "大谷稳花",
+    "romaji": "Ootani Monaka",
+    "birthday": "05-05",
+    "series": "亦叶亦花",
+    "cv": "石见舞菜香",
+    "image": "assets/images/大谷稳花.jpeg"
+  },
+  {
+    "name": "瓦拉克·克拉拉",
+    "romaji": "Valac Clara",
+    "birthday": "05-05",
+    "series": "入间同学入魔了",
+    "cv": "朝井彩加",
+    "image": "assets/images/瓦拉克·克拉拉.jpg"
+  },
+  {
+    "name": "北河阿卡莉",
+    "romaji": "Kitagawa Akari",
+    "birthday": "05-05",
+    "series": "创刻的动脉",
+    "cv": "水桐けいと",
+    "image": "assets/images/北河阿卡莉.jpeg"
+  },
+  {
+    "name": "榊千鹤",
+    "romaji": "Sakaki Chizuru",
+    "birthday": "05-05",
+    "series": "Muv-Luv",
+    "cv": "高柳香帆",
+    "image": "assets/images/榊千鹤.jpg"
+  },
+  {
+    "name": "曾根原莲",
+    "romaji": "Sonehara Ren",
+    "birthday": "05-05",
+    "series": "卡卢玛卢卡＊同好会",
+    "cv": "森谷实园",
+    "image": "assets/images/曾根原莲.jpeg"
+  },
+  {
+    "name": "间宫良太",
+    "romaji": "Mamiya Ryouta",
+    "birthday": "05-05",
+    "series": "间宫家的五子情事",
+    "cv": "",
+    "image": "assets/images/间宫良太.jpg"
+  },
+  {
+    "name": "间宫音琴",
+    "romaji": "Mamiya Nekoto",
+    "birthday": "05-05",
+    "series": "间宫家的五子情事",
+    "cv": "白野みゆき",
+    "image": "assets/images/间宫音琴.jpg"
+  },
+  {
+    "name": "间宫八云",
+    "romaji": "Mamiya Yakumo",
+    "birthday": "05-05",
+    "series": "间宫家的五子情事",
+    "cv": "小鸟居夕花",
+    "image": "assets/images/间宫八云.png"
+  },
+  {
+    "name": "间宫萌莉",
+    "romaji": "Mamiya Moe",
+    "birthday": "05-05",
+    "series": "间宫家的五子情事",
+    "cv": "樱乃日和",
+    "image": "assets/images/间宫萌莉.jpeg"
+  },
+  {
+    "name": "间宫珠音",
+    "romaji": "Mamiya Tama",
+    "birthday": "05-05",
+    "series": "间宫家的五子情事",
+    "cv": "月城真菜",
+    "image": "assets/images/间宫珠音.jpeg"
+  },
+  {
+    "name": "月ヶ洞きらり",
+    "romaji": "Tsukigadou Kirari",
+    "birthday": "05-05",
+    "series": "在月之彼岸邂逅",
+    "cv": "手塚りょうこ",
+    "image": "assets/images/月ヶ洞きらり.png"
+  },
+  {
+    "name": "绫目七夕莉",
+    "romaji": "Ayame Nayuri",
+    "birthday": "05-05",
+    "series": "不可视之药与坎坷的命运",
+    "cv": "那须那百合",
+    "image": "assets/images/绫目七夕莉.jpeg"
+  },
+  {
+    "name": "水无月あいる",
+    "romaji": "Minazuki Airu",
+    "birthday": "05-05",
+    "series": "我家大小姐不懂妖怪的常识",
+    "cv": "暂无qwq",
+    "image": "assets/images/水无月あいる.jpg"
+  },
+  {
+    "name": "雨（糖糖）",
+    "romaji": "Ame（Tou Tou）",
+    "birthday": "05-05",
+    "series": "主播女孩重度依赖",
+    "cv": "暂无qwq",
+    "image": "assets/images/雨（糖糖）.jpeg"
+  },
+  {
+    "name": "有濑あてな",
+    "romaji": "Arise Atena",
+    "birthday": "05-05",
+    "series": "AMBITIOUS MISSION",
+    "cv": "小高志季",
+    "image": "assets/images/有濑あてな.jpeg"
+  },
+  {
+    "name": "一色奏命",
+    "romaji": "Isshiki Kaname",
+    "birthday": "05-05",
+    "series": "天选庶民的真命之选",
+    "cv": "奏雨",
+    "image": "assets/images/一色奏命.jpeg"
   }
 ]
