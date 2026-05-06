@@ -1590,5 +1590,77 @@
     "series": "天选庶民的真命之选",
     "cv": "奏雨",
     "image": "assets/images/一色奏命.jpeg"
+  },
+  {
+    "name": "艾尼路",
+    "romaji": "Enel",
+    "birthday": "05-06",
+    "series": "海贼王",
+    "cv": "森川智之",
+    "image": "assets/images/艾尼路.jpg"
+  },
+  {
+    "name": "日野秋晴",
+    "romaji": "Hino Akiharu",
+    "birthday": "05-06",
+    "series": "管家后宫学园",
+    "cv": "兴津和幸",
+    "image": "assets/images/日野秋晴.jpg"
+  },
+  {
+    "name": "狭间绮罗罗",
+    "romaji": "Hasama Kirara",
+    "birthday": "05-06",
+    "series": "暗杀教室",
+    "cv": "斋藤枫子",
+    "image": "assets/images/狭间绮罗罗.jpg"
+  },
+  {
+    "name": "目白多伯",
+    "romaji": "Mejiro Dobber",
+    "birthday": "05-06",
+    "series": "赛马娘 Pretty Derby",
+    "cv": "久保田光",
+    "image": "assets/images/目白多伯.jpg"
+  },
+  {
+    "name": "可蕾娜·库克米拉",
+    "romaji": "Kurena Kukumira",
+    "birthday": "05-06",
+    "series": "86 -不存在的战区-",
+    "cv": "赤尾光",
+    "image": "assets/images/可蕾娜·库克米拉.jpg"
+  },
+  {
+    "name": "凪诚士郎",
+    "romaji": "Nagi Seishirou",
+    "birthday": "05-06",
+    "series": "蓝色监狱",
+    "cv": "岛崎信长",
+    "image": "assets/images/凪诚士郎.jpg"
+  },
+  {
+    "name": "橘茜",
+    "romaji": "Tachibana Akane",
+    "birthday": "05-06",
+    "series": "欢迎来到实力至上主义的教室",
+    "cv": "小原好美",
+    "image": "assets/images/橘茜.jpg"
+  },
+  {
+    "name": "新堂明佳",
+    "romaji": "Shindou Akira",
+    "birthday": "05-06",
+    "series": "选择妻子的进展似乎顺利过头",
+    "cv": "暂无qwq",
+    "image": "assets/images/新堂明佳.jpeg"
+  },
+  {
+    "name": "羽加道静音",
+    "romaji": "Hakamichi Shizune",
+    "birthday": "05-06",
+    "series": "片轮少女",
+    "cv": "暂无qwq",
+    "image": "assets/images/羽加道静音.jpg"
   }
 ]
