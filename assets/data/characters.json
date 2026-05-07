@@ -1662,5 +1662,141 @@
     "series": "片轮少女",
     "cv": "暂无qwq",
     "image": "assets/images/羽加道静音.jpg"
+  },
+  {
+    "name": "春日井甲洋",
+    "romaji": "Kasugai Kouyou",
+    "birthday": "05-07",
+    "series": "苍穹之法芙娜",
+    "cv": "入野自由",
+    "image": "assets/images/春日井甲洋.jpg"
+  },
+  {
+    "name": "花井春树",
+    "romaji": "Hanai Haruki",
+    "birthday": "05-07",
+    "series": "校园迷糊大王",
+    "cv": "川田绅司",
+    "image": "assets/images/花井春树.png"
+  },
+  {
+    "name": "五月七日小羽",
+    "romaji": "Tsuyuri Kohane",
+    "birthday": "05-07",
+    "series": "xxxHOLiC",
+    "cv": "日高里菜",
+    "image": "assets/images/五月七日小羽.jpg"
+  },
+  {
+    "name": "日暮戈薇",
+    "romaji": "Higurashi Kagome",
+    "birthday": "05-07",
+    "series": "犬夜叉",
+    "cv": "雪野五月",
+    "image": "assets/images/日暮戈薇.png"
+  },
+  {
+    "name": "备长炭",
+    "romaji": "Binchoutan",
+    "birthday": "05-07",
+    "series": "备长炭",
+    "cv": "野中蓝",
+    "image": "assets/images/备长炭.jpg"
+  },
+  {
+    "name": "大槻唯",
+    "romaji": "Ootsuki Yui",
+    "birthday": "05-07",
+    "series": "偶像大师 灰姑娘女孩",
+    "cv": "山下七海",
+    "image": "assets/images/大槻唯.jpg"
+  },
+  {
+    "name": "威尔海姆·梵·阿斯特雷亚",
+    "romaji": "Wilhelm van Astrea",
+    "birthday": "05-07",
+    "series": "Re：从零开始的异世界生活",
+    "cv": "堀内贤雄",
+    "image": "assets/images/威尔海姆·梵·阿斯特雷亚.jpg"
+  },
+  {
+    "name": "野之尾盛夏",
+    "romaji": "Nonoo Seika",
+    "birthday": "05-07",
+    "series": "重启咲良田",
+    "cv": "三泽纱千香",
+    "image": "assets/images/野之尾盛夏.jpg"
+  },
+  {
+    "name": "待兼诗歌剧",
+    "romaji": "Machikane Tanhoiza",
+    "birthday": "05-07",
+    "series": "赛马娘 Pretty Derby",
+    "cv": "远野光",
+    "image": "assets/images/待兼诗歌剧.png"
+  },
+  {
+    "name": "森林宝穴",
+    "romaji": "Shinrin Takaraboko",
+    "birthday": "05-07",
+    "series": "赛马娘 Pretty Derby 新时代之门",
+    "cv": "藤本侑里",
+    "image": "assets/images/森林宝穴.png"
+  },
+  {
+    "name": "春山花奈",
+    "romaji": "Haruyama Kana",
+    "birthday": "05-07",
+    "series": "群花绽放，彷如修罗",
+    "cv": "藤寺美徳",
+    "image": "assets/images/春山花奈.jpg"
+  },
+  {
+    "name": "片濑雪希",
+    "romaji": "Katase Yuki",
+    "birthday": "05-07",
+    "series": "水色",
+    "cv": "绫川梨乃",
+    "image": "assets/images/片濑雪希.jpg"
+  },
+  {
+    "name": "柊千夜子",
+    "romaji": "Hiragi Chiyako",
+    "birthday": "05-07",
+    "series": "亲吻、魔王、与红茶",
+    "cv": "木村あやか",
+    "image": "assets/images/柊千夜子.jpg"
+  },
+  {
+    "name": "绵贯露里",
+    "romaji": "Watanuki Tsuyuri",
+    "birthday": "05-07",
+    "series": "甘神大人的糖浆恋祭",
+    "cv": "奏雨",
+    "image": "assets/images/绵贯露里.jpg"
+  },
+  {
+    "name": "藤宫翠",
+    "romaji": "Fujimiya Midori",
+    "birthday": "05-07",
+    "series": "望见青空之丘",
+    "cv": "加賀ヒカル",
+    "image": "assets/images/藤宫翠.jpg"
+  },
+  {
+    "name": "夏洛特·斯可波夫斯加",
+    "romaji": "Charlotte Skobovskaya",
+    "birthday": "05-07",
+    "series": "炽焰天穹",
+    "cv": "会泽纱弥",
+    "image": "assets/images/夏洛特·斯可波夫斯加.jpeg"
+  },
+  {
+    "name": "多田光良",
+    "romaji": "Tada Mitsuyoshi",
+    "birthday": "05-07",
+    "series": "多田君不恋爱",
+    "cv": "中村悠一",
+    "image": "assets/images/多田光良.jpg"
   }
 ]
