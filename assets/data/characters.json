@@ -1798,5 +1798,101 @@
     "series": "多田君不恋爱",
     "cv": "中村悠一",
     "image": "assets/images/多田光良.jpg"
+  },
+   {
+    "name": "赤夜萌香",
+    "romaji": "Akashiya Moka",
+    "birthday": "05-08",
+    "series": "十字架与吸血鬼",
+    "cv": "水树奈奈",
+    "image": "assets/images/赤夜萌香.jpg"
+  },
+  {
+    "name": "岩濑爱子",
+    "romaji": "Iwase Aiko",
+    "birthday": "05-08",
+    "series": "爆漫王。",
+    "cv": "藤村歩",
+    "image": "assets/images/岩濑爱子.png"
+  },
+  {
+    "name": "菲",
+    "romaji": "Fee Carmichael",
+    "birthday": "05-08",
+    "series": "星空清理者",
+    "cv": "折笠愛",
+    "image": "assets/images/菲.jpg"
+  },
+  {
+    "name": "樱桃子",
+    "romaji": "Sakura Momoko",
+    "birthday": "05-08",
+    "series": "樱桃小丸子",
+    "cv": "TARAKO",
+    "image": "assets/images/樱桃子.jpg"
+  },
+  {
+    "name": "黑木未知",
+    "romaji": "Kuroki Michi",
+    "birthday": "05-08",
+    "series": "野良和皇女和流浪猫之心",
+    "cv": "遥そら",
+    "image": "assets/images/黑木未知.jpg"
+  },
+  {
+    "name": "根岛由佳吏",
+    "romaji": "Nejima Yukari",
+    "birthday": "05-08",
+    "series": "恋爱禁止的世界",
+    "cv": "逢坂良太",
+    "image": "assets/images/根岛由佳吏.jpg"
+  },
+  {
+    "name": "网代慎平",
+    "romaji": "Ajiro Shinpei",
+    "birthday": "05-08",
+    "series": "夏日重现",
+    "cv": "花江夏树",
+    "image": "assets/images/网代慎平.jpg"
+  },
+  {
+    "name": "圣园未花",
+    "romaji": "Misono Mika",
+    "birthday": "05-08",
+    "series": "蔚蓝档案",
+    "cv": "东山奈央",
+    "image": "assets/images/圣园未花.png"
+  },
+  {
+    "name": "岛津澪",
+    "romaji": "Shimazu Mio",
+    "birthday": "05-08",
+    "series": "在世界尽头咏唱恋曲的少女YU-NO",
+    "cv": "钉宫理惠",
+    "image": "assets/images/岛津澪.jpg"
+  },
+  {
+    "name": "狮堂紫音",
+    "romaji": "Shido Shion",
+    "birthday": "05-08",
+    "series": "创作彼女的恋爱方程式",
+    "cv": "鸟丸空",
+    "image": "assets/images/狮堂紫音.webg"
+  },
+  {
+    "name": "狮堂悠真",
+    "romaji": "Shido Yuma",
+    "birthday": "05-08",
+    "series": "创作彼女的恋爱方程式",
+    "cv": "四葉ヨウ",
+    "image": "assets/images/狮堂悠真.webg"
+  },
+  {
+    "name": "一之濑美樱",
+    "romaji": "Ichinose Mio",
+    "birthday": "05-08",
+    "series": "恋花绽放樱飞时",
+    "cv": "绫部结花",
+    "image": "assets/images/一之濑美樱.jpg"
   }
 ]
