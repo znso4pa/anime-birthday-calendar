@@ -1894,5 +1894,141 @@
     "series": "恋花绽放樱飞时",
     "cv": "绫部结花",
     "image": "assets/images/一之濑美樱.jpg"
+  },
+  {
+    "name": "短笛",
+    "romaji": "Piccolo",
+    "birthday": "05-09",
+    "series": "龙珠",
+    "cv": "古川登志夫",
+    "image": "assets/images/短笛.jpg"
+  },
+  {
+    "name": "山口贤二",
+    "romaji": "Yamaguchi Kenji",
+    "birthday": "05-09",
+    "series": "邻座的怪同学",
+    "cv": "铃木千寻",
+    "image": "assets/images/山口贤二.jpg"
+  },
+  {
+    "name": "户冢彩加",
+    "romaji": "Totsuka Saika",
+    "birthday": "05-09",
+    "series": "我的青春恋爱物语果然有问题",
+    "cv": "小松未可子",
+    "image": "assets/images/户冢彩加.jpg"
+  },
+  {
+    "name": "森友望未",
+    "romaji": "Moritomo Nozomi",
+    "birthday": "05-09",
+    "series": "旋转少女",
+    "cv": "小泽亚李",
+    "image": "assets/images/森友望未.jpg"
+  },
+  {
+    "name": "青马剑之介时贞",
+    "romaji": "Ouma Kennosuke Tokisada",
+    "birthday": "05-09",
+    "series": "黑色残骸",
+    "cv": "阿座上洋平",
+    "image": "assets/images/青马剑之介时贞.jpg"
+  },
+  {
+    "name": "燃堂力",
+    "romaji": "Nendou Riki",
+    "birthday": "05-09",
+    "series": "齐木楠雄的灾难",
+    "cv": "小野大辅",
+    "image": "assets/images/燃堂力.jpg"
+  },
+  {
+    "name": "楠芽吹",
+    "romaji": "Kusunoki Mebuki",
+    "birthday": "05-09",
+    "series": "结城友奈是勇者",
+    "cv": "田中美海",
+    "image": "assets/images/楠芽吹.jpg"
+  },
+  {
+    "name": "天谷睦",
+    "romaji": "Amaya Mutsumi",
+    "birthday": "05-09",
+    "series": "你遭难了吗？",
+    "cv": "安野希世乃",
+    "image": "assets/images/天谷睦.jpg"
+  },
+  {
+    "name": "一奏",
+    "romaji": "Ninomae Kanade",
+    "birthday": "05-09",
+    "series": "女高中生的无所事事",
+    "cv": "高桥李依",
+    "image": "assets/images/一奏.jpg"
+  },
+  {
+    "name": "阿尔伯特·詹姆斯·莫里亚蒂",
+    "romaji": "Albert James Moriarty",
+    "birthday": "05-09",
+    "series": "忧国的莫里亚蒂",
+    "cv": "佐藤拓也",
+    "image": "assets/images/阿尔伯特·詹姆斯·莫里亚蒂.jpg"
+  },
+  {
+    "name": "万年岚子",
+    "romaji": "Mannen Ranko",
+    "birthday": "05-09",
+    "series": "秋叶原冥途战争",
+    "cv": "佐藤聪美",
+    "image": "assets/images/万年岚子.jpg"
+  },
+  {
+    "name": "天马咲希",
+    "romaji": "Tenma Saki",
+    "birthday": "05-09",
+    "series": "世界计划 缤纷舞台！",
+    "cv": "吉冈茉祐",
+    "image": "assets/images/天马咲希.jpg"
+  },
+  {
+    "name": "柚原春夏",
+    "romaji": "Yuzuhara Haruka",
+    "birthday": "05-09",
+    "series": "ToHeart2",
+    "cv": "落合祐里香",
+    "image": "assets/images/柚原春夏.jpg"
+  },
+  {
+    "name": "白崎细鱼",
+    "romaji": "Shirasaki Sayori",
+    "birthday": "05-09",
+    "series": "大图书馆的牧羊人",
+    "cv": "大地叶",
+    "image": "assets/images/白崎细鱼.jpg"
+  },
+  {
+    "name": "白金瑞姬",
+    "romaji": "Shirokane Mizuki",
+    "birthday": "05-09",
+    "series": "SPIRAL!!",
+    "cv": "藤咲兔",
+    "image": "assets/images/白金瑞姬.jpg"
+  },
+  {
+    "name": "音理",
+    "romaji": "Neri",
+    "birthday": "05-09",
+    "series": "星空列车与白的旅行",
+    "cv": "白月向日葵",
+    "image": "assets/images/音理.jpg"
+  },
+  {
+    "name": "見取沢碧",
+    "romaji": "Midorisawa Aoi",
+    "birthday": "05-09",
+    "series": "梦幻的提尔纳诺",
+    "cv": "小野涼子",
+    "image": "assets/images/見取沢碧.jpg"
   }
 ]

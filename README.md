@@ -9,6 +9,10 @@
 - 按日期查当天过生日的角色
 - 自动显示「今天谁生日」
 
+## 🤔 如何反馈
+
+znso4pa@gmail.com （或者网站最下方已经写好格式）
+
 ## 🛠️ 怎么用
 
 1. 打开网页
@@ -20,3 +24,4 @@
 git clone https://github.com/znso4pa/anime-birthday-calendar.git
 cd anime-birthday-calendar
 # 用 Live Server 打开 index.html
+
