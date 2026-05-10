@@ -2030,5 +2030,149 @@
     "series": "梦幻的提尔纳诺",
     "cv": "小野涼子",
     "image": "assets/images/見取沢碧.jpg"
+  },
+  {
+    "name": "奈濑明日美",
+    "romaji": "Nase Asumi",
+    "birthday": "05-10",
+    "series": "棋魂",
+    "cv": "榎本温子",
+    "image": "assets/images/奈濑明日美.jpg"
+  },
+  {
+    "name": "真中淳平",
+    "romaji": "Manaka Junpei",
+    "birthday": "05-10",
+    "series": "草莓100%",
+    "cv": "铃村健一",
+    "image": "assets/images/真中淳平.jpg"
+  },
+  {
+    "name": "岚山步鸟",
+    "romaji": "Arashiyama Hotori",
+    "birthday": "05-10",
+    "series": "女仆咖啡厅",
+    "cv": "小见川千明",
+    "image": "assets/images/岚山步鸟.jpg"
+  },
+  {
+    "name": "藤本狮郎",
+    "romaji": "Fujimoto Shirou",
+    "birthday": "05-10",
+    "series": "青之驱魔师",
+    "cv": "藤原启治",
+    "image": "assets/images/藤本狮郎.jpg"
+  },
+  {
+    "name": "园城寺怜",
+    "romaji": "Onjouji Toki",
+    "birthday": "05-10",
+    "series": "天才麻将少女",
+    "cv": "小仓唯",
+    "image": "assets/images/园城寺怜.jpg"
+  },
+  {
+    "name": "赤木刚宪",
+    "romaji": "Akagi Takenori",
+    "birthday": "05-10",
+    "series": "灌篮高手",
+    "cv": "三木真一郎",
+    "image": "assets/images/赤木刚宪.jpg"
+  },
+  {
+    "name": "粟屋麦",
+    "romaji": "Awaya Mugi",
+    "birthday": "05-10",
+    "series": "人渣的本愿",
+    "cv": "岛崎信长",
+    "image": "assets/images/粟屋麦.jpg"
+  },
+  {
+    "name": "鹿野修哉",
+    "romaji": "Kano Shuuya",
+    "birthday": "05-10",
+    "series": "目隐都市的演绎者",
+    "cv": "立花慎之介",
+    "image": "assets/images/鹿野修哉.jpg"
+  },
+  {
+    "name": "炼狱杏寿郎",
+    "romaji": "Rengoku Kyoujurou",
+    "birthday": "05-10",
+    "series": "鬼灭之刃",
+    "cv": "日野聪",
+    "image": "assets/images/炼狱杏寿郎.jpg"
+  },
+  {
+    "name": "星野日向",
+    "romaji": "Hoshino Hinata",
+    "birthday": "05-10",
+    "series": "天使降临到了我身边！",
+    "cv": "长江里加",
+    "image": "assets/images/星野日向.jpg"
+  },
+  {
+    "name": "龙宫寺坚",
+    "romaji": "Ryuguji Ken",
+    "birthday": "05-10",
+    "series": "东京复仇者",
+    "cv": "铃木达央",
+    "image": "assets/images/龙宫寺坚.jpeg"
+  },
+  {
+    "name": "八王子直人",
+    "romaji": "Hachiouji Naoto",
+    "birthday": "05-10",
+    "series": "不要欺负我，长瀞同学",
+    "cv": "山下大辉",
+    "image": "assets/images/八王子直人.jpg"
+  },
+  {
+    "name": "绪方英二",
+    "romaji": "Ogata Eiji",
+    "birthday": "05-10",
+    "series": "白色相簿",
+    "cv": "速水奖",
+    "image": "assets/images/绪方英二.jpg"
+  },
+  {
+    "name": "斯派克",
+    "romaji": "Spike",
+    "birthday": "05-10",
+    "series": "小马宝莉",
+    "cv": "Cathy Weseluck",
+    "image": "assets/images/斯派克.jpeg"
+  },
+  {
+    "name": "双叶妙",
+    "romaji": "Futaba Tsubame",
+    "birthday": "05-10",
+    "series": "政宗君的复仇",
+    "cv": "田所梓",
+    "image": "assets/images/双叶妙.jpg"
+  },
+  {
+    "name": "才川乔吉",
+    "romaji": "Saikawa George",
+    "birthday": "05-10",
+    "series": "小林家的龙女仆",
+    "cv": "后藤邑子",
+    "image": "assets/images/才川乔吉.jpg"
+  },
+  {
+    "name": "中岛由爱",
+    "romaji": "Nakajima Yume",
+    "birthday": "05-10",
+    "series": "雏子的笔记",
+    "cv": "高野麻里佳",
+    "image": "assets/images/中岛由爱.jpg"
+  },
+  {
+    "name": "樱井千景",
+    "romaji": "Sakurako Chikage",
+    "birthday": "05-10",
+    "series": "恋爱小行星",
+    "cv": "小原好美",
+    "image": "assets/images/樱井千景.jpg"
   }
 ]
