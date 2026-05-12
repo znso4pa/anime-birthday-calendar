@@ -2278,5 +2278,189 @@
     "series": "三色绘恋S",
     "cv": "可可味",
     "image": "assets/images/迟菓.jpeg"
+  },
+  {
+    "name": "宫小路瑞穗",
+    "romaji": "Miyanokouji Mizuho",
+    "birthday": "05-12",
+    "series": "少女爱上姐姐",
+    "cv": "神村比奈 / 堀江由衣（动画版）",
+    "image": "assets/images/宫小路瑞穗.jpg"
+  },
+  {
+    "name": "山本菜菜子",
+    "romaji": "Yamamoto Nanako",
+    "birthday": "05-12",
+    "series": "花丸幼稚园",
+    "cv": "叶月绘理乃",
+    "image": "assets/images/山本菜菜子.jpg"
+  },
+  {
+    "name": "麻仓叶",
+    "romaji": "Asakura Yoh",
+    "birthday": "05-12",
+    "series": "通灵王",
+    "cv": "佐藤佑子",
+    "image": "assets/images/麻仓叶.jpg"
+  },
+  {
+    "name": "春野姬",
+    "romaji": "Haruno Hime",
+    "birthday": "05-12",
+    "series": "一起一起这里那里",
+    "cv": "福原香织",
+    "image": "assets/images/春野姬.jpg"
+  },
+  {
+    "name": "罪木蜜柑",
+    "romaji": "Tsumiki Mikan",
+    "birthday": "05-12",
+    "series": "超级弹丸论破2",
+    "cv": "茅野爱衣",
+    "image": "assets/images/罪木蜜柑.jpg"
+  },
+  {
+    "name": "七海里音",
+    "romaji": "Nanami Rion",
+    "birthday": "05-12",
+    "series": "革命机Valvrave",
+    "cv": "堀江由衣",
+    "image": "assets/images/七海里音.jpg"
+  },
+  {
+    "name": "影山茂夫",
+    "romaji": "Kageyama Shigeo",
+    "birthday": "05-12",
+    "series": "灵能百分百",
+    "cv": "伊藤节生",
+    "image": "assets/images/影山茂夫.jpg"
+  },
+  {
+    "name": "麻仓叶王",
+    "romaji": "Asakura Hao",
+    "birthday": "05-12",
+    "series": "通灵王",
+    "cv": "高山南",
+    "image": "assets/images/麻仓叶王.jpg"
+  },
+  {
+    "name": "神凪绫乃",
+    "romaji": "Kannagi Ayano",
+    "birthday": "05-12",
+    "series": "风之圣痕",
+    "cv": "藤村步",
+    "image": "assets/images/神凪绫乃.jpg"
+  },
+  {
+    "name": "谷口晴美",
+    "romaji": "Taniguchi Harumi",
+    "birthday": "05-12",
+    "series": "citrus～柑橘味香气～",
+    "cv": "藤井雪代",
+    "image": "assets/images/谷口晴美.jpg"
+  },
+  {
+    "name": "绿川香枝",
+    "romaji": "Midorikawa Kae",
+    "birthday": "05-12",
+    "series": "宅饮。",
+    "cv": "千本木彩花",
+    "image": "assets/images/绿川香枝.jpg"
+  },
+  {
+    "name": "佐藤益木(masking)",
+    "romaji": "Sato Masuki",
+    "birthday": "05-12",
+    "series": "BanG Dream!",
+    "cv": "夏芽",
+    "image": "assets/images/佐藤益木.jpg"
+  },
+  {
+    "name": "宝月夜宵",
+    "romaji": "Hodzuki Yayoi",
+    "birthday": "05-12",
+    "series": "黑暗集会",
+    "cv": "筱原侑",
+    "image": "assets/images/宝月夜宵.jpg"
+  },
+  {
+    "name": "福元二叶",
+    "romaji": "Fukumoto Futaba",
+    "birthday": "05-12",
+    "series": "女孩的钓鱼慢活",
+    "cv": "指出毬亚",
+    "image": "assets/images/福元二叶.jpg"
+  },
+  {
+    "name": "花园羽羽里",
+    "romaji": "Hanazono Uto",
+    "birthday": "05-12",
+    "series": "超超超超超喜欢你的100个女朋友",
+    "cv": "上坂堇",
+    "image": "assets/images/花园羽羽里.jpg"
+  },
+  {
+    "name": "米斯伦",
+    "romaji": "Misurn",
+    "birthday": "05-12",
+    "series": "迷宫饭",
+    "cv": "内山昂辉",
+    "image": "assets/images/米斯伦.jpg"
+  },
+  {
+    "name": "伊藤大祐",
+    "romaji": "Ito Daisuke",
+    "birthday": "05-12",
+    "series": "秘密游戏",
+    "cv": "本多啓吾",
+    "image": "assets/images/伊藤大祐.jpg"
+  },
+  {
+    "name": "细谷春菜",
+    "romaji": "Hosoya Haruna",
+    "birthday": "05-12",
+    "series": "秘密游戏",
+    "cv": "瑞泽溪",
+    "image": "assets/images/细谷春菜.jpg"
+  },
+  {
+    "name": "成田真理",
+    "romaji": "Narita Mari",
+    "birthday": "05-12",
+    "series": "淑女同萌！",
+    "cv": "梅咲チャーリー",
+    "image": "assets/images/成田真理.jpeg"
+  },
+  {
+    "name": "神野菜穂子",
+    "romaji": "Kamino Naho",
+    "birthday": "05-12",
+    "series": "同一屋簷下，羽翼下的故事",
+    "cv": "暂无qwq",
+    "image": "assets/images/神野菜穂子.jpg"
+  },
+  {
+    "name": "光井瑠璃",
+    "romaji": "Mitsui Ruri",
+    "birthday": "05-12",
+    "series": "5分钟的邂逅！时间停止与不可避免的命运！",
+    "cv": "桃山いおん",
+    "image": "assets/images/光井瑠璃.jpg"
+  },
+  {
+    "name": "猫天宮花子",
+    "romaji": "Nekoamamiya Hanako",
+    "birthday": "05-12",
+    "series": "玉响未来",
+    "cv": "杏花",
+    "image": "assets/images/猫天宮花子.jpg"
+  },
+  {
+    "name": "高城冬羽",
+    "romaji": "Takagi Touwa",
+    "birthday": "05-12",
+    "series": "我的身体，变透明了！？不可视之药与坎坷的命运",
+    "cv": "七坂真理",
+    "image": "assets/images/高城冬羽.jpg"
   }
 ]
