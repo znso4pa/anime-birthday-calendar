@@ -2462,5 +2462,101 @@
     "series": "我的身体，变透明了！？不可视之药与坎坷的命运",
     "cv": "七坂真理",
     "image": "assets/images/高城冬羽.jpg"
+  },
+   {
+    "name": "一之濑琴美",
+    "romaji": "Ichinose Kotomi",
+    "birthday": "05-13",
+    "series": "CLANNAD",
+    "cv": "能登麻美子",
+    "image": "assets/images/一之濑琴美.jpg"
+  },
+  {
+    "name": "克比",
+    "romaji": "Koby",
+    "birthday": "05-13",
+    "series": "海贼王",
+    "cv": "土井美加",
+    "image": "assets/images/克比.webp"
+  },
+  {
+    "name": "西尔巴兹·雷利",
+    "romaji": "Silvers Rayleigh",
+    "birthday": "05-13",
+    "series": "海贼王",
+    "cv": "园部启一",
+    "image": "assets/images/西尔巴兹·雷利.jpg"
+  },
+  {
+    "name": "西撒·安东尼奥·齐佩利",
+    "romaji": "Caesar Anthonio Zeppeli",
+    "birthday": "05-13",
+    "series": "JOJO的奇妙冒险",
+    "cv": "杉山纪彰",
+    "image": "assets/images/西撒·安东尼奥·齐佩利.jpg"
+  },
+  {
+    "name": "大和赤骥",
+    "romaji": "Daiwa Scarlet",
+    "birthday": "05-13",
+    "series": "赛马娘 Pretty Derby",
+    "cv": "木村千咲",
+    "image": "assets/images/大和赤骥.jpg"
+  },
+  {
+    "name": "影森满",
+    "romaji": "Kagemori Michiru",
+    "birthday": "05-13",
+    "series": "动物新世代",
+    "cv": "诸星堇",
+    "image": "assets/images/影森满.jpg"
+  },
+  {
+    "name": "宫前乃乃亚",
+    "romaji": "Miyamae Nonoa",
+    "birthday": "05-13",
+    "series": "不时轻声地以俄语遮羞的邻座艾莉同学",
+    "cv": "青山吉能",
+    "image": "assets/images/宫前乃乃亚.jpg"
+  },
+  {
+    "name": "席翁·亚尔斯塔",
+    "romaji": "Shion Arista",
+    "birthday": "05-13",
+    "series": "杖与剑的魔剑谭",
+    "cv": "水中雅章",
+    "image": "assets/images/席翁·亚尔斯塔.jpg"
+  },
+  {
+    "name": "梅花十三",
+    "romaji": "Meihua Shisan",
+    "birthday": "05-13",
+    "series": "刺客伍六七",
+    "cv": "段艺璇",
+    "image": "assets/images/梅花十三.jpg"
+  },
+  {
+    "name": "大仓都子",
+    "romaji": "Okura Miyako",
+    "birthday": "05-13",
+    "series": "心跳回忆4",
+    "cv": "福圆美里",
+    "image": "assets/images/大仓都子.jpg"
+  },
+  {
+    "name": "森久保由那",
+    "romaji": "Morikubo Yuna",
+    "birthday": "05-13",
+    "series": "Berry's",
+    "cv": "遥空 (遥そら)",
+    "image": "assets/images/森久保由那.jpg"
+  },
+  {
+    "name": "锦桃",
+    "romaji": "Nishiki Momo",
+    "birthday": "05-13",
+    "series": "深层平行悖论 -平行世界里的理想乡-",
+    "cv": "苍依哈鲁 (蒼依ハル)",
+    "image": "assets/images/锦桃.jpg"
   }
 ]
