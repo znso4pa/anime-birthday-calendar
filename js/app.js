@@ -42,6 +42,14 @@ function escapeHtml(value) {
     .replace(/'/g, "&#39;");
 }
 
+function escapeJsString(value) {
+  return String(value || "")
+    .replace(/\\/g, "\\\\")
+    .replace(/'/g, "\\'")
+    .replace(/\n/g, "\\n")
+    .replace(/\r/g, "\\r");
+}
+
 function openLightbox(src, alt, title, subtitle, message) {
   lightbox.classList.add("visible");
   lightbox.setAttribute("aria-hidden", "false");
@@ -66,6 +74,7 @@ function openLightbox(src, alt, title, subtitle, message) {
 function closeLightbox() {
   lightbox.classList.remove("visible");
   lightbox.setAttribute("aria-hidden", "true");
+  lightboxImage.style.display = "";
   lightboxImage.src = "";
   lightboxMessage.textContent = "";
   lightboxMessage.classList.remove("visible");
@@ -90,7 +99,7 @@ function renderCards(list) {
           const cv = escapeHtml(c.cv || "未知");
           const imageSrc = String(c.image || "").trim();
           const imageTag = imageSrc
-            ? `<img src="${escapeHtml(imageSrc)}" alt="${name}" loading="lazy" class="card-image" onclick="openLightbox('${escapeHtml(imageSrc)}', '${escapeHtml(name)}', '${escapeHtml(name)}', '生日：${escapeHtml(birthday)} · 作品：${escapeHtml(series)} · CV：${escapeHtml(cv)}')" />`
+            ? `<img src="${escapeHtml(imageSrc)}" alt="${name}" loading="lazy" class="card-image" onclick="openLightbox('${escapeJsString(imageSrc)}', '${escapeJsString(c.name)}', '${escapeJsString(c.name)}', '生日：${escapeJsString(c.birthday || '未知')} · 作品：${escapeJsString(c.series || '未知')} · CV：${escapeJsString(c.cv || '未知')}')" />`
             : `<div class="card-image-missing" onclick="openLightbox('', '', '唉呀～没有找到图片呢', '是时候该告诉笨笨的制作者了', '唉呀～没有找到图片呢，是时候该告诉笨笨的制作者了')">唉呀～没有找到图片呢<br>是时候该告诉笨笨的制作者了</div>`;
           return `
         <article class="card">

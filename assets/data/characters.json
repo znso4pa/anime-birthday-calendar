@@ -2558,5 +2558,61 @@
     "series": "深层平行悖论 -平行世界里的理想乡-",
     "cv": "苍依哈鲁 (蒼依ハル)",
     "image": "assets/images/锦桃.jpg"
+  },
+  {
+    "name": "远见弓子",
+    "romaji": "Toomi Yumiko",
+    "birthday": "05-14",
+    "series": "苍穹之法芙娜",
+    "cv": "ゆかな",
+    "image": "assets/images/远见弓子.jpg"
+  },
+  {
+    "name": "雷欧纳鲁德·渥奇",
+    "romaji": "Leonardo Watch",
+    "birthday": "05-14",
+    "series": "血界战线",
+    "cv": "阪口大助",
+    "image": "assets/images/雷欧纳鲁德·渥奇.jpg"
+  },
+  {
+    "name": "齐木久留美",
+    "romaji": "Saiki Kurumi",
+    "birthday": "05-14",
+    "series": "齐木楠雄的灾难",
+    "cv": "爱河里花子",
+    "image": "assets/images/齐木久留美.jpg"
+  },
+  {
+    "name": "井浦基子",
+    "romaji": "Iura Motoko",
+    "birthday": "05-14",
+    "series": "堀与宫村",
+    "cv": "金元寿子",
+    "image": "assets/images/井浦基子.jpg"
+  },
+  {
+    "name": "水上莉莉",
+    "romaji": "Mizukami Lily",
+    "birthday": "05-14",
+    "series": "明日同学的水手服",
+    "cv": "石川由依",
+    "image": "assets/images/水上莉莉.png"
+  },
+  {
+    "name": "御樱禀",
+    "romaji": "Misakura Rin",
+    "birthday": "05-14",
+    "series": "樱之诗 - 在樱花之森上飞舞",
+    "cv": "ミルノ纯",
+    "image": "assets/images/御樱禀.jpg"
+  },
+  {
+    "name": "畔美岬",
+    "romaji": "Hotori Misaki",
+    "birthday": "05-14",
+    "series": "拔作岛",
+    "cv": "冈本理绘",
+    "image": "assets/images/畔美岬.jpg"
   }
 ]

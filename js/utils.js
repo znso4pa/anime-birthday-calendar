@@ -1,5 +1,5 @@
 function normalizeDate(value) {
-  const raw = String(value || "").trim().replace("/", "-").replace(".", "-");
+  const raw = String(value || "").trim().replace(/[\/\.]/g, "-");
   if (!raw) return "";
 
   const hit = raw.match(/^(\d{1,2})-(\d{1,2})$/);
