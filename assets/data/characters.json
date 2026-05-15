@@ -2614,5 +2614,101 @@
     "series": "拔作岛",
     "cv": "冈本理绘",
     "image": "assets/images/畔美岬.jpg"
+  },
+  {
+    "name": "风早翔太",
+    "romaji": "Kazehaya Shouta",
+    "birthday": "05-15",
+    "series": "好想告诉你",
+    "cv": "浪川大辅",
+    "image": "assets/images/风早翔太.jpg"
+  },
+  {
+    "name": "西泽步",
+    "romaji": "Nishizawa Ayumu",
+    "birthday": "05-15",
+    "series": "旋风管家",
+    "cv": "高桥美佳子",
+    "image": "assets/images/西泽步.jpg"
+  },
+  {
+    "name": "多轨透",
+    "romaji": "Taki Tooru",
+    "birthday": "05-15",
+    "series": "夏目友人帐",
+    "cv": "佐藤利奈",
+    "image": "assets/images/多轨透.jpg"
+  },
+  {
+    "name": "邦枝葵",
+    "romaji": "Kunieda Aoi",
+    "birthday": "05-15",
+    "series": "恶魔奶爸",
+    "cv": "丰崎爱生",
+    "image": "assets/images/邦枝葵.jpg"
+  },
+  {
+    "name": "髅髅宫歌留多",
+    "romaji": "Roromiya Karuta",
+    "birthday": "05-15",
+    "series": "妖狐×仆SS",
+    "cv": "花泽香菜",
+    "image": "assets/images/髅髅宫歌留多.jpg"
+  },
+  {
+    "name": "泽村荣纯",
+    "romaji": "Sawamura Eijun",
+    "birthday": "05-15",
+    "series": "钻石王牌",
+    "cv": "逢坂良太",
+    "image": "assets/images/泽村荣纯.jpg"
+  },
+  {
+    "name": "七濑佳乃",
+    "romaji": "Nanase Yoshino",
+    "birthday": "05-15",
+    "series": "Wake Up, Girls!",
+    "cv": "青山吉能",
+    "image": "assets/images/七濑佳乃.jpg"
+  },
+  {
+    "name": "高坂丽奈",
+    "romaji": "Kousaka Reina",
+    "birthday": "05-15",
+    "series": "吹响吧！上低音号",
+    "cv": "安济知佳",
+    "image": "assets/images/高坂丽奈.jpg"
+  },
+  {
+    "name": "安部菜菜",
+    "romaji": "Abe Nana",
+    "birthday": "05-15",
+    "series": "偶像大师 灰姑娘女孩",
+    "cv": "三宅麻理惠",
+    "image": "assets/images/安部菜菜.jpg"
+  },
+  {
+    "name": "蓝野阿克娅",
+    "romaji": "Aino Akua",
+    "birthday": "05-15",
+    "series": "恋爱暴君",
+    "cv": "高桥李依",
+    "image": "assets/images/蓝野阿克娅.jpg"
+  },
+  {
+    "name": "古波藏艾莲",
+    "romaji": "Kohakuren Eren",
+    "birthday": "05-15",
+    "series": "刀使的巫女",
+    "cv": "铃木绘理",
+    "image": "assets/images/古波藏艾莲.jpg"
+  },
+  {
+    "name": "二阶堂咲",
+    "romaji": "Nikaidou Saki",
+    "birthday": "05-15",
+    "series": "佐贺偶像是传奇",
+    "cv": "田野麻美",
+    "image": "assets/images/二阶堂咲.jpg"
   }
 ]
