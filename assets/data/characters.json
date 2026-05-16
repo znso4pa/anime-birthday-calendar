@@ -2710,5 +2710,61 @@
     "series": "佐贺偶像是传奇",
     "cv": "田野麻美",
     "image": "assets/images/二阶堂咲.jpg"
+  },
+  {
+    "name": "日向顺平",
+    "romaji": "Hyuuga Junpei",
+    "birthday": "05-16",
+    "series": "黑子的篮球",
+    "cv": "细谷佳正",
+    "image": "assets/images/日向顺平.jpg"
+  },
+  {
+    "name": "鸣海燕",
+    "romaji": "Narumi Tsubame",
+    "birthday": "05-16",
+    "series": "NEW GAME!",
+    "cv": "大和田仁美",
+    "image": "assets/images/鸣海燕.jpg"
+  },
+  {
+    "name": "凡妮莎·艾诺泰卡",
+    "romaji": "Vanessa Enoteca",
+    "birthday": "05-16",
+    "series": "黑色五叶草",
+    "cv": "水树奈奈",
+    "image": "assets/images/凡妮莎·艾诺泰卡.jpg"
+  },
+  {
+    "name": "家永佳乃",
+    "romaji": "Ienaga Kano",
+    "birthday": "05-16",
+    "series": "黄金神威",
+    "cv": "大原沙耶香",
+    "image": "assets/images/家永佳乃.jpg"
+  },
+  {
+    "name": "虾夷夜云",
+    "romaji": "Ezo Yakumo",
+    "birthday": "05-16",
+    "series": "魔都精兵的奴隶",
+    "cv": "和泉风花",
+    "image": "assets/images/虾夷夜云.jpg"
+  },
+  {
+    "name": "稻月望",
+    "romaji": "Inazuki Nozomi",
+    "birthday": "05-16",
+    "series": "我们的雨色协议",
+    "cv": "水濑祈",
+    "image": "assets/images/稻月望.jpg"
+  },
+  {
+    "name": "砂狼白子",
+    "romaji": "Sunaookami Shiroko",
+    "birthday": "05-16",
+    "series": "蔚蓝档案",
+    "cv": "小仓唯",
+    "image": "assets/images/砂狼白子.jpg"
   }
 ]
