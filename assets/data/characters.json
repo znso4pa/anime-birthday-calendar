@@ -2766,5 +2766,149 @@
     "series": "蔚蓝档案",
     "cv": "小仓唯",
     "image": "assets/images/砂狼白子.jpg"
+  },
+   {
+    "name": "三桥廉",
+    "romaji": "Mihashi Ren",
+    "birthday": "05-17",
+    "series": "王牌投手 振臂高挥",
+    "cv": "代永翼",
+    "image": "assets/images/三桥廉.jpg"
+  },
+  {
+    "name": "新子憧",
+    "romaji": "Atarashi Ako",
+    "birthday": "05-17",
+    "series": "天才麻将少女 阿知贺篇",
+    "cv": "东山奈央",
+    "image": "assets/images/新子憧.jpg"
+  },
+  {
+    "name": "星河星罗",
+    "romaji": "Hoshikawa Seira",
+    "birthday": "05-17",
+    "series": "穿透幻影的太阳",
+    "cv": "喜多村英梨",
+    "image": "assets/images/星河星罗.jpg"
+  },
+  {
+    "name": "仓持洋一",
+    "romaji": "Kuramochi Youichi",
+    "birthday": "05-17",
+    "series": "钻石王牌",
+    "cv": "浅沼晋太郎",
+    "image": "assets/images/仓持洋一.jpg"
+  },
+  {
+    "name": "藤崎明",
+    "romaji": "Fujisaki Akari",
+    "birthday": "05-17",
+    "series": "棋魂",
+    "cv": "嘉数由美",
+    "image": "assets/images/藤崎明.jpg"
+  },
+  {
+    "name": "北上丽花",
+    "romaji": "Kitakami Reika",
+    "birthday": "05-17",
+    "series": "偶像大师 百万现场！",
+    "cv": "平山笑美",
+    "image": "assets/images/北上丽花.jpg"
+  },
+  {
+    "name": "青叶风音",
+    "romaji": "Aoba Kazane",
+    "birthday": "05-17",
+    "series": "竞女",
+    "cv": "本渡枫",
+    "image": "assets/images/青叶风音.jpg"
+  },
+  {
+    "name": "亚梓莎·埃札瓦",
+    "romaji": "Azusa Aizawa",
+    "birthday": "05-17",
+    "series": "打了300年的史莱姆，不知不觉就练到了满级",
+    "cv": "悠木碧",
+    "image": "assets/images/亚梓莎·埃札瓦.jpg"
+  },
+  {
+    "name": "法露法",
+    "romaji": "Falfa",
+    "birthday": "05-17",
+    "series": "打了300年的史莱姆，不知不觉就练到了满级",
+    "cv": "千本木彩花",
+    "image": "assets/images/法露法.jpg"
+  },
+  {
+    "name": "夏露夏",
+    "romaji": "Shalsha",
+    "birthday": "05-17",
+    "series": "打了300年的史莱姆，不知不觉就练到了满级",
+    "cv": "田中美海",
+    "image": "assets/images/夏露夏.jpg"
+  },
+  {
+    "name": "宫泽风花",
+    "romaji": "Miyazawa Fuka",
+    "birthday": "05-17",
+    "series": "白沙的水族馆",
+    "cv": "逢田梨香子",
+    "image": "assets/images/宫泽风花.jpg"
+  },
+  {
+    "name": "皆神沙久耶",
+    "romaji": "Minagami Sakuya",
+    "birthday": "05-17",
+    "series": "黄昏的禁忌之药",
+    "cv": "平山纱弥",
+    "image": "assets/images/皆神沙久耶.jpg"
+  },
+  {
+    "name": "御影須美",
+    "romaji": "Mikage Sumi",
+    "birthday": "05-17",
+    "series": "管乐恋曲！~The bonds of melody~",
+    "cv": "壱智村小真（艺名：みる）",
+    "image": "assets/images/御影須美.jpg"
+  },
+  {
+    "name": "皆川翠",
+    "romaji": "Minagawa Sui",
+    "birthday": "05-17",
+    "series": "夏空的英仙座",
+    "cv": "立花あおい / 船桥舞",
+    "image": "assets/images/皆川翠.png"
+  },
+  {
+    "name": "鸟羽真白",
+    "romaji": "Toba Mashiro",
+    "birthday": "05-17",
+    "series": "Root Double -Before Crime * After Days-",
+    "cv": "今井麻美",
+    "image": "assets/images/鸟羽真白.jpg"
+  },
+  {
+    "name": "三芳蘭",
+    "romaji": "Miyoshi Ran",
+    "birthday": "05-17",
+    "series": "幼驯染是大总统",
+    "cv": "柏さくら（かしわ さくら）",
+    "image": "assets/images/三芳蘭.jpg"
+  },
+  {
+    "name": "小原花梨",
+    "romaji": "Ohara Karin",
+    "birthday": "05-17",
+    "series": "晴霁之后定是菜花盛开的好天气",
+    "cv": "春乃彩叶",
+    "image": "assets/images/小原花梨.jpg"
+  },
+  {
+    "name": "卷岛春",
+    "romaji": "Makishima Haru",
+    "birthday": "05-17",
+    "series": "人狼村之谜",
+    "cv": "假屋美希",
+    "image": "assets/images/卷岛春.jpg"
   }
 ]
