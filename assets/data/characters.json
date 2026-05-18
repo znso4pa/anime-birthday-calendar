@@ -2910,5 +2910,61 @@
     "series": "人狼村之谜",
     "cv": "假屋美希",
     "image": "assets/images/卷岛春.jpg"
+  },
+   {
+    "name": "基拉·大和",
+    "romaji": "Kira Yamato",
+    "birthday": "05-18",
+    "series": "机动战士高达SEED",
+    "cv": "保志总一朗",
+    "image": "assets/images/基拉·大和.jpg"
+  },
+  {
+    "name": "卡嘉丽·尤拉·阿斯哈",
+    "romaji": "Cagalli Yula Athha",
+    "birthday": "05-18",
+    "series": "机动战士高达SEED",
+    "cv": "进藤尚美",
+    "image": "assets/images/卡嘉丽·尤拉·阿斯哈.jpg"
+  },
+  {
+    "name": "莉兹贝特",
+    "romaji": "Lisbeth",
+    "birthday": "05-18",
+    "series": "刀剑神域",
+    "cv": "高垣彩阳",
+    "image": "assets/images/莉兹贝特.jpg"
+  },
+  {
+    "name": "今泉俊辅",
+    "romaji": "Imaizumi Shunsuke",
+    "birthday": "05-18",
+    "series": "飙速宅男",
+    "cv": "鸟海浩辅",
+    "image": "assets/images/今泉俊辅.jpg"
+  },
+  {
+    "name": "笹原裕香",
+    "romaji": "Sasahara Yuka",
+    "birthday": "05-18",
+    "series": "向山进发",
+    "cv": "牧野由依",
+    "image": "assets/images/笹原裕香.jpeg"
+  },
+  {
+    "name": "奇尔查克",
+    "romaji": "Chilchuck",
+    "birthday": "05-18",
+    "series": "迷宫饭",
+    "cv": "泊明日菜",
+    "image": "assets/images/奇尔查克.jpg"
+  },
+  {
+    "name": "夜羽睦季",
+    "romaji": "Yohane Mutsuki",
+    "birthday": "05-18",
+    "series": "玉响未来",
+    "cv": "大隈シロ",
+    "image": "assets/images/夜羽睦季.jpg"
   }
 ]
