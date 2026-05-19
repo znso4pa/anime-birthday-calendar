@@ -2966,5 +2966,77 @@
     "series": "玉响未来",
     "cv": "大隈シロ",
     "image": "assets/images/夜羽睦季.jpg"
+  },
+  {
+    "name": "桥田至",
+    "romaji": "Hashida Itaru",
+    "birthday": "05-19",
+    "series": "命运石之门",
+    "cv": "关智一",
+    "image": "assets/images/桥田至.jpg"
+  },
+  {
+    "name": "柏崎星奈",
+    "romaji": "Kashiwazaki Sena",
+    "birthday": "05-19",
+    "series": "我的朋友很少",
+    "cv": "伊藤加奈惠",
+    "image": "assets/images/柏崎星奈.jpg"
+  },
+  {
+    "name": "泽部椿",
+    "romaji": "Sawabe Tsubaki",
+    "birthday": "05-19",
+    "series": "四月是你的谎言",
+    "cv": "逢坂良太",
+    "image": "assets/images/泽部椿.jpg"
+  },
+  {
+    "name": "山吹沙绫",
+    "romaji": "Yamabuki Saaya",
+    "birthday": "05-19",
+    "series": "BanG Dream!",
+    "cv": "大桥彩香",
+    "image": "assets/images/山吹沙绫.jpeg"
+  },
+  {
+    "name": "丸善斯基",
+    "romaji": "Maruzensky",
+    "birthday": "05-19",
+    "series": "赛马娘 Pretty Derby",
+    "cv": "Lynn",
+    "image": "assets/images/丸善斯基.jpg"
+  },
+  {
+    "name": "栗花落香奈乎",
+    "romaji": "Tsuyuri Kanao",
+    "birthday": "05-19",
+    "series": "鬼灭之刃",
+    "cv": "上田丽奈",
+    "image": "assets/images/栗花落香奈乎.jpg"
+  },
+  {
+    "name": "辛耶·诺赞",
+    "romaji": "Shinei Nouzen",
+    "birthday": "05-19",
+    "series": "86 -不存在的战区-",
+    "cv": "千叶翔也",
+    "image": "assets/images/辛耶·诺赞.jpg"
+  },
+  {
+    "name": "花开院柚罗",
+    "romaji": "Keikain Yura",
+    "birthday": "05-19",
+    "series": "滑头鬼之孙",
+    "cv": "前田爱",
+    "image": "assets/images/花开院柚罗.jpg"
+  },
+  {
+    "name": "凑汐里",
+    "romaji": "Minato Shiori",
+    "birthday": "05-19",
+    "series": "梅时露霁书 雨潺海汐间",
+    "cv": "门胁舞以",
+    "image": "assets/images/凑汐里.jpg"
   }
 ]
