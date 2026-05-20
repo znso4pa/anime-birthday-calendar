@@ -3038,5 +3038,77 @@
     "series": "梅时露霁书 雨潺海汐间",
     "cv": "门胁舞以",
     "image": "assets/images/凑汐里.jpg"
+  },
+  {
+    "name": "大村裕美",
+    "romaji": "Omura Yumi",
+    "birthday": "05-20",
+    "series": "人形电脑天使心",
+    "cv": "丰口惠美",
+    "image": "assets/images/大村裕美.jpg"
+  },
+  {
+    "name": "河上万齐",
+    "romaji": "Kawakami Bansai",
+    "birthday": "05-20",
+    "series": "银魂",
+    "cv": "山崎巧",
+    "image": "assets/images/河上万齐.jpg"
+  },
+  {
+    "name": "浅上藤乃",
+    "romaji": "Asagami Fujino",
+    "birthday": "05-20",
+    "series": "空之境界",
+    "cv": "能登麻美子",
+    "image": "assets/images/浅上藤乃.jpg"
+  },
+  {
+    "name": "橘千鹤",
+    "romaji": "Tachibana Chizuru",
+    "birthday": "05-20",
+    "series": "灰色系列",
+    "cv": "牧泉美",
+    "image": "assets/images/橘千鹤.jpeg"
+  },
+  {
+    "name": "纳兰迦·吉尔卡",
+    "romaji": "Narancia Ghirga",
+    "birthday": "05-20",
+    "series": "JOJO的奇妙冒险 黄金之风",
+    "cv": "山下大辉",
+    "image": "assets/images/纳兰迦·吉尔卡.jpg"
+  },
+  {
+    "name": "嘉味田十萌",
+    "romaji": "Kamita Tomoe",
+    "birthday": "05-20",
+    "series": "清恋",
+    "cv": "沼仓爱美",
+    "image": "assets/images/嘉味田十萌.jpg"
+  },
+  {
+    "name": "阿久津明",
+    "romaji": "Akutsu Akira",
+    "birthday": "05-20",
+    "series": "笨女孩",
+    "cv": "浅沼晋太郎",
+    "image": "assets/images/阿久津明.webp"
+  },
+  {
+    "name": "茶柱佐枝",
+    "romaji": "Chabashira Sae",
+    "birthday": "05-20",
+    "series": "欢迎来到实力至上主义的教室",
+    "cv": "小泽亚李",
+    "image": "assets/images/茶柱佐枝.jpg"
+  },
+  {
+    "name": "源鸦鸟",
+    "romaji": "Minamoto Karasu",
+    "birthday": "05-20",
+    "series": "创刻的动脉",
+    "cv": "",
+    "image": "assets/images/源鸦鸟.jpg"
   }
 ]
