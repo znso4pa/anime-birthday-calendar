@@ -3110,5 +3110,85 @@
     "series": "创刻的动脉",
     "cv": "",
     "image": "assets/images/源鸦鸟.jpg"
+  },
+  {
+    "name": "宫代拓留",
+    "romaji": "Miyashiro Takuru",
+    "birthday": "05-21",
+    "series": "混沌子",
+    "cv": "松冈祯丞",
+    "image": "assets/images/宫代拓留.jpg"
+  },
+  {
+    "name": "鹰原羽依里",
+    "romaji": "Takakura Airi",
+    "birthday": "05-21",
+    "series": "Summer Pockets",
+    "cv": "千叶翔也",
+    "image": "assets/images/鹰原羽依里.jpeg"
+  },
+  {
+    "name": "高濑瑞希",
+    "romaji": "Takase Mizuki",
+    "birthday": "05-21",
+    "series": "漫画同人会",
+    "cv": "茶山莉子",
+    "image": "assets/images/高濑瑞希.jpg"
+  },
+  {
+    "name": "桜小路月詠",
+    "romaji": "Sakurakoji Tsukuyomi",
+    "birthday": "05-21",
+    "series": "爱丽娅的明日盛典！",
+    "cv": "小岩井小百合",
+    "image": "assets/images/桜小路月詠.jpg"
+  },
+  {
+    "name": "大藏瑠美音",
+    "romaji": "Okura Rumine",
+    "birthday": "05-21",
+    "series": "近月少女的礼仪2",
+    "cv": "遥空",
+    "image": "assets/images/大藏瑠美音.jpg"
+  },
+  {
+    "name": "长山香奈",
+    "romaji": "Nagayama Kana",
+    "birthday": "05-21",
+    "series": "樱之诗/刻",
+    "cv": "小仓结衣",
+    "image": "assets/images/长山香奈.jpg"
+  },
+  {
+    "name": "中之条刚",
+    "romaji": "Nakanojo Tsuyoshi",
+    "birthday": "05-21",
+    "series": "日常",
+    "cv": "山本和臣",
+    "image": "assets/images/中之条刚.jpg"
+  },
+  {
+    "name": "花砾",
+    "romaji": "Gareki",
+    "birthday": "05-21",
+    "series": "狂欢节",
+    "cv": "神谷浩史",
+    "image": "assets/images/花砾.jpg"
+  },
+  {
+    "name": "笛口雏实",
+    "romaji": "Fueguchi Hinami",
+    "birthday": "05-21",
+    "series": "东京喰种",
+    "cv": "诸星堇",
+    "image": "assets/images/笛口雏实.jpg"
+  },
+  {
+    "name": "艾玛",
+    "romaji": "Emma",
+    "birthday": "05-21",
+    "series": "荒野的寿飞行队",
+    "cv": "幸村惠理",
+    "image": "assets/images/艾玛.jpg"
   }
 ]
