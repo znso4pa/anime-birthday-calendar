@@ -3286,5 +3286,77 @@
     "series": "少女＊领域",
     "cv": "歩サラ",
     "image": "assets/images/飞鸟凑.jpg"
+  },
+  {
+    "name": "松本理世",
+    "romaji": "Matsumoto Rise",
+    "birthday": "05-23",
+    "series": "摇曳百合",
+    "cv": "后藤沙绪里",
+    "image": "assets/images/松本理世.jpg"
+  },
+  {
+    "name": "百地玉手",
+    "romaji": "Momochi Tamate",
+    "birthday": "05-23",
+    "series": "Slow Start",
+    "cv": "伊藤彩沙",
+    "image": "assets/images/百地玉手.jpg"
+  },
+  {
+    "name": "玉藻十字",
+    "romaji": "Tamamo Cross",
+    "birthday": "05-23",
+    "series": "赛马娘 芦毛灰姑娘",
+    "cv": "大空直美",
+    "image": "assets/images/玉藻十字.jpg"
+  },
+  {
+    "name": "古贺朋绘",
+    "romaji": "Koga Tomoe",
+    "birthday": "05-23",
+    "series": "青春猪头少年系列",
+    "cv": "东山奈央",
+    "image": "assets/images/古贺朋绘.jpg"
+  },
+  {
+    "name": "拉薇",
+    "romaji": "Lavie",
+    "birthday": "05-23",
+    "series": "宝石幻想 光芒重现",
+    "cv": "向井莉生",
+    "image": "assets/images/拉薇.jpg"
+  },
+  {
+    "name": "风间枫",
+    "romaji": "Kazama Kaede",
+    "birthday": "05-23",
+    "series": "在异世界获得超强能力的我，在现实世界照样无敌",
+    "cv": "竹达彩奈",
+    "image": "assets/images/风间枫.jpg"
+  },
+  {
+    "name": "有纪",
+    "romaji": "Yuuki",
+    "birthday": "05-23",
+    "series": "刀剑神域",
+    "cv": "悠木碧",
+    "image": "assets/images/有纪.jpg"
+  },
+  {
+    "name": "鹰见泽菜月",
+    "romaji": "Takamizawa Natsuki",
+    "birthday": "05-23",
+    "series": "夜明前的琉璃色",
+    "cv": "冰青",
+    "image": "assets/images/鹰见泽菜月.jpg"
+  },
+  {
+    "name": "九条院玲亜",
+    "romaji": "Kujo-in Reia",
+    "birthday": "05-23",
+    "series": "夏末涅槃",
+    "cv": "米泽圆",
+    "image": "assets/images/九条院玲亜.jpg"
   }
 ]
