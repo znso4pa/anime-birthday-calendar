@@ -3190,5 +3190,101 @@
     "series": "荒野的寿飞行队",
     "cv": "幸村惠理",
     "image": "assets/images/艾玛.jpg"
+  },
+   {
+    "name": "双海真美",
+    "romaji": "Futami Mami",
+    "birthday": "05-22",
+    "series": "偶像大师",
+    "cv": "下田麻美",
+    "image": "assets/images/双海真美.jpg"
+  },
+  {
+    "name": "双海亚美",
+    "romaji": "Futami Ami",
+    "birthday": "05-22",
+    "series": "偶像大师",
+    "cv": "下田麻美",
+    "image": "assets/images/双海亚美.jpg"
+  },
+  {
+    "name": "小智",
+    "romaji": "Satoshi",
+    "birthday": "05-22",
+    "series": "精灵宝可梦",
+    "cv": "松本梨香",
+    "image": "assets/images/小智.png"
+  },
+  {
+    "name": "三井寿",
+    "romaji": "Mitsui Hisashi",
+    "birthday": "05-22",
+    "series": "灌篮高手",
+    "cv": "置鲇龙太郎",
+    "image": "assets/images/三井寿.jpg"
+  },
+  {
+    "name": "星来·奥格尔",
+    "romaji": "Seira Orgel",
+    "birthday": "05-22",
+    "series": "混沌头",
+    "cv": "友永朱音",
+    "image": "assets/images/星来·奥格尔.jpg"
+  },
+  {
+    "name": "须乡彻平",
+    "romaji": "Sugou Teppei",
+    "birthday": "05-22",
+    "series": "心理测量者2",
+    "cv": "东地宏树",
+    "image": "assets/images/须乡彻平.jpg"
+  },
+  {
+    "name": "叶月雫",
+    "romaji": "Hazuki Shizuku",
+    "birthday": "05-22",
+    "series": "NEW GAME!",
+    "cv": "喜多村英梨",
+    "image": "assets/images/叶月雫.jpg"
+  },
+  {
+    "name": "新堂彩华",
+    "romaji": "Shindou Ayaka",
+    "birthday": "05-22",
+    "series": "境界的彼方",
+    "cv": "进藤尚美",
+    "image": "assets/images/新堂彩华.jpg"
+  },
+  {
+    "name": "伊奈叶阳美子",
+    "romaji": "Inaba Himiko",
+    "birthday": "05-22",
+    "series": "中之人基因组【实况中】",
+    "cv": "石见舞菜香",
+    "image": "assets/images/伊奈叶阳美子.jpg"
+  },
+  {
+    "name": "崭新光辉",
+    "romaji": "Belno Light",
+    "birthday": "05-22",
+    "series": "赛马娘 芦毛灰姑娘",
+    "cv": "濑户桃子",
+    "image": "assets/images/崭新光辉.jpg"
+  },
+  {
+    "name": "北大路花火",
+    "romaji": "Kitaouji Hanabi",
+    "birthday": "05-22",
+    "series": "樱花大战",
+    "cv": "鹰森淑乃",
+    "image": "assets/images/北大路花火.jpg"
+  },
+  {
+    "name": "飞鸟凑",
+    "romaji": "Asuka Minato",
+    "birthday": "05-22",
+    "series": "少女＊领域",
+    "cv": "歩サラ",
+    "image": "assets/images/飞鸟凑.jpg"
   }
 ]
