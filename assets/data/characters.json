@@ -3341,7 +3341,7 @@
     "birthday": "05-23",
     "series": "刀剑神域",
     "cv": "悠木碧",
-    "image": "assets/images/有纪.jpg"
+    "image": "assets/images/有纪.jpeg"
   },
   {
     "name": "鹰见泽菜月",
@@ -3358,5 +3358,141 @@
     "series": "夏末涅槃",
     "cv": "米泽圆",
     "image": "assets/images/九条院玲亜.jpg"
+  },
+  {
+    "name": "田村日和",
+    "romaji": "Tamura Hiyori",
+    "birthday": "05-24",
+    "series": "幸运星",
+    "cv": "清水香里",
+    "image": "assets/images/田村日和.jpg"
+  },
+  {
+    "name": "西由宇子",
+    "romaji": "Nishi Yuuko",
+    "birthday": "05-24",
+    "series": "A频道",
+    "cv": "寿美菜子",
+    "image": "assets/images/西由宇子.jpg"
+  },
+  {
+    "name": "宫本来夏",
+    "romaji": "Miyamoto Konatsu",
+    "birthday": "05-24",
+    "series": "TARI TARI",
+    "cv": "濑户麻沙美",
+    "image": "assets/images/宫本来夏.jpg"
+  },
+  {
+    "name": "小濑川白望",
+    "romaji": "Kosegawa Shiromi",
+    "birthday": "05-24",
+    "series": "天才麻将少女 全国篇",
+    "cv": "长妻树里",
+    "image": "assets/images/小濑川白望.jpg"
+  },
+  {
+    "name": "希安",
+    "romaji": "Shian",
+    "birthday": "05-24",
+    "series": "SHOW BY ROCK!!",
+    "cv": "稻川英里",
+    "image": "assets/images/希安.jpg"
+  },
+  {
+    "name": "松野小松",
+    "romaji": "Matsuno Osomatsu",
+    "birthday": "05-24",
+    "series": "阿松",
+    "cv": "樱井孝宏",
+    "image": "assets/images/松野小松.jpg"
+  },
+  {
+    "name": "松野空松",
+    "romaji": "Matsuno Karamatsu",
+    "birthday": "05-24",
+    "series": "阿松",
+    "cv": "中村悠一",
+    "image": "assets/images/松野空松.jpg"
+  },
+  {
+    "name": "松野轻松",
+    "romaji": "Matsuno Choromatsu",
+    "birthday": "05-24",
+    "series": "阿松",
+    "cv": "神谷浩史",
+    "image": "assets/images/松野轻松.jpg"
+  },
+  {
+    "name": "松野一松",
+    "romaji": "Matsuno Ichimatsu",
+    "birthday": "05-24",
+    "series": "阿松",
+    "cv": "福山润",
+    "image": "assets/images/松野一松.jpg"
+  },
+  {
+    "name": "松野十四松",
+    "romaji": "Matsuno Juushimatsu",
+    "birthday": "05-24",
+    "series": "阿松",
+    "cv": "小野大辅",
+    "image": "assets/images/松野十四松.jpg"
+  },
+  {
+    "name": "松野椴松",
+    "romaji": "Matsuno Todomatsu",
+    "birthday": "05-24",
+    "series": "阿松",
+    "cv": "入野自由",
+    "image": "assets/images/松野椴松.jpg"
+  },
+  {
+    "name": "田中摩美美",
+    "romaji": "Tanaka Mamimi",
+    "birthday": "05-24",
+    "series": "偶像大师 闪耀色彩",
+    "cv": "菅沼千纱",
+    "image": "assets/images/田中摩美美.jpg"
+  },
+  {
+    "name": "芙琳特",
+    "romaji": "Furinto",
+    "birthday": "05-24",
+    "series": "少女与战车",
+    "cv": "米泽圆",
+    "image": "assets/images/芙琳特.jpg"
+  },
+  {
+    "name": "加洛特",
+    "romaji": "Carrot",
+    "birthday": "05-24",
+    "series": "海贼王",
+    "cv": "伊藤加奈惠",
+    "image": "assets/images/加洛特.jpeg"
+  },
+  {
+    "name": "犬神八千代",
+    "romaji": "Inugami Yachiyo",
+    "birthday": "05-24",
+    "series": "犬神同学和猫山同学",
+    "cv": "上坂堇",
+    "image": "assets/images/犬神八千代.jpg"
+  },
+  {
+    "name": "樱木由加利",
+    "romaji": "Sakuragi Yukari",
+    "birthday": "05-24",
+    "series": "Another",
+    "cv": "野中蓝",
+    "image": "assets/images/樱木由加利.jpg"
+  },
+  {
+    "name": "岩户铃芽",
+    "romaji": "Iwato Suzume",
+    "birthday": "05-24",
+    "series": "铃芽之旅",
+    "cv": "原菜乃华",
+    "image": "assets/images/岩户铃芽.jpg"
   }
 ]
