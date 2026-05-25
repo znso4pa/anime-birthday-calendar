@@ -3494,5 +3494,109 @@
     "series": "铃芽之旅",
     "cv": "原菜乃华",
     "image": "assets/images/岩户铃芽.jpg"
+  },
+  {
+    "name": "鲇川圆",
+    "romaji": "Ayukawa Madoka",
+    "birthday": "05-25",
+    "series": "橙路",
+    "cv": "鹤弘美",
+    "image": "assets/images/鲇川圆.jpg"
+  },
+  {
+    "name": "津名志拓人",
+    "romaji": "Tsunashi Takt",
+    "birthday": "05-25",
+    "series": "驭星者 闪亮的拓人",
+    "cv": "宫野真守",
+    "image": "assets/images/津名志拓人.jpg"
+  },
+  {
+    "name": "进藤须方",
+    "romaji": "Shindou Sugata",
+    "birthday": "05-25",
+    "series": "驭星者 闪亮的拓人",
+    "cv": "福山润",
+    "image": "assets/images/进藤须方.jpg"
+  },
+  {
+    "name": "风鸣翼",
+    "romaji": "Kazanari Tsubasa",
+    "birthday": "05-25",
+    "series": "战姬绝唱SYMPHOGEAR",
+    "cv": "水树奈奈",
+    "image": "assets/images/风鸣翼.jpg"
+  },
+  {
+    "name": "唐之杜志恩",
+    "romaji": "Karanomori Shion",
+    "birthday": "05-25",
+    "series": "心理测量者",
+    "cv": "泽城美雪",
+    "image": "assets/images/唐之杜志恩.jpg"
+  },
+  {
+    "name": "艾鲁艾尔弗",
+    "romaji": "L-ELF",
+    "birthday": "05-25",
+    "series": "革命机Valvrave",
+    "cv": "木村良平",
+    "image": "assets/images/艾鲁艾尔弗.jpg"
+  },
+  {
+    "name": "喜羊羊",
+    "romaji": "Xi Yangyang",
+    "birthday": "05-25",
+    "series": "喜羊羊与灰太狼",
+    "cv": "祖丽晴",
+    "image": "assets/images/喜羊羊.jpg"
+  },
+  {
+    "name": "三云修",
+    "romaji": "Mikumo Osamu",
+    "birthday": "05-25",
+    "series": "境界触发者",
+    "cv": "梶裕贵",
+    "image": "assets/images/三云修.jpg"
+  },
+  {
+    "name": "后藤卓也",
+    "romaji": "Gotou Takuya",
+    "birthday": "05-25",
+    "series": "吹响吧！上低音号",
+    "cv": "津田健次郎",
+    "image": "assets/images/后藤卓也.jpg"
+  },
+  {
+    "name": "鸟栖哲雄",
+    "romaji": "Torizaki Tetsuo",
+    "birthday": "05-25",
+    "series": "我家的英雄",
+    "cv": "佐佐木藏之介",
+    "image": "assets/images/鸟栖哲雄.jpg"
+  },
+  {
+    "name": "真中蓝",
+    "romaji": "Manaka Ao",
+    "birthday": "05-25",
+    "series": "恋爱小行星",
+    "cv": "山口爱",
+    "image": "assets/images/真中蓝.jpg"
+  },
+  {
+    "name": "阿姆捏西亚",
+    "romaji": "Amnesia",
+    "birthday": "05-25",
+    "series": "魔女之旅",
+    "cv": "小原好美",
+    "image": "assets/images/阿姆捏西亚.jpg"
+  },
+  {
+    "name": "桥场恭也",
+    "romaji": "Hashiba Kyouya",
+    "birthday": "05-25",
+    "series": "我们的重制人生",
+    "cv": "伊藤昌弘",
+    "image": "assets/images/桥场恭也.jpg"
   }
 ]
