@@ -3598,5 +3598,181 @@
     "series": "我们的重制人生",
     "cv": "伊藤昌弘",
     "image": "assets/images/桥场恭也.jpg"
+  },
+  {
+    "name": "忍足あずみ",
+    "romaji": "Oritori Azumi",
+    "birthday": "05-26",
+    "series": "认真和我恋爱",
+    "cv": "亜城めぐ",
+    "image": "assets/images/忍足あずみ.jpg"
+  },
+  {
+    "name": "山科京",
+    "romaji": "Yamashina Miyako",
+    "birthday": "05-26",
+    "series": "我们没有翅膀",
+    "cv": "高口幸子",
+    "image": "assets/images/山科京.jpg"
+  },
+  {
+    "name": "雁渊光",
+    "romaji": "Karibuchi Hikari",
+    "birthday": "05-26",
+    "series": "无畏魔女",
+    "cv": "加隈亚衣",
+    "image": "assets/images/雁渊光.jpg"
+  },
+  {
+    "name": "寇沙",
+    "romaji": "Kohza",
+    "birthday": "05-26",
+    "series": "海贼王",
+    "cv": "草尾毅 / 进藤尚美",
+    "image": "assets/images/寇沙.jpg"
+  },
+  {
+    "name": "海野伊鲁卡",
+    "romaji": "Umino Iruka",
+    "birthday": "05-26",
+    "series": "火影忍者",
+    "cv": "关俊彦",
+    "image": "assets/images/海野伊鲁卡.jpg"
+  },
+  {
+    "name": "北港火山",
+    "romaji": "Hokkai Kazan",
+    "birthday": "05-26",
+    "series": "赛马娘 Pretty Derby",
+    "cv": "菊池纱矢香",
+    "image": "assets/images/北港火山.jpg"
+  },
+  {
+    "name": "龍木悠苑",
+    "romaji": "Ryuki Yuon",
+    "birthday": "05-26",
+    "series": "冥契的牧神节",
+    "cv": "歩サラ",
+    "image": "assets/images/龍木悠苑.jpg"
+  },
+  {
+    "name": "三島星彩",
+    "romaji": "Mishima Seisa",
+    "birthday": "05-26",
+    "series": "见习恋人2",
+    "cv": "",
+    "image": "assets/images/三島星彩.jpg"
+  },
+  {
+    "name": "椎名观月",
+    "romaji": "Shiina Mitsuki",
+    "birthday": "05-27",
+    "series": "染红的街道",
+    "cv": "田中理惠 / 森谷实园",
+    "image": "assets/images/椎名观月.jpg"
+  },
+  {
+    "name": "水越纱季",
+    "romaji": "Mizukoshi Saki",
+    "birthday": "05-27",
+    "series": "夏色奇迹",
+    "cv": "高垣彩阳",
+    "image": "assets/images/水越纱季.jpg"
+  },
+  {
+    "name": "荻野邦治",
+    "romaji": "Ogino Kuniharu",
+    "birthday": "05-27",
+    "series": "Q弟侦探因幡",
+    "cv": "森川智之",
+    "image": "assets/images/荻野邦治.jpg"
+  },
+  {
+    "name": "安乐冈花火",
+    "romaji": "Anrakugai Hanabi",
+    "birthday": "05-27",
+    "series": "人渣的本愿",
+    "cv": "安济知佳",
+    "image": "assets/images/安乐冈花火.jpg"
+  },
+  {
+    "name": "马渕洸",
+    "romaji": "Mabuchi Kou",
+    "birthday": "05-27",
+    "series": "青春之旅",
+    "cv": "梶裕贵",
+    "image": "assets/images/马渕洸.jpg"
+  },
+  {
+    "name": "羽佐间卡农",
+    "romaji": "Hazama Kanon",
+    "birthday": "05-27",
+    "series": "苍穹之法芙娜",
+    "cv": "小林沙苗",
+    "image": "assets/images/羽佐间卡农.jpg"
+  },
+  {
+    "name": "小野屋杏",
+    "romaji": "Onoya An",
+    "birthday": "05-27",
+    "series": "ReLIFE",
+    "cv": "上田丽奈",
+    "image": "assets/images/小野屋杏.jpg"
+  },
+  {
+    "name": "宗谷真白",
+    "romaji": "Munetani Mashiro",
+    "birthday": "05-27",
+    "series": "高校舰队",
+    "cv": "Lynn",
+    "image": "assets/images/宗谷真白.jpg"
+  },
+  {
+    "name": "皇缠",
+    "romaji": "Sumeragi Matoi",
+    "birthday": "05-27",
+    "series": "装神少女小缠",
+    "cv": "诹访彩花",
+    "image": "assets/images/皇缠.jpg"
+  },
+  {
+    "name": "香月早苗",
+    "romaji": "Kouduki Sanae",
+    "birthday": "05-27",
+    "series": "樱花任务",
+    "cv": "小松未可子",
+    "image": "assets/images/香月早苗.jpg"
+  },
+  {
+    "name": "山吹将",
+    "romaji": "Yamabuki Shou",
+    "birthday": "05-27",
+    "series": "来自多彩世界的明天",
+    "cv": "前田诚二",
+    "image": "assets/images/山吹将.jpg"
+  },
+  {
+    "name": "长崎爽世",
+    "romaji": "Nagasaki Soyo",
+    "birthday": "05-27",
+    "series": "BanG Dream!",
+    "cv": "小日向美香",
+    "image": "assets/images/长崎爽世.jpg"
+  },
+  {
+    "name": "五河士道",
+    "romaji": "Itsuka Shidou",
+    "birthday": "05-27",
+    "series": "约会大作战",
+    "cv": "岛崎信长",
+    "image": "assets/images/五河士道.jpg"
+  },
+  {
+    "name": "藤崎诗织",
+    "romaji": "Fujisaki Shiori",
+    "birthday": "05-27",
+    "series": "心跳回忆",
+    "cv": "金月真美",
+    "image": "assets/images/藤崎诗织.jpg"
   }
 ]
