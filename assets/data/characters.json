@@ -3774,5 +3774,101 @@
     "series": "心跳回忆",
     "cv": "金月真美",
     "image": "assets/images/藤崎诗织.jpg"
+  },
+  {
+    "name": "泉此方",
+    "romaji": "Izumi Konata",
+    "birthday": "05-28",
+    "series": "幸运星",
+    "cv": "平野绫",
+    "image": "assets/images/泉此方.jpg"
+  },
+  {
+    "name": "薰干",
+    "romaji": "Kaoru Miki",
+    "birthday": "05-28",
+    "series": "少女革命",
+    "cv": "久川绫",
+    "image": "assets/images/薰干.jpg"
+  },
+  {
+    "name": "薰梢",
+    "romaji": "Kaoru Kozue",
+    "birthday": "05-28",
+    "series": "少女革命",
+    "cv": "本多知惠子",
+    "image": "assets/images/薰梢.jpg"
+  },
+  {
+    "name": "蓝波",
+    "romaji": "Lambo",
+    "birthday": "05-28",
+    "series": "家庭教师HITMAN REBORN!",
+    "cv": "竹内顺子",
+    "image": "assets/images/蓝波.jpg"
+  },
+  {
+    "name": "山本岬",
+    "romaji": "Yamamoto Misaki",
+    "birthday": "05-28",
+    "series": "初恋限定。",
+    "cv": "田中理惠",
+    "image": "assets/images/山本岬.jpg"
+  },
+  {
+    "name": "冬马和纱",
+    "romaji": "Touma Kazusa",
+    "birthday": "05-28",
+    "series": "白色相簿2",
+    "cv": "生天目仁美",
+    "image": "assets/images/冬马和纱.jpg"
+  },
+  {
+    "name": "一条萤",
+    "romaji": "Ichinjou Hotaru",
+    "birthday": "05-28",
+    "series": "悠哉日常大王",
+    "cv": "村川梨衣",
+    "image": "assets/images/一条萤.jpg"
+  },
+  {
+    "name": "薄墨初美",
+    "romaji": "Usuzumi Hatsumi",
+    "birthday": "05-28",
+    "series": "天才麻将少女",
+    "cv": "辻亚由美",
+    "image": "assets/images/薄墨初美.jpg"
+  },
+  {
+    "name": "纳沙幸子",
+    "romaji": "Nasu Sachiko",
+    "birthday": "05-28",
+    "series": "高校舰队",
+    "cv": "黑濑优子",
+    "image": "assets/images/纳沙幸子.jpg"
+  },
+  {
+    "name": "阵内燕太",
+    "romaji": "Jinnai Enta",
+    "birthday": "05-28",
+    "series": "皿三昧",
+    "cv": "堀江瞬",
+    "image": "assets/images/阵内燕太.jpg"
+  },
+  {
+    "name": "北条铁平",
+    "romaji": "Houjou Teppei",
+    "birthday": "05-28",
+    "series": "寒蝉鸣泣之时",
+    "cv": "宝龟克寿",
+    "image": "assets/images/北条铁平.jpg"
+  },
+  {
+    "name": "卡布尔",
+    "romaji": "Kabru",
+    "birthday": "05-28",
+    "series": "迷宫饭",
+    "cv": "加藤涉",
+    "image": "assets/images/卡布尔.jpg"
   }
 ]
