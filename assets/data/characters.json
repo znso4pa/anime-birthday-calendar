@@ -3870,5 +3870,53 @@
     "series": "迷宫饭",
     "cv": "加藤涉",
     "image": "assets/images/卡布尔.jpg"
+  },
+  {
+    "name": "蓝染惣右介",
+    "romaji": "Aizen Sousuke",
+    "birthday": "05-29",
+    "series": "死神",
+    "cv": "速水奖",
+    "image": "assets/images/蓝染惣右介.jpg"
+  },
+  {
+    "name": "真波山岳",
+    "romaji": "Manami Sangaku",
+    "birthday": "05-29",
+    "series": "飙速宅男",
+    "cv": "代永翼",
+    "image": "assets/images/真波山岳.jpg"
+  },
+  {
+    "name": "叶修",
+    "romaji": "Ye Xiu",
+    "birthday": "05-29",
+    "series": "全职高手",
+    "cv": "阿杰",
+    "image": "assets/images/叶修.jpg"
+  },
+  {
+    "name": "白石紬",
+    "romaji": "Shiraishi Tsumugi",
+    "birthday": "05-29",
+    "series": "偶像大师 百万现场！",
+    "cv": "南早纪",
+    "image": "assets/images/白石紬.jpg"
+  },
+  {
+    "name": "伊地知虹夏",
+    "romaji": "Ijichi Nijika",
+    "birthday": "05-29",
+    "series": "孤独摇滚！",
+    "cv": "铃代纱弓",
+    "image": "assets/images/伊地知虹夏.jpg"
+  },
+  {
+    "name": "安洁莉卡",
+    "romaji": "Angelica",
+    "birthday": "05-29",
+    "series": "独自一人的异世界攻略",
+    "cv": "早见沙织",
+    "image": "assets/images/安洁莉卡.jpg"
   }
 ]
