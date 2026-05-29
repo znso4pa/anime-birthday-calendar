@@ -3918,5 +3918,77 @@
     "series": "独自一人的异世界攻略",
     "cv": "早见沙织",
     "image": "assets/images/安洁莉卡.jpg"
+  },
+  {
+    "name": "木场佑斗",
+    "romaji": "Kiba Yuuto",
+    "birthday": "05-30",
+    "series": "恶魔高校 D×D",
+    "cv": "野岛健儿",
+    "image": "assets/images/木场佑斗.jpg"
+  },
+  {
+    "name": "坂井理奈",
+    "romaji": "Sakai Rina",
+    "birthday": "05-30",
+    "series": "樱Trick",
+    "cv": "远藤祐里香",
+    "image": "assets/images/坂井理奈.jpg"
+  },
+  {
+    "name": "一之濑志希",
+    "romaji": "Ichinose Shiki",
+    "birthday": "05-30",
+    "series": "偶像大师 灰姑娘女孩",
+    "cv": "蓝原琴美",
+    "image": "assets/images/一之濑志希.jpg"
+  },
+  {
+    "name": "天河优人",
+    "romaji": "Amakawa Yuuto",
+    "birthday": "05-30",
+    "series": "守护猫娘绯鞠",
+    "cv": "平川大辅",
+    "image": "assets/images/天河优人.jpg"
+  },
+  {
+    "name": "山内春树",
+    "romaji": "Yamauchi Haruki",
+    "birthday": "05-30",
+    "series": "欢迎来到实力至上主义的教室",
+    "cv": "岩中睦树",
+    "image": "assets/images/山内春树.jpg"
+  },
+  {
+    "name": "宫下爱",
+    "romaji": "Miyashita Ai",
+    "birthday": "05-30",
+    "series": "Love Live! 虹咲学园校园偶像同好会",
+    "cv": "村上奈津实",
+    "image": "assets/images/宫下爱.jpg"
+  },
+  {
+    "name": "天束光",
+    "romaji": "Amatsuka Hikaru",
+    "birthday": "05-30",
+    "series": "机械臂",
+    "cv": "丰永利行",
+    "image": "assets/images/天束光.jpg"
+  },
+  {
+    "name": "南燕",
+    "romaji": "Minami Tsubame",
+    "birthday": "05-30",
+    "series": "秋之回忆",
+    "cv": "池泽春菜",
+    "image": "assets/images/南燕.jpg"
+  },
+  {
+    "name": "藤宫千纱",
+    "romaji": "Fujimiya Chisa",
+    "birthday": "05-30",
+    "series": "Gift",
+    "cv": "新谷良子",
+    "image": "assets/images/藤宫千纱.jpg"
   }
 ]
