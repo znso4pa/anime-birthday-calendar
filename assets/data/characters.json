@@ -3990,5 +3990,117 @@
     "series": "Gift",
     "cv": "新谷良子",
     "image": "assets/images/藤宫千纱.jpg"
+  },
+   {
+    "name": "娜蒂亚·拉·阿瓦尔",
+    "romaji": "Nadia La Arwall",
+    "birthday": "05-31",
+    "series": "蓝宝石之谜",
+    "cv": "鹰森淑乃",
+    "image": "assets/images/娜蒂亚·拉·阿瓦尔.jpg"
+  },
+  {
+    "name": "阿万音由季",
+    "romaji": "Amane Yuki",
+    "birthday": "05-31",
+    "series": "命运石之门",
+    "cv": "田村由香里",
+    "image": "assets/images/阿万音由季.jpg"
+  },
+  {
+    "name": "妮卡·爱德华汀·卡塔雅南",
+    "romaji": "Nikka Edvardine Katajainen",
+    "birthday": "05-31",
+    "series": "无畏魔女",
+    "cv": "高森奈津美",
+    "image": "assets/images/妮卡·爱德华汀·卡塔雅南.jpg"
+  },
+  {
+    "name": "苗木困",
+    "romaji": "Naegi Komaru",
+    "birthday": "05-31",
+    "series": "弹丸论破",
+    "cv": "内田彩",
+    "image": "assets/images/苗木困.jpg"
+  },
+  {
+    "name": "椎名心实",
+    "romaji": "Shiina Kokomi",
+    "birthday": "05-31",
+    "series": "临时女友",
+    "cv": "佐藤聪美",
+    "image": "assets/images/椎名心实.jpg"
+  },
+  {
+    "name": "望月杏奈",
+    "romaji": "Mochizuki Anna",
+    "birthday": "05-31",
+    "series": "偶像大师 百万现场！",
+    "cv": "夏川椎菜",
+    "image": "assets/images/望月杏奈.jpg"
+  },
+  {
+    "name": "土方岁三",
+    "romaji": "Hijikata Toshizo",
+    "birthday": "05-31",
+    "series": "薄樱鬼",
+    "cv": "三木真一郎",
+    "image": "assets/images/土方岁三.jpg"
+  },
+  {
+    "name": "关织子",
+    "romaji": "Seki Oriko",
+    "birthday": "05-31",
+    "series": "温泉屋的小老板娘",
+    "cv": "小林星兰",
+    "image": "assets/images/关织子.jpg"
+  },
+  {
+    "name": "宇泽玲纱",
+    "romaji": "Uzawa Reisa",
+    "birthday": "05-31",
+    "series": "蔚蓝档案",
+    "cv": "根本京里",
+    "image": "assets/images/宇泽玲纱.jpg"
+  },
+  {
+    "name": "篠冢真佐实",
+    "romaji": "Shinozuka Masami",
+    "birthday": "05-31",
+    "series": "I/O",
+    "cv": "吉住梢",
+    "image": "assets/images/篠冢真佐实.jpg"
+  },
+  {
+    "name": "花ノ宮 芽一",
+    "romaji": "Hanano Miya Meichi",
+    "birthday": "05-31",
+    "series": "白诘戒指~四等分的花嫁",
+    "cv": "白月かなめ",
+    "image": "assets/images/花ノ宮 芽一.jpg"
+  },
+  {
+    "name": "花ノ宮 二葉",
+    "romaji": "Hanano Miya Futaba",
+    "birthday": "05-31",
+    "series": "白诘戒指~四等分的花嫁",
+    "cv": "飴川紫乃",
+    "image": "assets/images/花ノ宮 二葉.jpg"
+  },
+  {
+    "name": "花ノ宮 美三実",
+    "romaji": "Hanano Miya Mimimi",
+    "birthday": "05-31",
+    "series": "白诘戒指~四等分的花嫁",
+    "cv": "柚原みう",
+    "image": "assets/images/花ノ宮 美三実.jpg"
+  },
+  {
+    "name": "花ノ宮 四花",
+    "romaji": "Hanano Miya Shiika",
+    "birthday": "05-31",
+    "series": "白诘戒指~四等分的花嫁",
+    "cv": "蒼乃むすび",
+    "image": "assets/images/花ノ宮 四花.jpg"
   }
 ]
