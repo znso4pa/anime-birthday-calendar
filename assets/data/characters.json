@@ -4077,7 +4077,7 @@
     "birthday": "05-31",
     "series": "白诘戒指~四等分的花嫁",
     "cv": "白月かなめ",
-    "image": "assets/images/花ノ宮 芽一.jpg"
+    "image": "assets/images/花ノ宮 芽一.png"
   },
   {
     "name": "花ノ宮 二葉",
@@ -4085,7 +4085,7 @@
     "birthday": "05-31",
     "series": "白诘戒指~四等分的花嫁",
     "cv": "飴川紫乃",
-    "image": "assets/images/花ノ宮 二葉.jpg"
+    "image": "assets/images/花ノ宮 二葉.png"
   },
   {
     "name": "花ノ宮 美三実",
@@ -4093,7 +4093,7 @@
     "birthday": "05-31",
     "series": "白诘戒指~四等分的花嫁",
     "cv": "柚原みう",
-    "image": "assets/images/花ノ宮 美三実.jpg"
+    "image": "assets/images/花ノ宮 美三実.png"
   },
   {
     "name": "花ノ宮 四花",
@@ -4101,6 +4101,150 @@
     "birthday": "05-31",
     "series": "白诘戒指~四等分的花嫁",
     "cv": "蒼乃むすび",
-    "image": "assets/images/花ノ宮 四花.jpg"
+    "image": "assets/images/花ノ宮 四花.png"
+  },
+  {
+    "name": "吉田千鹤",
+    "romaji": "Yoshida Chizuru",
+    "birthday": "06-01",
+    "series": "好想告诉你",
+    "cv": "三瓶由布子",
+    "image": "assets/images/吉田千鹤.jpg"
+  },
+  {
+    "name": "维蕾塔·努",
+    "romaji": "Villetta Nu",
+    "birthday": "06-01",
+    "series": "Code Geass 反叛的鲁路修",
+    "cv": "渡边明乃",
+    "image": "assets/images/维蕾塔·努.jpg"
+  },
+  {
+    "name": "神威",
+    "romaji": "Kamui",
+    "birthday": "06-01",
+    "series": "银魂",
+    "cv": "日野聪",
+    "image": "assets/images/神威.png"
+  },
+  {
+    "name": "蓝猫",
+    "romaji": "Lan Mao",
+    "birthday": "06-01",
+    "series": "蓝猫淘气3000问",
+    "cv": "葛平",
+    "image": "assets/images/蓝猫.png"
+  },
+  {
+    "name": "绫濑千早",
+    "romaji": "Ayase Chihaya",
+    "birthday": "06-01",
+    "series": "歌牌情缘",
+    "cv": "濑户麻沙美",
+    "image": "assets/images/绫濑千早.jpg"
+  },
+  {
+    "name": "久慈川理世",
+    "romaji": "Kujikawa Rise",
+    "birthday": "06-01",
+    "series": "女神异闻录4",
+    "cv": "钉宫理惠",
+    "image": "assets/images/久慈川理世.jpg"
+  },
+  {
+    "name": "仓永梢",
+    "romaji": "Kuranaga Kozue",
+    "birthday": "06-01",
+    "series": "缘之空",
+    "cv": "峰岸由香里",
+    "image": "assets/images/仓永梢.jpg"
+  },
+  {
+    "name": "伊佐那社",
+    "romaji": "Isana Yashiro",
+    "birthday": "06-01",
+    "series": "K",
+    "cv": "浪川大辅",
+    "image": "assets/images/伊佐那社.jpg"
+  },
+  {
+    "name": "笹目夜弥",
+    "romaji": "Sasame Yaya",
+    "birthday": "06-01",
+    "series": "花舞少女",
+    "cv": "奥野香耶",
+    "image": "assets/images/笹目夜弥.jpg"
+  },
+  {
+    "name": "甘露寺蜜璃",
+    "romaji": "Kanroji Mitsuri",
+    "birthday": "06-01",
+    "series": "鬼灭之刃",
+    "cv": "花泽香菜",
+    "image": "assets/images/甘露寺蜜璃.jpg"
+  },
+  {
+    "name": "フニシア・ラファエリ",
+    "romaji": "Funicia Raffaeli",
+    "birthday": "06-01",
+    "series": "彼方的阿斯特拉",
+    "cv": "木野日菜",
+    "image": "assets/images/フニシア・ラファエリ.jpg"
+  },
+  {
+    "name": "木之下和也",
+    "romaji": "Kinoshita Kazuya",
+    "birthday": "06-01",
+    "series": "租借女友",
+    "cv": "堀江瞬",
+    "image": "assets/images/木之下和也.jpg"
+  },
+  {
+    "name": "多米妮克·德·萨德",
+    "romaji": "Dominique de Sade",
+    "birthday": "06-01",
+    "series": "瓦尼塔斯的手记",
+    "cv": "东山奈央",
+    "image": "assets/images/多米妮克·德·萨德.jpg"
+  },
+  {
+    "name": "乾纱寿叶",
+    "romaji": "Inui Sajuna",
+    "birthday": "06-01",
+    "series": "更衣人偶坠入爱河",
+    "cv": "种崎敦美",
+    "image": "assets/images/乾纱寿叶.jpg"
+  },
+  {
+    "name": "矢口春雄",
+    "romaji": "Yaguchi Haruo",
+    "birthday": "06-01",
+    "series": "高分少女",
+    "cv": "天崎滉平",
+    "image": "assets/images/矢口春雄.jpg"
+  },
+  {
+    "name": "伊格诺尔·林德尔",
+    "romaji": "Ignor Lindel",
+    "birthday": "06-01",
+    "series": "杖与剑的魔剑谭",
+    "cv": "河西健吾",
+    "image": "assets/images/伊格诺尔·林德尔.jpg"
+  },
+  {
+    "name": "红小豆",
+    "romaji": "Hong Xiaodou",
+    "birthday": "06-01",
+    "series": "请吃红小豆吧！",
+    "cv": "林佩妍",
+    "image": "assets/images/红小豆.jpg"
+  },
+  {
+    "name": "祐天寺若麦",
+    "romaji": "Yutenji Nyamu",
+    "birthday": "06-01",
+    "series": "BanG Dream!",
+    "cv": "米泽茜",
+    "image": "assets/images/祐天寺若麦.jpg"
   }
 ]
