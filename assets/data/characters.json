@@ -4334,5 +4334,85 @@
     "series": "孤独摇滚！",
     "cv": "村上裕美",
     "image": "assets/images/大槻悠悠子.jpg"
+  },
+  {
+    "name": "千石抚子",
+    "romaji": "Sengoku Nadeko",
+    "birthday": "06-03",
+    "series": "物语系列",
+    "cv": "花泽香菜",
+    "image": "assets/images/千石抚子.jpg"
+  },
+  {
+    "name": "右代宫楼座",
+    "romaji": "Ushiromiya Rosa",
+    "birthday": "06-03",
+    "series": "海猫鸣泣之时",
+    "cv": "小清水亚美",
+    "image": "assets/images/右代宫楼座.jpg"
+  },
+  {
+    "name": "乾贞治",
+    "romaji": "Inui Sadaharu",
+    "birthday": "06-03",
+    "series": "网球王子",
+    "cv": "津田健次郎",
+    "image": "assets/images/乾贞治.jpg"
+  },
+  {
+    "name": "雏山理绪",
+    "romaji": "Hinayama Rio",
+    "birthday": "06-03",
+    "series": "To Heart",
+    "cv": "大谷育江 / 寺泽百花",
+    "image": "assets/images/雏山理绪.jpg"
+  },
+  {
+    "name": "莉莎·艾奥斯特雷",
+    "romaji": "Lisa Eostre",
+    "birthday": "06-03",
+    "series": "少女骑士物语",
+    "cv": "夏野冰 / 田口宏子",
+    "image": "assets/images/莉莎·艾奥斯特雷.jpg"
+  },
+  {
+    "name": "藤宫澄夏",
+    "romaji": "Fujimiya Sumika",
+    "birthday": "06-03",
+    "series": "异世界舅舅",
+    "cv": "小松未可子",
+    "image": "assets/images/藤宫澄夏.jpg"
+  },
+  {
+    "name": "整井良子",
+    "romaji": "Totonoi Ryoko",
+    "birthday": "06-03",
+    "series": "群花绽放，彷如修罗",
+    "cv": "安野希世乃",
+    "image": "assets/images/整井良子.jpg"
+  },
+  {
+    "name": "川名岬",
+    "romaji": "Kawana Misaki",
+    "birthday": "06-03",
+    "series": "ONE～辉之季节～",
+    "cv": "雪乃五月",
+    "image": "assets/images/川名岬.jpg"
+  },
+  {
+    "name": "和叶·菲欧蕾",
+    "romaji": "Kazuha Fioretto",
+    "birthday": "06-03",
+    "series": "片羽",
+    "cv": "宫村优子",
+    "image": "assets/images/和叶·菲欧蕾.jpg"
+  },
+  {
+    "name": "西莲寺紫",
+    "romaji": "Sairenji Murasaki",
+    "birthday": "06-03",
+    "series": "7days—与你共度的七日间",
+    "cv": "大桥步夕",
+    "image": "assets/images/西莲寺紫.jpg"
   }
 ]
