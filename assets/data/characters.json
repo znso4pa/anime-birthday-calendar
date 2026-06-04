@@ -4414,5 +4414,53 @@
     "series": "7days—与你共度的七日间",
     "cv": "大桥步夕",
     "image": "assets/images/西莲寺紫.jpg"
+  },
+  {
+    "name": "桐生冬芽",
+    "romaji": "Kiryuu Touga",
+    "birthday": "06-04",
+    "series": "少女革命",
+    "cv": "子安武人",
+    "image": "assets/images/桐生冬芽.jpg"
+  },
+  {
+    "name": "矶端浮子",
+    "romaji": "Isohata Uki",
+    "birthday": "06-04",
+    "series": "女仆咖啡厅",
+    "cv": "樱井孝宏",
+    "image": "assets/images/矶端浮子.jpg"
+  },
+  {
+    "name": "八神疾风",
+    "romaji": "Yagami Hayate",
+    "birthday": "06-04",
+    "series": "魔法少女奈叶A's",
+    "cv": "植田佳奈",
+    "image": "assets/images/八神疾风.jpg"
+  },
+  {
+    "name": "武藤游戏",
+    "romaji": "Mutou Yuugi",
+    "birthday": "06-04",
+    "series": "游戏王",
+    "cv": "风间俊介",
+    "image": "assets/images/武藤游戏.jpg"
+  },
+  {
+    "name": "大神和臣",
+    "romaji": "Ooga Kazuomi",
+    "birthday": "06-04",
+    "series": "ReLIFE",
+    "cv": "内田雄马",
+    "image": "assets/images/大神和臣.jpg"
+  },
+  {
+    "name": "千咲·塔普莉丝·修格贝尔",
+    "romaji": "Chisaki Tapris Sugarbell",
+    "birthday": "06-04",
+    "series": "珈百璃的堕落",
+    "cv": "水濑祈",
+    "image": "assets/images/千咲·塔普莉丝·修格贝尔.jpg"
   }
 ]
