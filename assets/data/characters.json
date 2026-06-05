@@ -4462,5 +4462,45 @@
     "series": "珈百璃的堕落",
     "cv": "水濑祈",
     "image": "assets/images/千咲·塔普莉丝·修格贝尔.jpg"
+  },
+    {
+    "name": "冈崎乃理惠",
+    "romaji": "Okazaki Norie",
+    "birthday": "06-05",
+    "series": "玉响",
+    "cv": "井口裕香",
+    "image": "assets/images/冈崎乃理惠.jpg"
+  },
+  {
+    "name": "土御门夏目",
+    "romaji": "Tsuchimikado Natsume",
+    "birthday": "06-05",
+    "series": "东京暗鸦",
+    "cv": "花泽香菜",
+    "image": "assets/images/土御门夏目.jpg"
+  },
+  {
+    "name": "埃里哥·普奇",
+    "romaji": "Enrico Pucci",
+    "birthday": "06-05",
+    "series": "JOJO的奇妙冒险",
+    "cv": "中田让治",
+    "image": "assets/images/埃里哥·普奇.jpg"
+  },
+  {
+    "name": "多明尼克·普奇(天气预报)",
+    "romaji": "Domenico Pucci(Weather Report)",
+    "birthday": "06-05",
+    "series": "JOJO的奇妙冒险",
+    "cv": "梅原裕一郎",
+    "image": "assets/images/多明尼克·普奇(天气预报).jpg"
+  },
+  {
+    "name": "中原瑞希",
+    "romaji": "Nakahara Mizuki",
+    "birthday": "06-05",
+    "series": "莉可丽丝",
+    "cv": "中原麻衣",
+    "image": "assets/images/中原瑞希.jpg"
   }
 ]
