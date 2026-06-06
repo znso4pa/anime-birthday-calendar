@@ -4502,5 +4502,269 @@
     "series": "莉可丽丝",
     "cv": "中原麻衣",
     "image": "assets/images/中原瑞希.jpg"
+  },
+  {
+    "name": "碇真嗣",
+    "romaji": "Ikari Shinji",
+    "birthday": "06-06",
+    "series": "新世纪福音战士",
+    "cv": "绪方惠美",
+    "image": "assets/images/碇真嗣.png"
+  },
+  {
+    "name": "桂木桂马",
+    "romaji": "Katsuragi Keima",
+    "birthday": "06-06",
+    "series": "只有神知道的世界",
+    "cv": "下野纮",
+    "image": "assets/images/桂木桂马.png"
+  },
+  {
+    "name": "西索·莫罗",
+    "romaji": "Hisoka Morow",
+    "birthday": "06-06",
+    "series": "全职猎人",
+    "cv": "高桥广树",
+    "image": "assets/images/西索·莫罗.png"
+  },
+  {
+    "name": "佐藤润",
+    "romaji": "Satou Jun",
+    "birthday": "06-06",
+    "series": "迷糊餐厅",
+    "cv": "小野大辅",
+    "image": "assets/images/佐藤润.jpg"
+  },
+  {
+    "name": "博士",
+    "romaji": "Hakase",
+    "birthday": "06-06",
+    "series": "日常",
+    "cv": "今野宏美",
+    "image": "assets/images/博士.png"
+  },
+  {
+    "name": "桐生萌郁",
+    "romaji": "Kiryu Moe",
+    "birthday": "06-06",
+    "series": "命运石之门",
+    "cv": "后藤沙绪里",
+    "image": "assets/images/桐生萌郁.jpg"
+  },
+  {
+    "name": "秋山优花里",
+    "romaji": "Akiyama Yukari",
+    "birthday": "06-06",
+    "series": "少女与战车",
+    "cv": "中上育实",
+    "image": "assets/images/秋山优花里.png"
+  },
+  {
+    "name": "久世响希",
+    "romaji": "Kuze Hibiki",
+    "birthday": "06-06",
+    "series": "恶魔幸存者2",
+    "cv": "神谷浩史",
+    "image": "assets/images/久世响希.png"
+  },
+  {
+    "name": "野崎梅太郎",
+    "romaji": "Nozaki Umetarou",
+    "birthday": "06-06",
+    "series": "月刊少女野崎君",
+    "cv": "中村悠一",
+    "image": "assets/images/野崎梅太郎.jpg"
+  },
+  {
+    "name": "大宫忍",
+    "romaji": "Oomiya Shinobu",
+    "birthday": "06-06",
+    "series": "黄金拼图",
+    "cv": "西明日香",
+    "image": "assets/images/大宫忍.jpg"
+  },
+  {
+    "name": "东金朔夜",
+    "romaji": "Tougane Sakuya",
+    "birthday": "06-06",
+    "series": "心理测量者",
+    "cv": "藤原启治",
+    "image": "assets/images/东金朔夜.jpg"
+  },
+  {
+    "name": "绫崎礼美",
+    "romaji": "Ayasaki Remi",
+    "birthday": "06-06",
+    "series": "堀与宫村",
+    "cv": "M·A·O",
+    "image": "assets/images/绫崎礼美.png"
+  },
+  {
+    "name": "焰魔堂辘轳",
+    "romaji": "Enmadou Rokuro",
+    "birthday": "06-06",
+    "series": "双星之阴阳师",
+    "cv": "花江夏树",
+    "image": "assets/images/焰魔堂辘轳.png"
+  },
+  {
+    "name": "四方川菖蒲",
+    "romaji": "Yomogawa Ayame",
+    "birthday": "06-06",
+    "series": "甲铁城的卡巴内瑞",
+    "cv": "内田真礼",
+    "image": "assets/images/四方川菖蒲.jpg"
+  },
+  {
+    "name": "羽岛伊月",
+    "romaji": "Hashima Itsuki",
+    "birthday": "06-06",
+    "series": "如果有妹妹就好了",
+    "cv": "小林裕介",
+    "image": "assets/images/羽岛伊月.png"
+  },
+  {
+    "name": "神田优",
+    "romaji": "Kanda Yuu",
+    "birthday": "06-06",
+    "series": "驱魔少年",
+    "cv": "樱井孝宏",
+    "image": "assets/images/神田优.png"
+  },
+  {
+    "name": "心",
+    "romaji": "Kokoro",
+    "birthday": "06-06",
+    "series": "DARLING in the FRANXX",
+    "cv": "早见沙织",
+    "image": "assets/images/心.jpg"
+  },
+  {
+    "name": "贯井羽优",
+    "romaji": "Nukui Hayu",
+    "birthday": "06-06",
+    "series": "满溢的水果挞",
+    "cv": "白石晴香",
+    "image": "assets/images/贯井羽优.png"
+  },
+  {
+    "name": "大佛小钵",
+    "romaji": "Osaragi Kobachi",
+    "birthday": "06-06",
+    "series": "辉夜大小姐想让我告白",
+    "cv": "日高里菜",
+    "image": "assets/images/大佛小钵.png"
+  },
+  {
+    "name": "小熊",
+    "romaji": "Koguma",
+    "birthday": "06-06",
+    "series": "本田小狼与我",
+    "cv": "夜道雪",
+    "image": "assets/images/小熊.png"
+  },
+  {
+    "name": "芦森诗音",
+    "romaji": "Ashimo Shion",
+    "birthday": "06-06",
+    "series": "让我听见爱的歌声",
+    "cv": "土屋太凤",
+    "image": "assets/images/芦森诗音.png"
+  },
+  {
+    "name": "神黙根子",
+    "romaji": "Kamimoku Neko",
+    "birthday": "06-06",
+    "series": "明日同学的水手服",
+    "cv": "伊藤美来",
+    "image": "assets/images/神黙根子.png"
+  },
+  {
+    "name": "夜樱六美",
+    "romaji": "Yozakura Mutsumi",
+    "birthday": "06-06",
+    "series": "夜樱家的大作战",
+    "cv": "本渡枫",
+    "image": "assets/images/夜樱六美.jpg"
+  },
+  {
+    "name": "曲世爱",
+    "romaji": "Magase Ai",
+    "birthday": "06-06",
+    "series": "巴比伦",
+    "cv": "雪野五月",
+    "image": "assets/images/曲世爱.png"
+  },
+  {
+    "name": "阿斯莫德·艾利斯",
+    "romaji": "Asmodeus Alice",
+    "birthday": "06-06",
+    "series": "入间同学入魔了",
+    "cv": "木村良平",
+    "image": "assets/images/阿斯莫德·艾利斯.png"
+  },
+  {
+    "name": "久条翡翠",
+    "romaji": "Kujou Hisui",
+    "birthday": "06-06",
+    "series": "女高中生的无所事事",
+    "cv": "M·A·O",
+    "image": "assets/images/久条翡翠.jpg"
+  },
+  {
+    "name": "久条琥珀",
+    "romaji": "Kujou Kohaku",
+    "birthday": "06-06",
+    "series": "女高中生的无所事事",
+    "cv": "上田丽奈",
+    "image": "assets/images/久条琥珀.png"
+  },
+  {
+    "name": "调月莉音",
+    "romaji": "Tsukatsuki Rio",
+    "birthday": "06-06",
+    "series": "蔚蓝档案",
+    "cv": "Lynn",
+    "image": "assets/images/调月莉音.png"
+  },
+  {
+    "name": "笹仓未来",
+    "romaji": "Sasakura Mirai",
+    "birthday": "06-06",
+    "series": "卡卢玛卢卡同好会",
+    "cv": "卯衣",
+    "image": "assets/images/笹仓未来.jpg"
+  },
+  {
+    "name": "飞鸟凛",
+    "romaji": "Asuka Rin",
+    "birthday": "06-06",
+    "series": "幸运草的约定",
+    "cv": "友永朱音",
+    "image": "assets/images/飞鸟凛.png"
+  },
+  {
+    "name": "鸣泷心和",
+    "romaji": "Narutaki Koyori",
+    "birthday": "06-06",
+    "series": "智以泪聚",
+    "cv": "鹰月さくら",
+    "image": "assets/images/鸣泷心和.jpg"
+  },
+  {
+    "name": "早蕨美海",
+    "romaji": "Sawarabi Miumi",
+    "birthday": "06-06",
+    "series": "秋之回忆5：中断的胶片",
+    "cv": "名冢佳织",
+    "image": "assets/images/早蕨美海.jpg"
+  },
+  {
+    "name": "冬月十夜",
+    "romaji": "Fuyutsuki Touya",
+    "birthday": "06-06",
+    "series": "樱花、萌放。 -as the Night's, Reincarnation-",
+    "cv": "双葉まりか",
+    "image": "assets/images/冬月十夜.jpg"
   }
 ]
