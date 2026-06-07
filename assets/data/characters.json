@@ -224,14 +224,6 @@
     "image": "assets/images/镇元斋.png"
   },
   {
-    "name": "培罗娜",
-    "romaji": "Perona",
-    "birthday": "04-27",
-    "series": "海贼王",
-    "cv": "西原久美子",
-    "image": "assets/images/培罗娜.jpg"
-  },
-  {
     "name": "白钟直斗",
     "romaji": "Shirogane Naoto",
     "birthday": "04-27",
@@ -4766,5 +4758,117 @@
     "series": "樱花、萌放。 -as the Night's, Reincarnation-",
     "cv": "双葉まりか",
     "image": "assets/images/冬月十夜.jpg"
+  },
+  {
+    "name": "魅上照",
+    "romaji": "Mikami Teru",
+    "birthday": "06-07",
+    "series": "死亡笔记",
+    "cv": "松风雅也",
+    "image": "assets/images/魅上照.jpg"
+  },
+  {
+    "name": "佩罗娜",
+    "romaji": "Perona",
+    "birthday": "06-07",
+    "series": "海贼王",
+    "cv": "西原久美子",
+    "image": "assets/images/佩罗娜.jpg"
+  },
+  {
+    "name": "千堂瑛里华",
+    "romaji": "Sendou Erika",
+    "birthday": "06-07",
+    "series": "FORTUNE ARTERIAL -赤之约束-",
+    "cv": "神田理江",
+    "image": "assets/images/千堂瑛里华.jpg"
+  },
+  {
+    "name": "桐崎千棘",
+    "romaji": "Kirisaki Chitoge",
+    "birthday": "06-07",
+    "series": "伪恋",
+    "cv": "东山奈央",
+    "image": "assets/images/桐崎千棘.jpg"
+  },
+  {
+    "name": "艾黎儿·阿巴斯",
+    "romaji": "Ariel Albus",
+    "birthday": "06-07",
+    "series": "献给某飞行员的恋歌",
+    "cv": "竹达彩奈",
+    "image": "assets/images/艾黎儿·阿巴斯.jpg"
+  },
+  {
+    "name": "西宫硝子",
+    "romaji": "Nishimiya Shouko",
+    "birthday": "06-07",
+    "series": "声之形",
+    "cv": "早见沙织",
+    "image": "assets/images/西宫硝子.jpg"
+  },
+  {
+    "name": "佐藤和真",
+    "romaji": "Satou Kazuma",
+    "birthday": "06-07",
+    "series": "为美好的世界献上祝福！",
+    "cv": "福岛润",
+    "image": "assets/images/佐藤和真.jpg"
+  },
+  {
+    "name": "佐佐木千枝",
+    "romaji": "Sasaki Chie",
+    "birthday": "06-07",
+    "series": "偶像大师 灰姑娘女孩",
+    "cv": "今井麻夏",
+    "image": "assets/images/佐佐木千枝.jpg"
+  },
+  {
+    "name": "上崎真诗",
+    "romaji": "Kamizaki Makoto",
+    "birthday": "06-07",
+    "series": "清恋",
+    "cv": "三上枝织",
+    "image": "assets/images/上崎真诗.jpg"
+  },
+  {
+    "name": "土桥理香",
+    "romaji": "Dobashi Rika",
+    "birthday": "06-07",
+    "series": "初恋限定。",
+    "cv": "寿美菜子",
+    "image": "assets/images/土桥理香.jpg"
+  },
+  {
+    "name": "朝仓信",
+    "romaji": "Asakura Shin",
+    "birthday": "06-07",
+    "series": "坂本日常",
+    "cv": "岛崎信长",
+    "image": "assets/images/朝仓信.jpg"
+  },
+  {
+    "name": "牧野神奈",
+    "romaji": "Makino Kanna",
+    "birthday": "06-07",
+    "series": "玉子市场",
+    "cv": "长妻树里",
+    "image": "assets/images/牧野神奈.jpg"
+  },
+  {
+    "name": "藤和艾莉欧",
+    "romaji": "Touwa Erio",
+    "birthday": "06-07",
+    "series": "电波女与青春男",
+    "cv": "大龟明日香",
+    "image": "assets/images/藤和艾莉欧.jpg"
+  },
+  {
+    "name": "夏凪渚",
+    "romaji": "Natsunagi Nagisa",
+    "birthday": "06-07",
+    "series": "侦探已经死了。",
+    "cv": "竹达彩奈",
+    "image": "assets/images/夏凪渚.jpg"
   }
 ]
