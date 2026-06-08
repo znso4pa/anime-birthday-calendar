@@ -4870,5 +4870,101 @@
     "series": "侦探已经死了。",
     "cv": "竹达彩奈",
     "image": "assets/images/夏凪渚.jpg"
+  },
+  {
+    "name": "御门玛利亚",
+    "romaji": "Mikado Mariya",
+    "birthday": "06-08",
+    "series": "少女爱上姐姐",
+    "cv": "あおいひとみ（原作、广播剧） / 浅野真澄（TV版）",
+    "image": "assets/images/御门玛利亚.jpg"
+  },
+  {
+    "name": "荣口勇人",
+    "romaji": "Sakaeguchi Yuuto",
+    "birthday": "06-08",
+    "series": "王牌投手 振臂高挥",
+    "cv": "铃木千寻",
+    "image": "assets/images/荣口勇人.jpg"
+  },
+  {
+    "name": "清水谷龙华",
+    "romaji": "Shimizudani Ryuuka",
+    "birthday": "06-08",
+    "series": "天才麻将少女",
+    "cv": "石原夏织",
+    "image": "assets/images/清水谷龙华.jpg"
+  },
+  {
+    "name": "O·D",
+    "romaji": "O.D.",
+    "birthday": "06-08",
+    "series": "科学小飞侠Crowds",
+    "cv": "细见大辅",
+    "image": "assets/images/O·D.png"
+  },
+  {
+    "name": "平慎二",
+    "romaji": "Taira Shinji",
+    "birthday": "06-08",
+    "series": "你所期望的永远",
+    "cv": "青木诚",
+    "image": "assets/images/平慎二.jpg"
+  },
+  {
+    "name": "香月夕呼",
+    "romaji": "Kozuki Yuuko",
+    "birthday": "06-08",
+    "series": "Muv-Luv Alternative",
+    "cv": "青木瑠璃子",
+    "image": "assets/images/香月夕呼.jpg"
+  },
+  {
+    "name": "铃屋什造",
+    "romaji": "Suzuya Juuzou",
+    "birthday": "06-08",
+    "series": "东京喰种",
+    "cv": "钉宫理惠",
+    "image": "assets/images/铃屋什造.jpg"
+  },
+  {
+    "name": "天雾绫斗",
+    "romaji": "Amagiri Ayato",
+    "birthday": "06-08",
+    "series": "学战都市 六芒星",
+    "cv": "田丸笃志",
+    "image": "assets/images/天雾绫斗.jpg"
+  },
+  {
+    "name": "要·巴卡妮雅",
+    "romaji": "Kaname Bacchaniya",
+    "birthday": "06-08",
+    "series": "超时空要塞Δ",
+    "cv": "安野希世乃",
+    "image": "assets/images/要·巴卡妮雅.jpg"
+  },
+  {
+    "name": "鸣濑白羽",
+    "romaji": "Naruse Shiroha",
+    "birthday": "06-08",
+    "series": "Summer Pockets",
+    "cv": "小原好美",
+    "image": "assets/images/鸣濑白羽.jpg"
+  },
+  {
+    "name": "风铃儿",
+    "romaji": "Feng Ling'er",
+    "birthday": "06-08",
+    "series": "风灵玉秀",
+    "cv": "张琦",
+    "image": "assets/images/风铃儿.jpg"
+  },
+  {
+    "name": "那智鞠绪",
+    "romaji": "Nachi Mao",
+    "birthday": "06-08",
+    "series": "金牌得主",
+    "cv": "户田惠",
+    "image": "assets/images/那智鞠绪.jpg"
   }
 ]
