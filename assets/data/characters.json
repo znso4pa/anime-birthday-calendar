@@ -4958,5 +4958,93 @@
     "series": "金牌得主",
     "cv": "户田惠",
     "image": "assets/images/那智鞠绪.jpg"
+  },
+  {
+    "name": "常陆院馨",
+    "romaji": "Hitachiin Kaoru",
+    "birthday": "06-09",
+    "series": "樱兰高校男公关部",
+    "cv": "铃村健一（动画）/ 藤田圭宣（广播剧）",
+    "image": "assets/images/常陆院馨.jpg"
+  },
+  {
+    "name": "常陆院光",
+    "romaji": "Hitachiin Hikaru",
+    "birthday": "06-09",
+    "series": "樱兰高校男公关部",
+    "cv": "铃村健一（动画）/ 藤田圭宣（广播剧）",
+    "image": "assets/images/常陆院光.jpg"
+  },
+  {
+    "name": "六道骸",
+    "romaji": "Rokudou Mukuro",
+    "birthday": "06-09",
+    "series": "家庭教师HITMAN REBORN!",
+    "cv": "饭田利信",
+    "image": "assets/images/六道骸.jpg"
+  },
+  {
+    "name": "宇智波鼬",
+    "romaji": "Uchiha Itachi",
+    "birthday": "06-09",
+    "series": "火影忍者",
+    "cv": "石川英郎",
+    "image": "assets/images/宇智波鼬.jpg"
+  },
+  {
+    "name": "枪水仙",
+    "romaji": "Yarizui Sen",
+    "birthday": "06-09",
+    "series": "便·当",
+    "cv": "伊濑茉莉也",
+    "image": "assets/images/枪水仙.jpg"
+  },
+  {
+    "name": "东条希",
+    "romaji": "Tojo Nozomi",
+    "birthday": "06-09",
+    "series": "Love Live!",
+    "cv": "楠田亚衣奈",
+    "image": "assets/images/东条希.jpg"
+  },
+  {
+    "name": "大和田纹土",
+    "romaji": "Owada Mondo",
+    "birthday": "06-09",
+    "series": "弹丸论破 希望学园与绝望高中生",
+    "cv": "中井和哉",
+    "image": "assets/images/大和田纹土.png"
+  },
+  {
+    "name": "史蒂芬·A·斯塔菲斯",
+    "romaji": "Stephen A. Starphase",
+    "birthday": "06-09",
+    "series": "血界战线",
+    "cv": "宫本充",
+    "image": "assets/images/史蒂芬·A·斯塔菲斯.jpg"
+  },
+  {
+    "name": "天野美雨",
+    "romaji": "Amano Miu",
+    "birthday": "06-09",
+    "series": "调教咖啡厅",
+    "cv": "种崎敦美",
+    "image": "assets/images/天野美雨.jpg"
+  },
+  {
+    "name": "Zack Walker",
+    "romaji": "Zack Walker",
+    "birthday": "06-09",
+    "series": "彼方的阿斯特拉",
+    "cv": "武内骏辅",
+    "image": "assets/images/Zack Walker.jpg"
+  },
+  {
+    "name": "医生",
+    "romaji": "Isha",
+    "birthday": "06-09",
+    "series": "全员恶玉",
+    "cv": "绪方惠美",
+    "image": "assets/images/医生.jpg"
   }
 ]
