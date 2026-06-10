@@ -5046,5 +5046,93 @@
     "series": "全员恶玉",
     "cv": "绪方惠美",
     "image": "assets/images/医生.jpg"
+  },
+  {
+    "name": "贵月一夏",
+    "romaji": "Takatsuki Ichika",
+    "birthday": "06-10",
+    "series": "在盛夏等待",
+    "cv": "戸松遥",
+    "image": "assets/images/贵月一夏.jpg"
+  },
+  {
+    "name": "峰津院大和",
+    "romaji": "Houtsuin Yamato",
+    "birthday": "06-10",
+    "series": "恶魔幸存者2",
+    "cv": "诹访部顺一",
+    "image": "assets/images/峰津院大和.jpg"
+  },
+  {
+    "name": "时崎狂三",
+    "romaji": "Tokisaki Kurumi",
+    "birthday": "06-10",
+    "series": "约会大作战",
+    "cv": "真田麻美",
+    "image": "assets/images/时崎狂三.jpg"
+  },
+  {
+    "name": "永近英良",
+    "romaji": "Nagachika Hideyoshi",
+    "birthday": "06-10",
+    "series": "东京喰种",
+    "cv": "丰永利行 / 上田丽奈（幼年）",
+    "image": "assets/images/永近英良.jpg"
+  },
+  {
+    "name": "克劳蒂雅·恩菲尔德",
+    "romaji": "Claudia Enfield",
+    "birthday": "06-10",
+    "series": "学战都市 六芒星",
+    "cv": "东山奈央",
+    "image": "assets/images/克劳蒂雅·恩菲尔德.jpg"
+  },
+  {
+    "name": "夕莉夏琪",
+    "romaji": "Yuuri Shachi",
+    "birthday": "06-10",
+    "series": "野良和皇女和流浪猫之心",
+    "cv": "浅川悠",
+    "image": "assets/images/夕莉夏琪.jpg"
+  },
+  {
+    "name": "相之江柚叶",
+    "romaji": "Aigae Yuzuha",
+    "birthday": "06-10",
+    "series": "天使的3P!",
+    "cv": "井口裕香",
+    "image": "assets/images/相之江柚叶.jpg"
+  },
+  {
+    "name": "瑞依",
+    "romaji": "Ray",
+    "birthday": "06-10",
+    "series": "杀戮天使",
+    "cv": "千菅春香",
+    "image": "assets/images/瑞依.jpg"
+  },
+  {
+    "name": "特丝黛",
+    "romaji": "Tesla",
+    "birthday": "06-10",
+    "series": "CAROLE & TUESDAY",
+    "cv": "市之濑加那",
+    "image": "assets/images/特丝黛.jpg"
+  },
+  {
+    "name": "天宫美森",
+    "romaji": "Amamiya Mimori",
+    "birthday": "06-10",
+    "series": "影之诗",
+    "cv": "本渡楓",
+    "image": "assets/images/天宫美森.jpg"
+  },
+  {
+    "name": "黑羽亚夜子",
+    "romaji": "Kuroba Ayako",
+    "birthday": "06-10",
+    "series": "魔法科高校的劣等生",
+    "cv": "内田真礼",
+    "image": "assets/images/黑羽亚夜子.jpg"
   }
 ]
