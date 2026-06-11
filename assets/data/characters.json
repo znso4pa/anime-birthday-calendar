@@ -5182,5 +5182,117 @@
     "series": "青之芦苇",
     "cv": "山下诚一郎",
     "image": "assets/images/橘总一朗.jpg"
+  },
+  {
+    "name": "雾岛佳乃",
+    "romaji": "Kirishima Kano",
+    "birthday": "06-12",
+    "series": "AIR",
+    "cv": "冈本麻见",
+    "image": "assets/images/雾岛佳乃.jpg"
+  },
+  {
+    "name": "能美·库特莉亚芙卡",
+    "romaji": "Noumi Kudryavka",
+    "birthday": "06-12",
+    "series": "Little Busters!",
+    "cv": "铃田美夜子",
+    "image": "assets/images/能美·库特莉亚芙卡.jpg"
+  },
+  {
+    "name": "天草筱",
+    "romaji": "Amakusa Shino",
+    "birthday": "06-12",
+    "series": "妄想学生会",
+    "cv": "日笠阳子",
+    "image": "assets/images/天草筱.jpg"
+  },
+  {
+    "name": "克洛德·克劳戴",
+    "romaji": "Claude",
+    "birthday": "06-12",
+    "series": "异国迷宫的十字路口",
+    "cv": "近藤隆",
+    "image": "assets/images/克洛德·克劳戴.jpg"
+  },
+  {
+    "name": "劳乌·鲁·克鲁泽",
+    "romaji": "Rau Le Creuset",
+    "birthday": "06-12",
+    "series": "机动战士高达SEED",
+    "cv": "关俊彦",
+    "image": "assets/images/劳乌·鲁·克鲁泽.jpg"
+  },
+  {
+    "name": "小鸟游六花",
+    "romaji": "Takanashi Rikka",
+    "birthday": "06-12",
+    "series": "中二病也要谈恋爱!",
+    "cv": "内田真礼",
+    "image": "assets/images/小鸟游六花.jpg"
+  },
+  {
+    "name": "海德拉·贝鲁",
+    "romaji": "Hydra Bell",
+    "birthday": "06-12",
+    "series": "血意少年",
+    "cv": "布里德卡特·塞拉·惠美",
+    "image": "assets/images/海德拉·贝鲁.jpg"
+  },
+  {
+    "name": "伊丽莎白·里昂尼丝",
+    "romaji": "Elizabeth Liones",
+    "birthday": "06-12",
+    "series": "七大罪",
+    "cv": "雨宫天",
+    "image": "assets/images/伊丽莎白·里昂尼丝.jpg"
+  },
+  {
+    "name": "三好夏凛",
+    "romaji": "Miyoshi Karin",
+    "birthday": "06-12",
+    "series": "结城友奈是勇者",
+    "cv": "长妻树里",
+    "image": "assets/images/三好夏凛.jpg"
+  },
+  {
+    "name": "美铃·霍克",
+    "romaji": "Meyrin Hawke",
+    "birthday": "06-12",
+    "series": "机动战士高达SEED",
+    "cv": "折笠富美子",
+    "image": "assets/images/美铃·霍克.jpg"
+  },
+  {
+    "name": "马场木实",
+    "romaji": "Baba Konomi",
+    "birthday": "06-12",
+    "series": "偶像大师 百万现场！",
+    "cv": "高桥未奈美",
+    "image": "assets/images/马场木实.jpg"
+  },
+  {
+    "name": "特蕾西亚·梵·阿斯特雷亚",
+    "romaji": "Theresia van Astrea",
+    "birthday": "06-12",
+    "series": "Re：从零开始的异世界生活",
+    "cv": "高桥未奈美",
+    "image": "assets/images/特蕾西亚·梵·阿斯特雷亚.jpg"
+  },
+  {
+    "name": "铃木美玲",
+    "romaji": "Suzuki Mirei",
+    "birthday": "06-12",
+    "series": "吹响吧！上低音号",
+    "cv": "七濑彩夏",
+    "image": "assets/images/铃木美玲.jpg"
+  },
+  {
+    "name": "休斯",
+    "romaji": "Hyuse",
+    "birthday": "06-12",
+    "series": "境界触发者",
+    "cv": "岛崎信长",
+    "image": "assets/images/休斯.png"
   }
 ]
