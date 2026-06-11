@@ -5134,5 +5134,53 @@
     "series": "魔法科高校的劣等生",
     "cv": "内田真礼",
     "image": "assets/images/黑羽亚夜子.jpg"
+  },
+  {
+    "name": "春原芽衣",
+    "romaji": "Sunohara Mei",
+    "birthday": "06-11",
+    "series": "CLANNAD",
+    "cv": "田村由香里",
+    "image": "assets/images/春原芽衣.jpg"
+  },
+  {
+    "name": "艾可",
+    "romaji": "Echo",
+    "birthday": "06-11",
+    "series": "潘多拉之心",
+    "cv": "广桥凉",
+    "image": "assets/images/艾可.jpg"
+  },
+  {
+    "name": "莉涅特·毕晓普",
+    "romaji": "Lynette Bishop",
+    "birthday": "06-11",
+    "series": "强袭魔女",
+    "cv": "名冢佳织",
+    "image": "assets/images/莉涅特·毕晓普.jpg"
+  },
+  {
+    "name": "绪方智绘里",
+    "romaji": "Ogata Chieri",
+    "birthday": "06-11",
+    "series": "偶像大师 灰姑娘女孩",
+    "cv": "大空直美",
+    "image": "assets/images/绪方智绘里.jpg"
+  },
+  {
+    "name": "梦原知予",
+    "romaji": "Yumehara Chiyo",
+    "birthday": "06-11",
+    "series": "齐木楠雄的灾难",
+    "cv": "田村由香里",
+    "image": "assets/images/梦原知予.jpg"
+  },
+  {
+    "name": "橘总一朗",
+    "romaji": "Tachibana Souichirou",
+    "birthday": "06-11",
+    "series": "青之芦苇",
+    "cv": "山下诚一郎",
+    "image": "assets/images/橘总一朗.jpg"
   }
 ]
