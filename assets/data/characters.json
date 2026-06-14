@@ -5358,5 +5358,37 @@
     "series": "迷宫饭",
     "cv": "川田绅司",
     "image": "assets/images/菊朗.jpg"
+  },
+  {
+    "name": "反之冢连胜",
+    "romaji": "Sorinotsuka Renshou",
+    "birthday": "06-14",
+    "series": "妖狐×仆SS",
+    "cv": "细谷佳正",
+    "image": "assets/images/反之冢连胜.jpg"
+  },
+  {
+    "name": "高垣枫",
+    "romaji": "Takagaki Kaede",
+    "birthday": "06-14",
+    "series": "偶像大师 灰姑娘女孩",
+    "cv": "早见沙织",
+    "image": "assets/images/高垣枫.jpg"
+  },
+  {
+    "name": "骇客",
+    "romaji": "Hacker",
+    "birthday": "06-14",
+    "series": "全员恶玉",
+    "cv": "堀江瞬",
+    "image": "assets/images/骇客.jpg"
+  },
+  {
+    "name": "桑古木凉权",
+    "romaji": "Kuwakigawa Ryōken",
+    "birthday": "06-14",
+    "series": "Ever17 -the out of infinity-",
+    "cv": "保志总一朗",
+    "image": "assets/images/桑古木凉权.png"
   }
 ]
