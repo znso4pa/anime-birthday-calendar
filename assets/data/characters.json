@@ -5390,5 +5390,61 @@
     "series": "Ever17 -the out of infinity-",
     "cv": "保志总一朗",
     "image": "assets/images/桑古木凉权.png"
+  },
+  {
+    "name": "大和凛子",
+    "romaji": "Yamato Rinko",
+    "birthday": "06-15",
+    "series": "俺物语!!",
+    "cv": "潘惠美",
+    "image": "assets/images/大和凛子.jpg"
+  },
+  {
+    "name": "大户爱",
+    "romaji": "Ooto Ai",
+    "birthday": "06-15",
+    "series": "奇蛋物语",
+    "cv": "相川奏多",
+    "image": "assets/images/大户爱.jpg"
+  },
+  {
+    "name": "寻",
+    "romaji": "Hiro",
+    "birthday": "06-15",
+    "series": "向阳素描",
+    "cv": "后藤邑子",
+    "image": "assets/images/寻.png"
+  },
+  {
+    "name": "小野寺小咲",
+    "romaji": "Onodera Kosaki",
+    "birthday": "06-15",
+    "series": "伪恋",
+    "cv": "花泽香菜",
+    "image": "assets/images/小野寺小咲.jpg"
+  },
+  {
+    "name": "藤之宫宁子",
+    "romaji": "Fujinomiya Neko",
+    "birthday": "06-16",
+    "series": "政宗君的复仇",
+    "cv": "三森铃子",
+    "image": "assets/images/藤之宫宁子.jpg"
+  },
+  {
+    "name": "远坂时臣",
+    "romaji": "Tosaka Tokiomi",
+    "birthday": "06-16",
+    "series": "Fate/Zero",
+    "cv": "速水奖",
+    "image": "assets/images/远坂时臣.jpg"
+  },
+  {
+    "name": "铃木佳奈",
+    "romaji": "Suzuki Kana",
+    "birthday": "06-16",
+    "series": "大图书馆的牧羊人",
+    "cv": "遥空",
+    "image": "assets/images/铃木佳奈.jpg"
   }
 ]
