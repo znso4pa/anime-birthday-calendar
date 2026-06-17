@@ -5446,5 +5446,77 @@
     "series": "大图书馆的牧羊人",
     "cv": "遥空",
     "image": "assets/images/铃木佳奈.jpg"
+  },
+  {
+    "name": "右代宫缘寿",
+    "romaji": "Ushiromiya Erika",
+    "birthday": "06-17",
+    "series": "海猫鸣泣之时",
+    "cv": "佐藤利奈",
+    "image": "assets/images/右代宫缘寿.jpg"
+  },
+  {
+    "name": "朝仓音姬",
+    "romaji": "Asakura Otome",
+    "birthday": "06-17",
+    "series": "初音岛系列",
+    "cv": "高桥美佳子",
+    "image": "assets/images/朝仓音姬.jpg"
+  },
+  {
+    "name": "玉村玉绪",
+    "romaji": "Tamamura Tamao",
+    "birthday": "06-17",
+    "series": "通灵王",
+    "cv": "水树奈奈",
+    "image": "assets/images/玉村玉绪.png"
+  },
+  {
+    "name": "贵嶋沙希",
+    "romaji": "Kijima Saki",
+    "birthday": "06-17",
+    "series": "旋风管家！",
+    "cv": "中岛沙树",
+    "image": "assets/images/贵嶋沙希.jpg"
+  },
+  {
+    "name": "远藤伊豆那",
+    "romaji": "Endo Izuna",
+    "birthday": "06-17",
+    "series": "铁之线月",
+    "cv": "钉宫理惠",
+    "image": "assets/images/远藤伊豆那.jpg"
+  },
+  {
+    "name": "远藤静奈",
+    "romaji": "Endo Shizuna",
+    "birthday": "06-17",
+    "series": "铁之线月",
+    "cv": "植田佳奈",
+    "image": "assets/images/远藤静奈.jpg"
+  },
+  {
+    "name": "神代芙劳",
+    "romaji": "Koujiro Frau",
+    "birthday": "06-17",
+    "series": "机器人笔记",
+    "cv": "名冢佳织",
+    "image": "assets/images/神代芙劳.jpg"
+  },
+  {
+    "name": "加持良治",
+    "romaji": "Kaji Ryouji",
+    "birthday": "06-17",
+    "series": "新世纪福音战士",
+    "cv": "山寺宏一",
+    "image": "assets/images/加持良治.jpg"
+  },
+  {
+    "name": "神乐丽",
+    "romaji": "Kagura Rei",
+    "birthday": "06-17",
+    "series": "偶像大师 SideM",
+    "cv": "滨健人",
+    "image": "assets/images/神乐丽.jpg"
   }
 ]
