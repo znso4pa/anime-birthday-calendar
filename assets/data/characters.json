@@ -5518,5 +5518,53 @@
     "series": "偶像大师 SideM",
     "cv": "滨健人",
     "image": "assets/images/神乐丽.jpg"
+  },
+  {
+    "name": "由比滨结衣",
+    "romaji": "Yuigahama Yui",
+    "birthday": "06-18",
+    "series": "我的青春恋爱物语果然有问题",
+    "cv": "东山奈央",
+    "image": "assets/images/由比滨结衣.jpg"
+  },
+  {
+    "name": "中津静流",
+    "romaji": "Nakatsu Shizuru",
+    "birthday": "06-18",
+    "series": "Rewrite",
+    "cv": "铃木惠子",
+    "image": "assets/images/中津静流.jpg"
+  },
+  {
+    "name": "黄濑凉太",
+    "romaji": "Kise Ryota",
+    "birthday": "06-18",
+    "series": "黑子的篮球",
+    "cv": "木村良平",
+    "image": "assets/images/黄濑凉太.jpg"
+  },
+  {
+    "name": "夜神妆裕",
+    "romaji": "Yagami Sayu",
+    "birthday": "06-18",
+    "series": "死亡笔记",
+    "cv": "工藤晴香",
+    "image": "assets/images/夜神妆裕.jpg"
+  },
+  {
+    "name": "灰吕杵志",
+    "romaji": "Hairo Kineshi",
+    "birthday": "06-18",
+    "series": "齐木楠雄的灾难",
+    "cv": "日野聪",
+    "image": "assets/images/灰吕杵志.jpg"
+  },
+  {
+    "name": "安娜·柯波拉",
+    "romaji": "Ana Coppola",
+    "birthday": "06-18",
+    "series": "草莓棉花糖",
+    "cv": "能登麻美子",
+    "image": "assets/images/安娜·柯波拉.png"
   }
 ]
