@@ -5566,5 +5566,165 @@
     "series": "草莓棉花糖",
     "cv": "能登麻美子",
     "image": "assets/images/安娜·柯波拉.png"
+  },
+  {
+    "name": "加菲猫",
+    "romaji": "Garfield",
+    "birthday": "06-19",
+    "series": "加菲猫",
+    "cv": "山寺宏一",
+    "image": "assets/images/加菲猫.png"
+  },
+  {
+    "name": "玛丽亚·橘",
+    "romaji": "Maria Tachibana",
+    "birthday": "06-19",
+    "series": "樱花大战",
+    "cv": "高乃丽",
+    "image": "assets/images/玛丽亚·橘.jpg"
+  },
+  {
+    "name": "凯文·麦多加尔",
+    "romaji": "Kevin McDougall",
+    "birthday": "06-19",
+    "series": "黑猫",
+    "cv": "武内健",
+    "image": "assets/images/凯文·麦多加尔.jpg"
+  },
+  {
+    "name": "小森雾",
+    "romaji": "Komori Kiri",
+    "birthday": "06-19",
+    "series": "忏·再见！绝望先生",
+    "cv": "谷井明日香",
+    "image": "assets/images/小森雾.png"
+  },
+  {
+    "name": "纪田正臣",
+    "romaji": "Kida Masaomi",
+    "birthday": "06-19",
+    "series": "无头骑士异闻录",
+    "cv": "宫野真守",
+    "image": "assets/images/纪田正臣.jpg"
+  },
+  {
+    "name": "仓泽六夏",
+    "romaji": "Kurasawa Rikka",
+    "birthday": "06-19",
+    "series": "机巧魔神",
+    "cv": "喜多村英梨",
+    "image": "assets/images/仓泽六夏.jpg"
+  },
+  {
+    "name": "练红玉",
+    "romaji": "Ren Kougyoku",
+    "birthday": "06-19",
+    "series": "魔笛Magi",
+    "cv": "花泽香菜",
+    "image": "assets/images/练红玉.png"
+  },
+  {
+    "name": "浦岛太郎",
+    "romaji": "Urashima Tarou",
+    "birthday": "06-19",
+    "series": "大神与七位伙伴",
+    "cv": "浅沼晋太郎",
+    "image": "assets/images/浦岛太郎.jpg"
+  },
+  {
+    "name": "瑞凤",
+    "romaji": "Zuihou",
+    "birthday": "06-19",
+    "series": "舰队Collection",
+    "cv": "小松真奈",
+    "image": "assets/images/瑞凤.jpg"
+  },
+  {
+    "name": "矶风",
+    "romaji": "Isokaze",
+    "birthday": "06-19",
+    "series": "舰队Collection",
+    "cv": "川澄绫子",
+    "image": "assets/images/矶风.png"
+  },
+  {
+    "name": "樱井旭",
+    "romaji": "Sakurai Asahi",
+    "birthday": "06-19",
+    "series": "漫画同人会",
+    "cv": "兴梠里美",
+    "image": "assets/images/樱井旭.jpg"
+  },
+  {
+    "name": "迪·罗伊",
+    "romaji": "Di Roy Rinker",
+    "birthday": "06-19",
+    "series": "死神",
+    "cv": "近藤隆",
+    "image": "assets/images/迪·罗伊.jpg"
+  },
+  {
+    "name": "绫里春美",
+    "romaji": "Ayasato Harumi",
+    "birthday": "06-19",
+    "series": "逆转裁判",
+    "cv": "久野美咲",
+    "image": "assets/images/绫里春美.png"
+  },
+  {
+    "name": "糸锯圭介",
+    "romaji": "Itonokogiri Keisuke",
+    "birthday": "06-19",
+    "series": "逆转裁判",
+    "cv": "岩崎征实",
+    "image": "assets/images/糸锯圭介.png"
+  },
+  {
+    "name": "砂藤力道",
+    "romaji": "Satou Rikidou",
+    "birthday": "06-19",
+    "series": "我的英雄学院",
+    "cv": "奈良彻",
+    "image": "assets/images/砂藤力道.png"
+  },
+  {
+    "name": "吉冈双叶",
+    "romaji": "Yoshioka Futaba",
+    "birthday": "06-19",
+    "series": "青春之旅",
+    "cv": "内田真礼",
+    "image": "assets/images/吉冈双叶.png"
+  },
+  {
+    "name": "北神未海",
+    "romaji": "Kitagami Mimi",
+    "birthday": "06-19",
+    "series": "极上！！超人气委员长",
+    "cv": "小川真奈",
+    "image": "assets/images/北神未海.jpg"
+  },
+  {
+    "name": "太宰治",
+    "romaji": "Dazai Osamu",
+    "birthday": "06-19",
+    "series": "文豪野犬",
+    "cv": "宫野真守",
+    "image": "assets/images/太宰治.png"
+  },
+  {
+    "name": "五十铃·一之濑",
+    "romaji": "Isuzu Ichinose",
+    "birthday": "06-19",
+    "series": "宇宙战舰提拉米斯",
+    "cv": "樱井孝宏",
+    "image": "assets/images/五十铃·一之濑.jpg"
+  },
+  {
+    "name": "丽丝缇",
+    "romaji": "Risty",
+    "birthday": "06-19",
+    "series": "暗黑女王",
+    "cv": "春希ジュン",
+    "image": "assets/images/丽丝缇.jpg"
   }
 ]
