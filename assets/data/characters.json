@@ -5726,5 +5726,141 @@
     "series": "暗黑女王",
     "cv": "春希ジュン",
     "image": "assets/images/丽丝缇.jpg"
+  },
+  {
+    "name": "小野田千代美",
+    "romaji": "Onoda Chiyomi",
+    "birthday": "06-20",
+    "series": "心跳回忆 Girl's Side",
+    "cv": "小桜エツ子",
+    "image": "assets/images/小野田千代美.jpg"
+  },
+  {
+    "name": "御影仁菜",
+    "romaji": "Mikage Niina",
+    "birthday": "06-20",
+    "series": "最终试验鲸鱼",
+    "cv": "榊原由依",
+    "image": "assets/images/御影仁菜.jpg"
+  },
+  {
+    "name": "鷹野三四",
+    "romaji": "Takano Miyo",
+    "birthday": "06-20",
+    "series": "寒蝉鸣泣之时",
+    "cv": "伊藤美紀",
+    "image": "assets/images/鷹野三四.jpg"
+  },
+  {
+    "name": "浅羽祐希",
+    "romaji": "Asaba Yuuki",
+    "birthday": "06-20",
+    "series": "少年同盟",
+    "cv": "木村良平",
+    "image": "assets/images/浅羽祐希.jpg"
+  },
+  {
+    "name": "浅羽悠太",
+    "romaji": "Asaba Yuuta",
+    "birthday": "06-20",
+    "series": "少年同盟",
+    "cv": "内山昂輝",
+    "image": "assets/images/浅羽悠太.jpg"
+  },
+  {
+    "name": "龙可",
+    "romaji": "Ruka",
+    "birthday": "06-20",
+    "series": "游戏王5D's",
+    "cv": "寺崎裕香",
+    "image": "assets/images/龙可.jpg"
+  },
+  {
+    "name": "龙亚",
+    "romaji": "Rua",
+    "birthday": "06-20",
+    "series": "游戏王5D's",
+    "cv": "洞内愛",
+    "image": "assets/images/龙亚.jpg"
+  },
+  {
+    "name": "緋村剣心",
+    "romaji": "Himura Kenshin",
+    "birthday": "06-20",
+    "series": "浪客剑心",
+    "cv": "涼風真世",
+    "image": "assets/images/緋村剣心.jpg"
+  },
+  {
+    "name": "藤木コウタ",
+    "romaji": "Fujiki Kouta",
+    "birthday": "06-20",
+    "series": "噬神者",
+    "cv": "阪口大助",
+    "image": "assets/images/藤木コウタ.jpg"
+  },
+  {
+    "name": "鳴子郁",
+    "romaji": "Naruko Kaoru",
+    "birthday": "06-20",
+    "series": "ACTORS",
+    "cv": "佐藤拓也",
+    "image": "assets/images/鳴子郁.jpg"
+  },
+  {
+    "name": "桃月心也",
+    "romaji": "Momotsuki Shinya",
+    "birthday": "06-20",
+    "series": "青梅竹马",
+    "cv": "岡本信彦",
+    "image": "assets/images/桃月心也.jpg"
+  },
+  {
+    "name": "骨抜柔造",
+    "romaji": "Honenuki Juzo",
+    "birthday": "06-20",
+    "series": "我的英雄学院",
+    "cv": "奈良徹",
+    "image": "assets/images/骨抜柔造.jpg"
+  },
+  {
+    "name": "右近",
+    "romaji": "Ukon",
+    "birthday": "06-20",
+    "series": "火影忍者",
+    "cv": "咲野俊介",
+    "image": "assets/images/右近.jpg"
+  },
+  {
+    "name": "左近",
+    "romaji": "Sakon",
+    "birthday": "06-20",
+    "series": "火影忍者",
+    "cv": "咲野俊介",
+    "image": "assets/images/左近.jpg"
+  },
+  {
+    "name": "香燐",
+    "romaji": "Karin",
+    "birthday": "06-20",
+    "series": "火影忍者",
+    "cv": "東條加那子→行成とあ",
+    "image": "assets/images/香燐.jpg"
+  },
+  {
+    "name": "雨森蓮侍",
+    "romaji": "Amemori Renji",
+    "birthday": "06-20",
+    "series": "Prince of Stride",
+    "cv": "石川界人",
+    "image": "assets/images/雨森蓮侍.jpg"
+  },
+  {
+    "name": "六弥ナギ",
+    "romaji": "Rokuya Nagi",
+    "birthday": "06-20",
+    "series": "IDOLiSH7",
+    "cv": "江口拓也",
+    "image": "assets/images/六弥ナギ.jpg"
   }
 ]
