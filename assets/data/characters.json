@@ -5862,5 +5862,77 @@
     "series": "IDOLiSH7",
     "cv": "江口拓也",
     "image": "assets/images/六弥ナギ.jpg"
+  },
+  {
+    "name": "日向翔阳",
+    "romaji": "Hinata Shoyo",
+    "birthday": "06-21",
+    "series": "排球少年",
+    "cv": "村濑步",
+    "image": "assets/images/日向翔阳.jpg"
+  },
+  {
+    "name": "胡图图",
+    "romaji": "Hu Tutu",
+    "birthday": "06-21",
+    "series": "大耳朵图图",
+    "cv": "豆豆",
+    "image": "assets/images/胡图图.jpg"
+  },
+  {
+    "name": "西条拓巳",
+    "romaji": "Nishijou Takumi",
+    "birthday": "06-21",
+    "series": "混沌头",
+    "cv": "吉野裕行",
+    "image": "assets/images/西条拓巳.jpg"
+  },
+  {
+    "name": "宵宫",
+    "romaji": "Yoimiya",
+    "birthday": "06-21",
+    "series": "原神",
+    "cv": "金娜",
+    "image": "assets/images/宵宫.jpg"
+  },
+  {
+    "name": "史迪奇",
+    "romaji": "Stitch",
+    "birthday": "06-21",
+    "series": "星际宝贝",
+    "cv": "山寺宏一",
+    "image": "assets/images/史迪奇.jpg"
+  },
+  {
+    "name": "王马小吉",
+    "romaji": "Ouma Kokichi",
+    "birthday": "06-21",
+    "series": "弹丸论破V3",
+    "cv": "下野纮",
+    "image": "assets/images/王马小吉.jpg"
+  },
+  {
+    "name": "雨宫优子",
+    "romaji": "Amamiya Yuuko",
+    "birthday": "06-21",
+    "series": "悠久之翼",
+    "cv": "中岛裕美子",
+    "image": "assets/images/雨宫优子.jpg"
+  },
+  {
+    "name": "西垣奈奈",
+    "romaji": "Nishigaki Nana",
+    "birthday": "06-21",
+    "series": "摇曳百合",
+    "cv": "白石凉子",
+    "image": "assets/images/西垣奈奈.jpg"
+  },
+  {
+    "name": "黑羽快斗",
+    "romaji": "Kuroba Kaito",
+    "birthday": "06-21",
+    "series": "魔术快斗",
+    "cv": "山口胜平",
+    "image": "assets/images/黑羽快斗.jpg"
   }
 ]
