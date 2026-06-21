@@ -5934,5 +5934,117 @@
     "series": "魔术快斗",
     "cv": "山口胜平",
     "image": "assets/images/黑羽快斗.jpg"
+  },
+  {
+    "name": "伊弉冉一二三",
+    "romaji": "Izanami Hifumi",
+    "birthday": "06-22",
+    "series": "催眠麦克风",
+    "cv": "木岛隆一",
+    "image": "assets/images/伊弉冉一二三.jpg"
+  },
+  {
+    "name": "贾伊罗",
+    "romaji": "Gyro",
+    "birthday": "06-22",
+    "series": "ONE PIECE",
+    "cv": "高塚正也",
+    "image": "assets/images/贾伊罗.jpg"
+  },
+  {
+    "name": "丛雨十瑚",
+    "romaji": "Murasame Touko",
+    "birthday": "06-22",
+    "series": "无法逃离的背叛",
+    "cv": "井上麻里奈",
+    "image": "assets/images/丛雨十瑚.jpg"
+  },
+  {
+    "name": "橘美也",
+    "romaji": "Tachibana Miya",
+    "birthday": "06-22",
+    "series": "圣诞之吻",
+    "cv": "阿澄佳奈",
+    "image": "assets/images/橘美也.jpg"
+  },
+  {
+    "name": "赤土晴绘",
+    "romaji": "Akado Harue",
+    "birthday": "06-22",
+    "series": "天才麻将少女",
+    "cv": "进藤尚美",
+    "image": "assets/images/赤土晴绘.jpg"
+  },
+  {
+    "name": "武部沙织",
+    "romaji": "Takebe Saori",
+    "birthday": "06-22",
+    "series": "少女与战车",
+    "cv": "茅野爱衣",
+    "image": "assets/images/武部沙织.jpg"
+  },
+  {
+    "name": "潘泰拉",
+    "romaji": "Pantera",
+    "birthday": "06-22",
+    "series": "家庭教师HITMAN REBORN!",
+    "cv": "",
+    "image": "assets/images/潘泰拉.jpg"
+  },
+  {
+    "name": "花村阳介",
+    "romaji": "Hanamura Yousuke",
+    "birthday": "06-22",
+    "series": "女神异闻录4",
+    "cv": "森久保祥太郎",
+    "image": "assets/images/花村阳介.jpg"
+  },
+  {
+    "name": "青野月音",
+    "romaji": "Aono Tsukune",
+    "birthday": "06-22",
+    "series": "十字架与吸血鬼",
+    "cv": "岸尾大辅",
+    "image": "assets/images/青野月音.jpg"
+  },
+  {
+    "name": "藤田玲司",
+    "romaji": "Fujita Reiji",
+    "birthday": "06-22",
+    "series": "王牌鉴定人",
+    "cv": "森川智之",
+    "image": "assets/images/藤田玲司.jpg"
+  },
+  {
+    "name": "萨尔阿波罗·格兰兹",
+    "romaji": "Szayelaporro Granz",
+    "birthday": "06-22",
+    "series": "BLEACH",
+    "cv": "鸟海浩辅",
+    "image": "assets/images/萨尔阿波罗·格兰兹.jpg"
+  },
+  {
+    "name": "伊尔弗特·格兰兹",
+    "romaji": "Ilforte Granz",
+    "birthday": "06-22",
+    "series": "BLEACH",
+    "cv": "远近孝一",
+    "image": "assets/images/伊尔弗特·格兰兹.jpg"
+  },
+  {
+    "name": "德川茂茂",
+    "romaji": "Tokugawa Shigeshige",
+    "birthday": "06-22",
+    "series": "银魂",
+    "cv": "小野友树",
+    "image": "assets/images/德川茂茂.jpg"
+  },
+  {
+    "name": "明星昴流",
+    "romaji": "Akehoshi Subaru",
+    "birthday": "06-22",
+    "series": "偶像梦幻祭",
+    "cv": "柿原彻也",
+    "image": "assets/images/明星昴流.jpg"
   }
 ]
