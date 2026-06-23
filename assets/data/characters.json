@@ -6046,5 +6046,133 @@
     "series": "偶像梦幻祭",
     "cv": "柿原彻也",
     "image": "assets/images/明星昴流.jpg"
+  },
+  {
+    "name": "蓝泽渚",
+    "romaji": "Aizawa Nagisa",
+    "birthday": "06-23",
+    "series": "其实我是…",
+    "cv": "水濑祈",
+    "image": "assets/images/蓝泽渚.jpg"
+  },
+  {
+    "name": "家长加奈",
+    "romaji": "Ienaga Kana",
+    "birthday": "06-23",
+    "series": "滑头鬼之孙",
+    "cv": "平野绫",
+    "image": "assets/images/家长加奈.jpg"
+  },
+  {
+    "name": "上崎里沙",
+    "romaji": "Kamizaki Risa",
+    "birthday": "06-23",
+    "series": "圣诞之吻",
+    "cv": "门胁舞以",
+    "image": "assets/images/上崎里沙.jpg"
+  },
+  {
+    "name": "秋月律子",
+    "romaji": "Akizuki Ritsuko",
+    "birthday": "06-23",
+    "series": "偶像大师",
+    "cv": "若林直美",
+    "image": "assets/images/秋月律子.jpg"
+  },
+  {
+    "name": "曾根星罗",
+    "romaji": "Sone Seira",
+    "birthday": "06-23",
+    "series": "偶像梦幻祭",
+    "cv": "清水理沙",
+    "image": "assets/images/曾根星罗.jpg"
+  },
+  {
+    "name": "二阶堂柚子",
+    "romaji": "Nikaido Yuzu",
+    "birthday": "06-23",
+    "series": "偶像活动Stars！",
+    "cv": "田所梓（配音） / 星咲花那（演唱）",
+    "image": "assets/images/二阶堂柚子.jpg"
+  },
+  {
+    "name": "中川夏纪",
+    "romaji": "Nakagawa Natsuki",
+    "birthday": "06-23",
+    "series": "吹响！上低音号",
+    "cv": "藤村鼓乃美",
+    "image": "assets/images/中川夏纪.jpg"
+  },
+  {
+    "name": "索尼克",
+    "romaji": "Sonic the Hedgehog",
+    "birthday": "06-23",
+    "series": "刺猬索尼克系列",
+    "cv": "金丸淳一",
+    "image": "assets/images/索尼克.jpg"
+  },
+  {
+    "name": "鬼冢庆次",
+    "romaji": "Onizuka Keiji",
+    "birthday": "06-23",
+    "series": "火星异种",
+    "cv": "小野大辅",
+    "image": "assets/images/鬼冢庆次.jpg"
+  },
+  {
+    "name": "斑尾巽",
+    "romaji": "Madarao Tatsumi",
+    "birthday": "06-23",
+    "series": "偶像★修行中",
+    "cv": "齐藤壮马",
+    "image": "assets/images/斑尾巽.jpg"
+  },
+  {
+    "name": "三杉淳",
+    "romaji": "Misugi Jun",
+    "birthday": "06-23",
+    "series": "足球小将",
+    "cv": "齐藤壮马（2018年动画） / 绪方惠美（1994年版）",
+    "image": "assets/images/三杉淳.jpg"
+  },
+  {
+    "name": "哈默·大卫·格兰特",
+    "romaji": "Hammer David Grant",
+    "birthday": "06-23",
+    "series": "四驱兄弟",
+    "cv": "铃木琢磨",
+    "image": "assets/images/哈默·大卫·格兰特.jpg"
+  },
+  {
+    "name": "间濑晓嗣",
+    "romaji": "Maze Akitsugu",
+    "birthday": "06-23",
+    "series": "疾走王子",
+    "cv": "柳田淳一",
+    "image": "assets/images/间濑晓嗣.jpg"
+  },
+  {
+    "name": "壬生虎冴",
+    "romaji": "Mibu Taiga",
+    "birthday": "06-23",
+    "series": "男友（假）",
+    "cv": "谷山纪章",
+    "image": "assets/images/壬生虎冴.jpg"
+  },
+  {
+    "name": "藤目",
+    "romaji": "Fujime",
+    "birthday": "06-23",
+    "series": "梦王国与沉睡的100名王子",
+    "cv": "井上刚",
+    "image": "assets/images/藤目.jpg"
+  },
+  {
+    "name": "筱原绘里香",
+    "romaji": "Shinohara Erika",
+    "birthday": "06-23",
+    "series": "狼少女与黑王子",
+    "cv": "伊藤加奈惠",
+    "image": "assets/images/筱原绘里香.jpg"
   }
 ]
