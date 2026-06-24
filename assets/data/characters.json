@@ -6174,5 +6174,101 @@
     "series": "狼少女与黑王子",
     "cv": "伊藤加奈惠",
     "image": "assets/images/筱原绘里香.jpg"
+  },
+  {
+    "name": "东方天乙统女",
+    "romaji": "Tohoten Otome",
+    "birthday": "06-24",
+    "series": "催眠麦克风",
+    "cv": "小林优",
+    "image": "assets/images/东方天乙统女.jpg"
+  },
+  {
+    "name": "雏",
+    "romaji": "Hina",
+    "birthday": "06-24",
+    "series": "飞翔的魔女",
+    "cv": "金元寿子",
+    "image": "assets/images/雏.jpg"
+  },
+  {
+    "name": "吉备土",
+    "romaji": "Kibito",
+    "birthday": "06-24",
+    "series": "甲铁城的卡巴内瑞",
+    "cv": "佐藤健辅",
+    "image": "assets/images/吉备土.jpg"
+  },
+  {
+    "name": "园田优",
+    "romaji": "Sonoda Yuu",
+    "birthday": "06-24",
+    "series": "樱Trick",
+    "cv": "户松遥",
+    "image": "assets/images/园田优.jpg"
+  },
+  {
+    "name": "川田知子",
+    "romaji": "Kawada Tomoko",
+    "birthday": "06-24",
+    "series": "君吻",
+    "cv": "川澄绫子",
+    "image": "assets/images/川田知子.jpg"
+  },
+  {
+    "name": "北条沙都子",
+    "romaji": "Houjou Satoko",
+    "birthday": "06-24",
+    "series": "寒蝉鸣泣之时",
+    "cv": "小林优",
+    "image": "assets/images/北条沙都子.jpg"
+  },
+  {
+    "name": "佐佐木利佳",
+    "romaji": "Sasaki Rika",
+    "birthday": "06-24",
+    "series": "魔卡少女樱",
+    "cv": "川上伦子",
+    "image": "assets/images/佐佐木利佳.jpg"
+  },
+  {
+    "name": "迪斯马斯克",
+    "romaji": "Death Mask",
+    "birthday": "06-24",
+    "series": "圣斗士星矢",
+    "cv": "田中亮一",
+    "image": "assets/images/迪斯马斯克.jpg"
+  },
+  {
+    "name": "弥勒雪彦",
+    "romaji": "Miroku Yukihiko",
+    "birthday": "06-24",
+    "series": "闪灵二人组",
+    "cv": "木村亚希子",
+    "image": "assets/images/弥勒雪彦.jpg"
+  },
+  {
+    "name": "天田乾",
+    "romaji": "Amada Ken",
+    "birthday": "06-24",
+    "series": "女神异闻录3",
+    "cv": "绪方惠美",
+    "image": "assets/images/天田乾.jpg"
+  },
+  {
+    "name": "东宫康太郎",
+    "romaji": "Azumamiya Koutarou",
+    "birthday": "06-24",
+    "series": "旋风管家！",
+    "cv": "佐藤利奈",
+    "image": "assets/images/东宫康太郎.jpg"
+  },
+  {
+    "name": "筧至钢",
+    "romaji": "Kakei Shigou",
+    "birthday": "06-24",
+    "series": "ALDNOAH.ZERO",
+    "cv": "古川慎",
+    "image": "assets/images/筧至钢.jpg"
   }
 ]
