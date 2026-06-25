@@ -6270,5 +6270,109 @@
     "series": "ALDNOAH.ZERO",
     "cv": "古川慎",
     "image": "assets/images/筧至钢.jpg"
+  },
+  {
+    "name": "花垣武道",
+    "romaji": "Hanagaki Takemichi",
+    "birthday": "06-25",
+    "series": "东京复仇者",
+    "cv": "新祐树",
+    "image": "assets/images/花垣武道.jpg"
+  },
+  {
+    "name": "卡利姆·阿尔阿吉姆",
+    "romaji": "Kalim Al-Asim",
+    "birthday": "06-25",
+    "series": "迪士尼 扭曲仙境",
+    "cv": "古田一纪",
+    "image": "assets/images/卡利姆·阿尔阿吉姆.jpg"
+  },
+  {
+    "name": "夏洛特·布琳",
+    "romaji": "Charlotte Pudding",
+    "birthday": "06-25",
+    "series": "ONE PIECE",
+    "cv": "泽城美雪",
+    "image": "assets/images/夏洛特·布琳.jpg"
+  },
+  {
+    "name": "足立实康",
+    "romaji": "Adachi Saneyasu",
+    "birthday": "06-25",
+    "series": "一弦定音！",
+    "cv": "石谷春贵",
+    "image": "assets/images/足立实康.jpg"
+  },
+  {
+    "name": "枣妮娜",
+    "romaji": "Natsume Nina",
+    "birthday": "06-25",
+    "series": "乌菈菈迷路帖",
+    "cv": "茅野爱衣",
+    "image": "assets/images/枣妮娜.jpg"
+  },
+  {
+    "name": "车谷善之助",
+    "romaji": "Kurumadani Zennosuke",
+    "birthday": "06-25",
+    "series": "BLEACH",
+    "cv": "矢部雅史",
+    "image": "assets/images/车谷善之助.jpg"
+  },
+  {
+    "name": "高梨奈绪",
+    "romaji": "Takanashi Nao",
+    "birthday": "06-25",
+    "series": "腹黑妹妹控兄记",
+    "cv": "喜多村英梨",
+    "image": "assets/images/高梨奈绪.jpg"
+  },
+  {
+    "name": "见吉香耶",
+    "romaji": "Miyoshi Kaya",
+    "birthday": "06-25",
+    "series": "爆漫王。",
+    "cv": "矢作纱友里",
+    "image": "assets/images/见吉香耶.jpg"
+  },
+  {
+    "name": "藤田靖子",
+    "romaji": "Fujita Yasuko",
+    "birthday": "06-25",
+    "series": "天才麻将少女",
+    "cv": "浅野真澄",
+    "image": "assets/images/藤田靖子.jpg"
+  },
+  {
+    "name": "照濑结乃",
+    "romaji": "Terase Yuno",
+    "birthday": "06-25",
+    "series": "月歌。",
+    "cv": "佐藤利奈",
+    "image": "assets/images/照濑结乃.jpg"
+  },
+  {
+    "name": "日高爱",
+    "romaji": "Hidaka Ai",
+    "birthday": "06-25",
+    "series": "偶像大师 DS",
+    "cv": "户松遥",
+    "image": "assets/images/日高爱.jpg"
+  },
+  {
+    "name": "泷川茜",
+    "romaji": "Takigawa Akane",
+    "birthday": "06-25",
+    "series": "四叶游戏",
+    "cv": "神田朱未",
+    "image": "assets/images/泷川茜.jpg"
+  },
+  {
+    "name": "阳之下光",
+    "romaji": "Hinoshita Hikari",
+    "birthday": "06-25",
+    "series": "心跳回忆2",
+    "cv": "野田顺子",
+    "image": "assets/images/阳之下光.jpg"
   }
 ]
