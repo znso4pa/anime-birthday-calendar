@@ -6374,5 +6374,93 @@
     "series": "心跳回忆2",
     "cv": "野田顺子",
     "image": "assets/images/阳之下光.jpg"
+  },
+  {
+    "name": "桂小太郎",
+    "romaji": "Katsura Kotaro",
+    "birthday": "06-26",
+    "series": "银魂",
+    "cv": "石田彰",
+    "image": "assets/images/桂小太郎.jpg"
+  },
+  {
+    "name": "史派克·史比格",
+    "romaji": "Spike Spiegel",
+    "birthday": "06-26",
+    "series": "星际牛仔",
+    "cv": "山寺宏一",
+    "image": "assets/images/史派克·史比格.png"
+  },
+  {
+    "name": "雷",
+    "romaji": "Rai",
+    "birthday": "06-26",
+    "series": "梦王国与沉睡的100名王子",
+    "cv": "樱井孝宏",
+    "image": "assets/images/雷.jpg"
+  },
+  {
+    "name": "次郎坊",
+    "romaji": "Jirobo",
+    "birthday": "06-26",
+    "series": "火影忍者",
+    "cv": "三宅健太",
+    "image": "assets/images/次郎坊.jpg"
+  },
+  {
+    "name": "皮克西·波普",
+    "romaji": "Pixie-Bob",
+    "birthday": "06-26",
+    "series": "我的英雄学院",
+    "cv": "兴津和幸",
+    "image": "assets/images/皮克西·波普.jpg"
+  },
+  {
+    "name": "马狼照英",
+    "romaji": "Mao Teruhide",
+    "birthday": "06-27",
+    "series": "蓝色监狱",
+    "cv": "诹访部顺一",
+    "image": "assets/images/马狼照英.jpg"
+  },
+  {
+    "name": "若宫伊芙",
+    "romaji": "Wakamiya Eve",
+    "birthday": "06-27",
+    "series": "BanG Dream!",
+    "cv": "秦佐和子",
+    "image": "assets/images/若宫伊芙.png"
+  },
+  {
+    "name": "赫拉克勒斯",
+    "romaji": "Hercules",
+    "birthday": "06-27",
+    "series": "迪士尼",
+    "cv": "宫本充",
+    "image": "assets/images/赫拉克勒斯.png"
+  },
+  {
+    "name": "榎本夏树",
+    "romaji": "Enomoto Natsuki",
+    "birthday": "06-27",
+    "series": "告白实行委员会",
+    "cv": "花江夏树",
+    "image": "assets/images/榎本夏树.png"
+  },
+  {
+    "name": "芬多尔·凯里亚斯",
+    "romaji": "Findor Carias",
+    "birthday": "06-27",
+    "series": "BLEACH",
+    "cv": "近藤隆",
+    "image": "assets/images/芬多尔·凯里亚斯.jpg"
+  },
+  {
+    "name": "征陆智己",
+    "romaji": "Masoka Tomomi",
+    "birthday": "06-27",
+    "series": "心理测量者",
+    "cv": "石冢运升",
+    "image": "assets/images/征陆智己.jpg"
   }
 ]
