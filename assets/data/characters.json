@@ -6462,5 +6462,77 @@
     "series": "心理测量者",
     "cv": "石冢运升",
     "image": "assets/images/征陆智己.jpg"
+  },
+   {
+    "name": "谷垣源次郎",
+    "romaji": "Tanigaki Genjirou",
+    "birthday": "06-28",
+    "series": "黄金神威",
+    "cv": "细谷佳正",
+    "image": "assets/images/谷垣源次郎.jpg"
+  },
+  {
+    "name": "罗兹瓦德圣",
+    "romaji": "Saint Roswald",
+    "birthday": "06-28",
+    "series": "ONE PIECE",
+    "cv": "挂川裕彦",
+    "image": "assets/images/罗兹瓦德圣.jpg"
+  },
+  {
+    "name": "鬼宿",
+    "romaji": "Tamahome",
+    "birthday": "06-28",
+    "series": "不思议游戏",
+    "cv": "绿川光",
+    "image": "assets/images/鬼宿.jpg"
+  },
+  {
+    "name": "苍月潮",
+    "romaji": "Aotsuki Ushio",
+    "birthday": "06-28",
+    "series": "潮与虎",
+    "cv": "畠中祐",
+    "image": "assets/images/苍月潮.jpg"
+  },
+  {
+    "name": "春日珠纪",
+    "romaji": "Kasuga Tamaki",
+    "birthday": "06-28",
+    "series": "绯色的欠片",
+    "cv": "三宅麻理惠",
+    "image": "assets/images/春日珠纪.jpg"
+  },
+  {
+    "name": "春日未来",
+    "romaji": "Kasuga Mirai",
+    "birthday": "06-28",
+    "series": "偶像大师 Million Live！",
+    "cv": "田所梓",
+    "image": "assets/images/春日未来.jpg"
+  },
+  {
+    "name": "天国狱",
+    "romaji": "Amaguni Hitoya",
+    "birthday": "06-29",
+    "series": "催眠麦克风",
+    "cv": "竹内荣治",
+    "image": "assets/images/天国狱.jpg"
+  },
+  {
+    "name": "左右田和一",
+    "romaji": "Souda Kazuichi",
+    "birthday": "06-29",
+    "series": "弹丸论破",
+    "cv": "细谷佳正",
+    "image": "assets/images/左右田和一.jpg"
+  },
+  {
+    "name": "二条朔也",
+    "romaji": "Nijou Sakuya",
+    "birthday": "06-29",
+    "series": "NORN9",
+    "cv": "小野大辅",
+    "image": "assets/images/二条朔也.jpg"
   }
 ]
