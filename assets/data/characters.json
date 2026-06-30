@@ -6534,5 +6534,53 @@
     "series": "NORN9",
     "cv": "小野大辅",
     "image": "assets/images/二条朔也.jpg"
+  },
+  {
+    "name": "奥利弗·爱空",
+    "romaji": "Oliver Aiku",
+    "birthday": "06-30",
+    "series": "蓝色监狱",
+    "cv": "日野聪",
+    "image": "assets/images/奥利弗·爱空.jpg"
+  },
+  {
+    "name": "尾上世莉架",
+    "romaji": "Serika Onoe",
+    "birthday": "06-30",
+    "series": "CHAOS;CHILD",
+    "cv": "上坂堇",
+    "image": "assets/images/尾上世莉架.jpg"
+  },
+  {
+    "name": "多田李衣菜",
+    "romaji": "Tada Rie",
+    "birthday": "06-30",
+    "series": "偶像大师 灰姑娘女孩",
+    "cv": "青木瑠璃子",
+    "image": "assets/images/多田李衣菜.jpg"
+  },
+  {
+    "name": "七濑遥",
+    "romaji": "Nanase Haruka",
+    "birthday": "06-30",
+    "series": "Free!",
+    "cv": "岛崎信长",
+    "image": "assets/images/七濑遥.jpg"
+  },
+  {
+    "name": "月野兔",
+    "romaji": "Tsukino Usagi",
+    "birthday": "06-30",
+    "series": "美少女战士",
+    "cv": "三石琴乃",
+    "image": "assets/images/月野兔.jpg"
+  },
+  {
+    "name": "边古山边古",
+    "romaji": "Pekoyama Peko",
+    "birthday": "06-30",
+    "series": "超级弹丸论破2",
+    "cv": "茅野爱衣",
+    "image": "assets/images/边古山边古.jpg"
   }
 ]
