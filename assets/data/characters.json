@@ -6582,5 +6582,78 @@
     "series": "超级弹丸论破2",
     "cv": "茅野爱衣",
     "image": "assets/images/边古山边古.jpg"
+  },
+   {
+    "name": "夏目贵志",
+    "romaji": "Natsume Takashi",
+    "birthday": "07-01",
+    "series": "夏目友人帐",
+    "cv": "神谷浩史",
+    "image": "assets/images/夏目贵志.png"
+  },
+  {
+    "name": "雾岛董香",
+    "romaji": "Kirishima Touka",
+    "birthday": "07-01",
+    "series": "东京喰种",
+    "cv": "雨宫天",
+    "image": "assets/images/雾岛董香.png"
+  },
+  {
+    "name": "艾斯卡诺",
+    "romaji": "Escanor",
+    "birthday": "07-01",
+    "series": "七大罪",
+    "cv": "杉田智和",
+    "image": "assets/images/艾斯卡诺.png"
+  },
+  {
+    "name": "降谷晓",
+    "romaji": "Furuya Satoru",
+    "birthday": "07-01",
+    "series": "钻石王牌",
+    "cv": "逢坂良太",
+    "image": "assets/images/降谷晓.png"
+  },
+  {
+    "name": "速水奏",
+    "romaji": "Hayami Kanade",
+    "birthday": "07-01",
+    "series": "偶像大师 灰姑娘女孩",
+    "cv": "饭田友子",
+    "image": "assets/images/速水奏.png"
+  },
+  {
+    "name": "西住真穗",
+    "romaji": "Nishizumi Maho",
+    "birthday": "07-01",
+    "series": "少女与战车",
+    "cv": "田中理惠",
+    "image": "assets/images/西住真穗.png"
+  },
+  {
+    "name": "心操人使",
+    "romaji": "Shinsou Hitoshi",
+    "birthday": "07-01",
+    "series": "我的英雄学院",
+    "cv": "羽多野涉",
+    "image": "assets/images/心操人使.png"
+  },
+  {
+    "name": "大将优",
+    "romaji": "Daishou Suguru",
+    "birthday": "07-01",
+    "series": "排球少年！！",
+    "cv": "兴津和幸",
+    "image": "assets/images/大将优.jpg"
+  },
+  {
+    "name": "春川宙",
+    "romaji": "Harukawa Sora",
+    "birthday": "07-01",
+    "series": "偶像梦幻祭",
+    "cv": "山本和臣",
+    "image": "assets/images/春川宙.png"
   }
+  
 ]
