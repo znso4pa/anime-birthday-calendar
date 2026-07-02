@@ -6654,5 +6654,85 @@
     "series": "偶像梦幻祭",
     "cv": "山本和臣",
     "image": "assets/images/春川宙.png"
+  },
+  {
+    "name": "玛蒙",
+    "romaji": "Mammon",
+    "birthday": "07-02",
+    "series": "家庭教师HITMAN REBORN!",
+    "cv": "宍户留美",
+    "image": "assets/images/玛蒙.jpg"
+  },
+  {
+    "name": "铠冢霙",
+    "romaji": "Yoroizuka Mizore",
+    "birthday": "07-02",
+    "series": "吹响！上低音号",
+    "cv": "种崎敦美",
+    "image": "assets/images/铠冢霙.jpg"
+  },
+  {
+    "name": "琴吹紬",
+    "romaji": "Kotobuki Tsumugi",
+    "birthday": "07-02",
+    "series": "轻音少女",
+    "cv": "寿美菜子",
+    "image": "assets/images/琴吹紬.jpg"
+  },
+  {
+    "name": "影山律",
+    "romaji": "Kageyama Ritsu",
+    "birthday": "07-02",
+    "series": "灵能百分百",
+    "cv": "入野自由",
+    "image": "assets/images/影山律.jpg"
+  },
+  {
+    "name": "左大臣",
+    "romaji": "Sadaijin",
+    "birthday": "07-02",
+    "series": "ONE PIECE",
+    "cv": "仲野裕",
+    "image": "assets/images/左大臣.jpg"
+  },
+  {
+    "name": "麻仓叶明",
+    "romaji": "Asakura Yōmei",
+    "birthday": "07-02",
+    "series": "通灵王",
+    "cv": "青野武",
+    "image": "assets/images/麻仓叶明.jpg"
+  },
+  {
+    "name": "沙盖特",
+    "romaji": "Sagat",
+    "birthday": "07-02",
+    "series": "街头霸王",
+    "cv": "远藤大辅",
+    "image": "assets/images/沙盖特.jpg"
+  },
+  {
+    "name": "米娅·坎贝尔",
+    "romaji": "Meer Campbell",
+    "birthday": "07-02",
+    "series": "机动战士高达SEED DESTINY",
+    "cv": "田中理惠",
+    "image": "assets/images/米娅·坎贝尔.jpg"
+  },
+  {
+    "name": "高桥启介",
+    "romaji": "Takahashi Keisuke",
+    "birthday": "07-02",
+    "series": "头文字D",
+    "cv": "关智一",
+    "image": "assets/images/高桥启介.jpg"
+  },
+  {
+    "name": "夏目朝子",
+    "romaji": "Natsume Asako",
+    "birthday": "07-02",
+    "series": "邻座的怪同学",
+    "cv": "种崎敦美",
+    "image": "assets/images/夏目朝子.jpg"
   }
 ]
