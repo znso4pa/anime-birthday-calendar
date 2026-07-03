@@ -6734,5 +6734,69 @@
     "series": "邻座的怪同学",
     "cv": "种崎敦美",
     "image": "assets/images/夏目朝子.jpg"
+  },
+   {
+    "name": "娜美",
+    "romaji": "Nami",
+    "birthday": "07-03",
+    "series": "海贼王",
+    "cv": "冈村明美",
+    "image": "assets/images/娜美.jpg"
+  },
+  {
+    "name": "咲畑梨深",
+    "romaji": "Sakihata Rimi",
+    "birthday": "07-03",
+    "series": "混沌头",
+    "cv": "喜多村英梨",
+    "image": "assets/images/咲畑梨深.jpg"
+  },
+  {
+    "name": "有原亚由美",
+    "romaji": "Arihara Ayumi",
+    "birthday": "07-03",
+    "series": "初恋限定。",
+    "cv": "伊濑茉莉也",
+    "image": "assets/images/有原亚由美.jpg"
+  },
+  {
+    "name": "坂本龙司",
+    "romaji": "Sakamoto Ryuji",
+    "birthday": "07-03",
+    "series": "女神异闻录5",
+    "cv": "宫野真守",
+    "image": "assets/images/坂本龙司.jpg"
+  },
+  {
+    "name": "宇田川亚子",
+    "romaji": "Udagawa Ako",
+    "birthday": "07-03",
+    "series": "BanG Dream!",
+    "cv": "樱川惠",
+    "image": "assets/images/宇田川亚子.jpg"
+  },
+  {
+    "name": "谷山麻衣",
+    "romaji": "Taniyama Mai",
+    "birthday": "07-03",
+    "series": "奇幻贵公子",
+    "cv": "名冢佳织",
+    "image": "assets/images/谷山麻衣.jpg"
+  },
+  {
+    "name": "青井苇人",
+    "romaji": "Aoi Ashito",
+    "birthday": "07-03",
+    "series": "青之芦苇",
+    "cv": "大铃功起",
+    "image": "assets/images/青井苇人.jpg"
+  },
+  {
+    "name": "周防由香里",
+    "romaji": "Suou Yukari",
+    "birthday": "07-03",
+    "series": "太依赖咒术的我未来堪忧。",
+    "cv": "奏雨",
+    "image": "assets/images/周防由香里.jpg"
   }
 ]
