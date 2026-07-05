@@ -6798,5 +6798,181 @@
     "series": "太依赖咒术的我未来堪忧。",
     "cv": "奏雨",
     "image": "assets/images/周防由香里.jpg"
+  },
+  {
+    "name": "藤咲抚子",
+    "romaji": "Fujisaki Nadeshiko",
+    "birthday": "07-04",
+    "series": "守护甜心！",
+    "cv": "千叶纱子",
+    "image": "assets/images/藤咲抚子.jpg"
+  },
+  {
+    "name": "志摩廉造",
+    "romaji": "Shima Renzou",
+    "birthday": "07-04",
+    "series": "青之驱魔师",
+    "cv": "福山润",
+    "image": "assets/images/志摩廉造.jpg"
+  },
+  {
+    "name": "持田哲志",
+    "romaji": "Mochida Satoshi",
+    "birthday": "07-04",
+    "series": "尸体派对",
+    "cv": "下野纮",
+    "image": "assets/images/持田哲志.jpg"
+  },
+  {
+    "name": "宫园薰",
+    "romaji": "Miyazono Kaori",
+    "birthday": "07-04",
+    "series": "四月是你的谎言",
+    "cv": "种崎敦美",
+    "image": "assets/images/宫园薰.jpg"
+  },
+  {
+    "name": "日向阿基德",
+    "romaji": "Hinata Akito",
+    "birthday": "07-04",
+    "series": "Code Geass 亡国的阿基德",
+    "cv": "入野自由",
+    "image": "assets/images/日向阿基德.jpg"
+  },
+  {
+    "name": "木下日向",
+    "romaji": "Kinoshita Hinata",
+    "birthday": "07-04",
+    "series": "偶像大师 百万现场！",
+    "cv": "田村奈央",
+    "image": "assets/images/木下日向.jpg"
+  },
+  {
+    "name": "纳村不道",
+    "romaji": "Nomura Fudo",
+    "birthday": "07-04",
+    "series": "武装少女",
+    "cv": "畠中祐",
+    "image": "assets/images/纳村不道.jpg"
+  },
+  {
+    "name": "鸠谷小羽",
+    "romaji": "Hatoya Koharu",
+    "birthday": "07-04",
+    "series": "Anima Yell!",
+    "cv": "尾崎由香",
+    "image": "assets/images/鸠谷小羽.jpg"
+  },
+  {
+    "name": "乙坂紫音",
+    "romaji": "Otosaka Shion",
+    "birthday": "07-04",
+    "series": "影之诗F",
+    "cv": "植田佳奈",
+    "image": "assets/images/乙坂紫音.jpg"
+  },
+  {
+    "name": "山之内花音",
+    "romaji": "Yamanouchi Kanon",
+    "birthday": "07-04",
+    "series": "夜晚的水母不会游泳",
+    "cv": "高桥李依",
+    "image": "assets/images/山之内花音.jpg"
+  },
+  {
+    "name": "七月红绪",
+    "romaji": "Nanatsuki Benio",
+    "birthday": "07-04",
+    "series": "白雪～七凭之祭～",
+    "cv": "北都南",
+    "image": "assets/images/七月红绪.jpg"
+  },
+  {
+    "name": "山之内小春",
+    "romaji": "Yamanouchi Koharu",
+    "birthday": "07-04",
+    "series": "壳之少女",
+    "cv": "吉田爱里",
+    "image": "assets/images/山之内小春.jpg"
+  },
+  {
+    "name": "神山识",
+    "romaji": "Kamiyama Shiki",
+    "birthday": "07-04",
+    "series": "Summer Pockets REFLECTION BLUE",
+    "cv": "小原好美",
+    "image": "assets/images/神山识.png"
+  },
+  {
+    "name": "远山金次",
+    "romaji": "Toyama Kinji",
+    "birthday": "07-05",
+    "series": "绯弹的亚里亚",
+    "cv": "间岛淳司",
+    "image": "assets/images/远山金次.jpg"
+  },
+  {
+    "name": "杉本恭己",
+    "romaji": "Sugimoto Kyoko",
+    "birthday": "07-05",
+    "series": "青之花",
+    "cv": "千叶纱子",
+    "image": "assets/images/杉本恭己.jpg"
+  },
+  {
+    "name": "穴泽虹海",
+    "romaji": "Anazawa Nijimi",
+    "birthday": "07-05",
+    "series": "魔法少女网站",
+    "cv": "M·A·O",
+    "image": "assets/images/穴泽虹海.jpg"
+  },
+  {
+    "name": "矢口八虎",
+    "romaji": "Yaguchi Yatora",
+    "birthday": "07-05",
+    "series": "蓝色时期",
+    "cv": "山下大辉",
+    "image": "assets/images/矢口八虎.jpg"
+  },
+  {
+    "name": "朱慧月",
+    "romaji": "Zhu Huiyue",
+    "birthday": "07-05",
+    "series": "恶女不才，请多关照雏宫蝶鼠换身传",
+    "cv": "龟娘",
+    "image": "assets/images/朱慧月.jpg"
+  },
+  {
+    "name": "爱丽丝",
+    "romaji": "Iris",
+    "birthday": "07-05",
+    "series": "樱花大战",
+    "cv": "西原久美子",
+    "image": "assets/images/爱丽丝.jpg"
+  },
+  {
+    "name": "小町鸫",
+    "romaji": "Komachi Tsubasa",
+    "birthday": "07-05",
+    "series": "Ever17 -the out of infinity-",
+    "cv": "笠原弘子",
+    "image": "assets/images/小町鸫.jpg"
+  },
+  {
+    "name": "川内野优美",
+    "romaji": "Kawauchino Yumi",
+    "birthday": "07-05",
+    "series": "樱之诗",
+    "cv": "铃木惠子",
+    "image": "assets/images/川内野优美.jpg"
+  },
+  {
+    "name": "爱内阳良子",
+    "romaji": "Aiuchi Hirari",
+    "birthday": "07-05",
+    "series": "花姬Absolute!",
+    "cv": "青山由香里",
+    "image": "assets/images/爱内阳良子.png"
   }
 ]
