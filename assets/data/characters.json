@@ -6974,5 +6974,37 @@
     "series": "花姬Absolute!",
     "cv": "青山由香里",
     "image": "assets/images/爱内阳良子.png"
+  },
+  {
+    "name": "七宫智音",
+    "romaji": "Shichimiya Satone",
+    "birthday": "07-06",
+    "series": "中二病也要谈恋爱！恋",
+    "cv": "长妻树里",
+    "image": "assets/images/七宫智音.png"
+  },
+  {
+    "name": "阿良河基维",
+    "romaji": "Araga Kiwi",
+    "birthday": "07-06",
+    "series": "梦想成为魔法少女",
+    "cv": "古贺葵",
+    "image": "assets/images/阿良河基维.png"
+  },
+  {
+    "name": "芹泽朋也",
+    "romaji": "Serizawa Tomoya",
+    "birthday": "07-06",
+    "series": "铃芽之旅",
+    "cv": "松本白鹦（日版）/ 赵毅（中文）",
+    "image": "assets/images/芹泽朋也.png"
+  },
+  {
+    "name": "高木顺二朗",
+    "romaji": "Takagi Junjirou",
+    "birthday": "07-06",
+    "series": "偶像大师",
+    "cv": "大塚芳忠",
+    "image": "assets/images/高木顺二朗.png"
   }
 ]
