@@ -7006,5 +7006,189 @@
     "series": "偶像大师",
     "cv": "大塚芳忠",
     "image": "assets/images/高木顺二朗.png"
+  },
+  {
+    "name": "菈菈·撒塔琳·戴比路克",
+    "romaji": "Lala Satalin Deviluke",
+    "birthday": "07-07",
+    "series": "出包王女",
+    "cv": "户松遥",
+    "image": "assets/images/菈菈·撒塔琳·戴比路克.png"
+  },
+  {
+    "name": "战场原黑仪",
+    "romaji": "Senjougahara Hitagi",
+    "birthday": "07-07",
+    "series": "物语系列",
+    "cv": "斋藤千和",
+    "image": "assets/images/战场原黑仪.jpg"
+  },
+  {
+    "name": "不动游星",
+    "romaji": "Fudo Yusei",
+    "birthday": "07-07",
+    "series": "游戏王5D's",
+    "cv": "宫下雄也",
+    "image": "assets/images/不动游星.png"
+  },
+  {
+    "name": "柊镜",
+    "romaji": "Hiiragi Kagami",
+    "birthday": "07-07",
+    "series": "幸运星",
+    "cv": "加藤英美里",
+    "image": "assets/images/柊镜.png"
+  },
+  {
+    "name": "柊司",
+    "romaji": "Hiiragi Tsukasa",
+    "birthday": "07-07",
+    "series": "幸运星",
+    "cv": "福原香织",
+    "image": "assets/images/柊司.png"
+  },
+  {
+    "name": "相良宗介",
+    "romaji": "Sagara Sousuke",
+    "birthday": "07-07",
+    "series": "全金属狂潮",
+    "cv": "关智一",
+    "image": "assets/images/相良宗介.jpg"
+  },
+  {
+    "name": "樱庭葵",
+    "romaji": "Sakuraba Aoi",
+    "birthday": "07-07",
+    "series": "青出于蓝",
+    "cv": "川澄绫子",
+    "image": "assets/images/樱庭葵.jpg"
+  },
+  {
+    "name": "奇犽·揍敌客",
+    "romaji": "Killua Zoldyck",
+    "birthday": "07-07",
+    "series": "猎人",
+    "cv": "三桥加奈子/伊濑茉莉也",
+    "image": "assets/images/奇犽·揍敌客.jpg"
+  },
+  {
+    "name": "犬冢牙",
+    "romaji": "Inuzuka Kiba",
+    "birthday": "07-07",
+    "series": "火影忍者",
+    "cv": "鸟海浩辅",
+    "image": "assets/images/犬冢牙.png"
+  },
+  {
+    "name": "绿间真太郎",
+    "romaji": "Midorima Shintarou",
+    "birthday": "07-07",
+    "series": "黑子的篮球",
+    "cv": "小野大辅",
+    "image": "assets/images/绿间真太郎.jpg"
+  },
+  {
+    "name": "富樫勇太",
+    "romaji": "Togashi Yuuta",
+    "birthday": "07-07",
+    "series": "中二病也要谈恋爱！",
+    "cv": "福山润",
+    "image": "assets/images/富樫勇太.png"
+  },
+  {
+    "name": "舞园沙耶香",
+    "romaji": "Maizono Sayaka",
+    "birthday": "07-07",
+    "series": "弹丸论破",
+    "cv": "大本真基子",
+    "image": "assets/images/舞园沙耶香.png"
+  },
+  {
+    "name": "雪之下阳乃",
+    "romaji": "Yukinoshita Haruno",
+    "birthday": "07-07",
+    "series": "我的青春恋爱物语果然有问题",
+    "cv": "中原麻衣",
+    "image": "assets/images/雪之下阳乃.png"
+  },
+  {
+    "name": "濑尾结月",
+    "romaji": "Seo Yuzuki",
+    "birthday": "07-07",
+    "series": "月刊少女野崎君",
+    "cv": "泽城美雪",
+    "image": "assets/images/濑尾结月.jpg"
+  },
+  {
+    "name": "晓",
+    "romaji": "Akatsuki",
+    "birthday": "07-07",
+    "series": "记录的地平线",
+    "cv": "加藤英美里",
+    "image": "assets/images/晓.jpg"
+  },
+  {
+    "name": "空",
+    "romaji": "Sora",
+    "birthday": "07-07",
+    "series": "游戏人生",
+    "cv": "松冈祯丞",
+    "image": "assets/images/空.png"
+  },
+  {
+    "name": "三宫三叶",
+    "romaji": "Mitsuya Mitsuha",
+    "birthday": "07-07",
+    "series": "终结的炽天使",
+    "cv": "悠木碧",
+    "image": "assets/images/三宫三叶.png"
+  },
+  {
+    "name": "露米娅·汀洁尔",
+    "romaji": "Rumia Tingel",
+    "birthday": "07-07",
+    "series": "不正经的魔术讲师与禁忌教典",
+    "cv": "藤田茜",
+    "image": "assets/images/露米娅·汀洁尔.jpg"
+  },
+  {
+    "name": "相泽智",
+    "romaji": "Aizawa Tomo",
+    "birthday": "07-07",
+    "series": "智酱是女生！",
+    "cv": "高桥李依",
+    "image": "assets/images/相泽智.jpg"
+  },
+  {
+    "name": "雪白七七子",
+    "romaji": "Yukishiro Nanako",
+    "birthday": "07-07",
+    "series": "川柳少女",
+    "cv": "花泽香菜",
+    "image": "assets/images/雪白七七子.png"
+  },
+  {
+    "name": "后藤二里",
+    "romaji": "Gotou Niji",
+    "birthday": "07-07",
+    "series": "孤独摇滚！",
+    "cv": "和多田美咲",
+    "image": "assets/images/后藤二里.jpg"
+  },
+  {
+    "name": "椎名篝",
+    "romaji": "Shiina Kagari",
+    "birthday": "07-07",
+    "series": "命运石之门 0",
+    "cv": "花泽香菜",
+    "image": "assets/images/椎名篝.png"
+  },
+  {
+    "name": "苍崎青子",
+    "romaji": "Aozaki Aoko",
+    "birthday": "07-07",
+    "series": "月姬",
+    "cv": "户松遥（新版）",
+    "image": "assets/images/苍崎青子.png"
   }
 ]
