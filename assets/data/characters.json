@@ -7190,5 +7190,157 @@
     "series": "月姬",
     "cv": "户松遥（新版）",
     "image": "assets/images/苍崎青子.png"
+  },
+   {
+    "name": "冲田总悟",
+    "romaji": "Okita Sougo",
+    "birthday": "07-08",
+    "series": "银魂",
+    "cv": "铃村健一",
+    "image": "assets/images/冲田总悟.jpg"
+  },
+  {
+    "name": "夏莉·菲内特",
+    "romaji": "Shirley Fenette",
+    "birthday": "07-08",
+    "series": "Code Geass 反叛的鲁路修",
+    "cv": "折笠富美子",
+    "image": "assets/images/夏莉·菲内特.jpg"
+  },
+  {
+    "name": "井上京",
+    "romaji": "Inoue Miyako",
+    "birthday": "07-08",
+    "series": "数码宝贝大冒险02",
+    "cv": "夏树莉绪",
+    "image": "assets/images/井上京.jpg"
+  },
+  {
+    "name": "立上芹",
+    "romaji": "Tachigami Seri",
+    "birthday": "07-08",
+    "series": "苍穹之法芙娜",
+    "cv": "福圆美里",
+    "image": "assets/images/立上芹.jpg"
+  },
+  {
+    "name": "王留美",
+    "romaji": "Wang Liu Mei",
+    "birthday": "07-09",
+    "series": "机动战士高达00",
+    "cv": "真堂圭",
+    "image": "assets/images/王留美.jpg"
+  },
+  {
+    "name": "云雀丘瑠璃",
+    "romaji": "Hibari ga Oka Ruri",
+    "birthday": "07-09",
+    "series": "Anne Happy♪",
+    "cv": "白石晴香",
+    "image": "assets/images/云雀丘瑠璃.jpg"
+  },
+  {
+    "name": "金狼",
+    "romaji": "Kinrou",
+    "birthday": "07-09",
+    "series": "石纪元",
+    "cv": "前野智昭",
+    "image": "assets/images/金狼.jpg"
+  },
+  {
+    "name": "上石弥生",
+    "romaji": "Kamiishi Yayoi",
+    "birthday": "07-09",
+    "series": "吹响吧！上低音号",
+    "cv": "松田彩音",
+    "image": "assets/images/上石弥生.jpg"
+  },
+  {
+    "name": "枢木朱雀",
+    "romaji": "Kururugi Suzaku",
+    "birthday": "07-10",
+    "series": "Code Geass 反叛的鲁路修",
+    "cv": "樱井孝宏",
+    "image": "assets/images/枢木朱雀.jpg"
+  },
+  {
+    "name": "园崎魅音",
+    "romaji": "Sonozaki Mion",
+    "birthday": "07-10",
+    "series": "寒蝉鸣泣之时",
+    "cv": "雪野五月",
+    "image": "assets/images/园崎魅音.jpg"
+  },
+  {
+    "name": "园崎诗音",
+    "romaji": "Sonozaki Shion",
+    "birthday": "07-10",
+    "series": "寒蝉鸣泣之时",
+    "cv": "雪野五月",
+    "image": "assets/images/园崎诗音.jpg"
+  },
+  {
+    "name": "杏",
+    "romaji": "Anzu",
+    "birthday": "07-10",
+    "series": "花丸幼稚园",
+    "cv": "真堂圭",
+    "image": "assets/images/杏.jpg"
+  },
+  {
+    "name": "漩涡玖辛奈",
+    "romaji": "Uzumaki Kushina",
+    "birthday": "07-10",
+    "series": "火影忍者",
+    "cv": "筱原惠美",
+    "image": "assets/images/漩涡玖辛奈.jpg"
+  },
+  {
+    "name": "胭条巴",
+    "romaji": "Enjou Tomoe",
+    "birthday": "07-10",
+    "series": "空之境界",
+    "cv": "柿原彻也",
+    "image": "assets/images/胭条巴.jpg"
+  },
+  {
+    "name": "穗村千夏",
+    "romaji": "Homura Chika",
+    "birthday": "07-10",
+    "series": "春&夏推理事件簿",
+    "cv": "布里德卡特·塞拉·惠美",
+    "image": "assets/images/穗村千夏.jpg"
+  },
+  {
+    "name": "神成岳志",
+    "romaji": "Shinjou Takeshi",
+    "birthday": "07-10",
+    "series": "混沌子",
+    "cv": "桐本琢也",
+    "image": "assets/images/神成岳志.jpg"
+  },
+  {
+    "name": "可儿那由多",
+    "romaji": "Kani Nayuta",
+    "birthday": "07-10",
+    "series": "如果有妹妹就好了。",
+    "cv": "金元寿子",
+    "image": "assets/images/可儿那由多.jpg"
+  },
+  {
+    "name": "神崎日照",
+    "romaji": "Kanzaki Hideri",
+    "birthday": "07-10",
+    "series": "调教咖啡厅",
+    "cv": "德井青空",
+    "image": "assets/images/神崎日照.jpg"
+  },
+  {
+    "name": "亚瑟·波义耳",
+    "romaji": "Arthur Boyle",
+    "birthday": "07-10",
+    "series": "炎炎消防队",
+    "cv": "日野聪",
+    "image": "assets/images/亚瑟·波义耳.jpg"
   }
 ]
