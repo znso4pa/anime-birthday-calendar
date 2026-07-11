@@ -7342,5 +7342,45 @@
     "series": "炎炎消防队",
     "cv": "日野聪",
     "image": "assets/images/亚瑟·波义耳.jpg"
+  },
+  {
+    "name": "伊吹摩耶",
+    "romaji": "Ibuki Maya",
+    "birthday": "07-11",
+    "series": "新世纪福音战士",
+    "cv": "长泽美树",
+    "image": "assets/images/伊吹摩耶.jpg"
+  },
+  {
+    "name": "甘神夕奈",
+    "romaji": "Amagami Yuna",
+    "birthday": "07-11",
+    "series": "缘结甘神家",
+    "cv": "本渡枫",
+    "image": "assets/images/甘神夕奈.jpg"
+  },
+  {
+    "name": "近江小々路",
+    "romaji": "Oumi Kokoro",
+    "birthday": "07-11",
+    "series": "在世界与世界的正中央",
+    "cv": "樱爱音",
+    "image": "assets/images/近江小々路.jpg"
+  },
+  {
+    "name": "安洁莉娜·珞卡",
+    "romaji": "Angelina Rocca",
+    "birthday": "07-11",
+    "series": "片羽",
+    "cv": "安玖深音",
+    "image": "assets/images/安洁莉娜·珞卡.jpg"
+  },
+  {
+    "name": "朝仓可怜",
+    "romaji": "Asakura Karen",
+    "birthday": "07-11",
+    "series": "炽焰天穹",
+    "cv": "芹泽优",
+    "image": "assets/images/朝仓可怜.jpg"
   }
 ]
