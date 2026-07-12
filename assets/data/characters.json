@@ -7382,5 +7382,53 @@
     "series": "炽焰天穹",
     "cv": "芹泽优",
     "image": "assets/images/朝仓可怜.jpg"
+  },
+  {
+    "name": "千堂伽耶",
+    "romaji": "Sendou Kaya",
+    "birthday": "07-12",
+    "series": "FORTUNE ARTERIAL",
+    "cv": "美芹樱花（PC游戏）/ 水桥香织（TV动画）",
+    "image": "assets/images/千堂伽耶.jpg"
+  },
+  {
+    "name": "速水凛香",
+    "romaji": "Hayami Rinka",
+    "birthday": "07-12",
+    "series": "暗杀教室",
+    "cv": "河原木志穗",
+    "image": "assets/images/速水凛香.png"
+  },
+  {
+    "name": "木暮公延",
+    "romaji": "Kogure Kiminobu",
+    "birthday": "07-12",
+    "series": "灌篮高手",
+    "cv": "田中秀幸（日）",
+    "image": "assets/images/木暮公延.png"
+  },
+  {
+    "name": "弗拉迪蕾娜·米丽洁",
+    "romaji": "Vladilena Milize",
+    "birthday": "07-12",
+    "series": "86 -不存在的战区-",
+    "cv": "长谷川育美",
+    "image": "assets/images/弗拉迪蕾娜·米丽.png"
+  },
+  {
+    "name": "大场奈奈",
+    "romaji": "Daiba Nana",
+    "birthday": "07-12",
+    "series": "少女☆歌剧 Revue Starlight",
+    "cv": "小泉萌香",
+    "image": "assets/images/大场奈奈.png"
+  },
+  {
+    "name": "今坂唯笑",
+    "romaji": "Imasaka Yue",
+    "birthday": "07-12",
+    "series": "秋之回忆",
+    "cv": "那须惠",
+    "image": "assets/images/今坂唯笑.jpg"
   }
 ]
