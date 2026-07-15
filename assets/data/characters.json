@@ -7430,5 +7430,149 @@
     "series": "秋之回忆",
     "cv": "那须惠",
     "image": "assets/images/今坂唯笑.jpg"
+  },
+  {
+    "name": "李小狼",
+    "romaji": "Li Syaoran",
+    "birthday": "07-13",
+    "series": "魔卡少女樱",
+    "cv": "熊井统子",
+    "image": "assets/images/李小狼.png"
+  },
+  {
+    "name": "津岛善子",
+    "romaji": "Tsushima Yoshiko",
+    "birthday": "07-13",
+    "series": "LoveLive! Sunshine!!",
+    "cv": "小林爱香",
+    "image": "assets/images/津岛善子.png"
+  },
+  {
+    "name": "藤井夏生",
+    "romaji": "Fujii Natsuo",
+    "birthday": "07-13",
+    "series": "家有女友",
+    "cv": "八代拓",
+    "image": "assets/images/藤井夏生.jpg"
+  },
+  {
+    "name": "米卡",
+    "romaji": "Mika",
+    "birthday": "07-13",
+    "series": "莉可丽丝",
+    "cv": "榊孝辅",
+    "image": "assets/images/米卡.png"
+  },
+  {
+    "name": "佐仓井真响",
+    "romaji": "Sakurai Mayura",
+    "birthday": "07-13",
+    "series": "永不落幕的前奏诗",
+    "cv": "野村真悠华",
+    "image": "assets/images/佐仓井真响.png"
+  },
+  {
+    "name": "大野加奈子",
+    "romaji": "Oono Kanako",
+    "birthday": "07-14",
+    "series": "现视研",
+    "cv": "川澄绫子",
+    "image": "assets/images/大野加奈子.png"
+  },
+  {
+    "name": "种岛白杨",
+    "romaji": "Taneshima Popura",
+    "birthday": "07-14",
+    "series": "迷糊餐厅",
+    "cv": "阿澄佳奈",
+    "image": "assets/images/种岛白杨.jpg"
+  },
+  {
+    "name": "海绵宝宝",
+    "romaji": "SpongeBob SquarePants",
+    "birthday": "07-14",
+    "series": "海绵宝宝",
+    "cv": "Tom Kenny",
+    "image": "assets/images/海绵宝宝.png"
+  },
+  {
+    "name": "首藤凉",
+    "romaji": "Shutou Suzu",
+    "birthday": "07-14",
+    "series": "恶魔之谜",
+    "cv": "安济知佳",
+    "image": "assets/images/首藤凉.jpg"
+  },
+  {
+    "name": "海老名姬菜",
+    "romaji": "Ebina Hina",
+    "birthday": "07-14",
+    "series": "我的青春恋爱物语果然有问题",
+    "cv": "佐佐木望",
+    "image": "assets/images/海老名姬菜.png"
+  },
+  {
+    "name": "长谷祐树",
+    "romaji": "Hase Yuuki",
+    "birthday": "07-14",
+    "series": "一周的朋友。",
+    "cv": "山谷祥生",
+    "image": "assets/images/长谷祐树.png"
+  },
+  {
+    "name": "户山香澄",
+    "romaji": "Toyama Kasumi",
+    "birthday": "07-14",
+    "series": "BanG Dream!",
+    "cv": "爱美",
+    "image": "assets/images/户山香澄.jpg"
+  },
+  {
+    "name": "灶门炭治郎",
+    "romaji": "Kamado Tanjirou",
+    "birthday": "07-14",
+    "series": "鬼灭之刃",
+    "cv": "花江夏树",
+    "image": "assets/images/灶门炭治郎.png"
+  },
+  {
+    "name": "黑崎一护",
+    "romaji": "Kurosaki Ichigo",
+    "birthday": "07-15",
+    "series": "死神",
+    "cv": "森田成一",
+    "image": "assets/images/黑崎一护.png"
+  },
+  {
+    "name": "真山亚茶花",
+    "romaji": "Mayama Asaka",
+    "birthday": "07-15",
+    "series": "喜欢本大爷的竟然就你一个？",
+    "cv": "齐藤朱夏",
+    "image": "assets/images/真山亚茶花.png"
+  },
+  {
+    "name": "巴尔巴洛士",
+    "romaji": "Barbaros",
+    "birthday": "07-15",
+    "series": "身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？",
+    "cv": "谷山纪章",
+    "image": "assets/images/巴尔巴洛士.jpg"
+  },
+  {
+    "name": "地狱谷咲来",
+    "romaji": "Sakura",
+    "birthday": "07-15",
+    "series": "甜蜜女友2+",
+    "cv": "歩サラ",
+    "image": "assets/images/地狱谷咲来.png"
+  },
+  {
+    "name": "右代宫战人",
+    "romaji": "Ushiromiya Battler",
+    "birthday": "07-15",
+    "series": "海猫鸣泣之时",
+    "cv": "小野大辅",
+    "image": "assets/images/右代宫战人.jpg"
   }
 ]
