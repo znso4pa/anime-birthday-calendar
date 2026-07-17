@@ -7574,5 +7574,117 @@
     "series": "海猫鸣泣之时",
     "cv": "小野大辅",
     "image": "assets/images/右代宫战人.jpg"
+  },
+  {
+    "name": "长船·KENNY·英太郎",
+    "romaji": "Osafune Kenny Eitarou",
+    "birthday": "07-16",
+    "series": "寻找失去的未来",
+    "cv": "山口胜平",
+    "image": ""
+  },
+  {
+    "name": "野伏三代吉",
+    "romaji": "Nobuse Miyokichi",
+    "birthday": "07-16",
+    "series": "真实之泪",
+    "cv": "吉野裕行",
+    "image": "assets/images/野伏三代吉.jpg"
+  },
+  {
+    "name": "大谷桃子",
+    "romaji": "Ootani Momoko",
+    "birthday": "07-16",
+    "series": "写真女友",
+    "cv": "远藤绫",
+    "image": "assets/images/大谷桃子.png"
+  },
+  {
+    "name": "石户霞",
+    "romaji": "Iwato Kasumi",
+    "birthday": "07-16",
+    "series": "天才麻将少女",
+    "cv": "大原沙耶香",
+    "image": "assets/images/石户霞.jpg"
+  },
+  {
+    "name": "高槻手纲",
+    "romaji": "Takatsuki Tazuna",
+    "birthday": "07-16",
+    "series": "Hand Shakers",
+    "cv": "齐藤壮马",
+    "image": "assets/images/高槻手纲.jpg"
+  },
+  {
+    "name": "佐和穗花",
+    "romaji": "Sawa Honoka",
+    "birthday": "07-16",
+    "series": "神选",
+    "cv": "松本沙罗",
+    "image": "assets/images/佐和穗花.png"
+  },
+  {
+    "name": "黑川真鱼",
+    "romaji": "Kurokawa Mao",
+    "birthday": "07-17",
+    "series": "若叶女孩",
+    "cv": "M·A·O",
+    "image": "assets/images/黑川真鱼.png"
+  },
+  {
+    "name": "结城晴",
+    "romaji": "Yuuki Haru",
+    "birthday": "07-17",
+    "series": "偶像大师 灰姑娘女孩 U149",
+    "cv": "小市真琴",
+    "image": "assets/images/结城晴.png"
+  },
+  {
+    "name": "朝日六花",
+    "romaji": "Asahi Rokka",
+    "birthday": "07-17",
+    "series": "BanG Dream!",
+    "cv": "小原莉子",
+    "image": "assets/images/朝日六花.jpg"
+  },
+  {
+    "name": "渥美绫",
+    "romaji": "Atsumi Ryou",
+    "birthday": "07-17",
+    "series": "大正处女御伽话",
+    "cv": "安济知佳",
+    "image": "assets/images/渥美绫.jpg"
+  },
+  {
+    "name": "唐可可",
+    "romaji": "Tang Keke",
+    "birthday": "07-17",
+    "series": "Love Live! Superstar!!",
+    "cv": "Liyuu",
+    "image": "assets/images/唐可可.png"
+  },
+  {
+    "name": "椋梨隼太",
+    "romaji": "Mukunashi Hayata",
+    "birthday": "07-17",
+    "series": "纯白交响曲",
+    "cv": "铃木达央",
+    "image": "assets/images/椋梨隼太.jpg"
+  },
+  {
+    "name": "响·莉欧",
+    "romaji": "Hibiki Rio",
+    "birthday": "07-17",
+    "series": "勇气爆发 Bang Bravern",
+    "cv": "宫本侑芽",
+    "image": "assets/images/响·莉欧.png"
+  },
+  {
+    "name": "花江",
+    "romaji": "Hanae",
+    "birthday": "07-17",
+    "series": "星空列车与白的旅行",
+    "cv": "小原莉子",
+    "image": "assets/images/花江.jpg"
   }
 ]
