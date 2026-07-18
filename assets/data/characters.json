@@ -7686,5 +7686,45 @@
     "series": "星空列车与白的旅行",
     "cv": "小原莉子",
     "image": "assets/images/花江.jpg"
+  },
+  {
+    "name": "皋月驱",
+    "romaji": "Satsuki Kakeru",
+    "birthday": "07-18",
+    "series": "11eyes",
+    "cv": "小野大辅",
+    "image": "assets/images/皋月驱.jpg"
+  },
+  {
+    "name": "长濑纯",
+    "romaji": "Nagase Jun",
+    "birthday": "07-18",
+    "series": "只有神知道的世界",
+    "cv": "丰崎爱生",
+    "image": "assets/images/长濑纯.jpg"
+  },
+  {
+    "name": "爱宕洋榎",
+    "romaji": "Atago Hiroe",
+    "birthday": "07-18",
+    "series": "天才麻将少女",
+    "cv": "松田飒水",
+    "image": "assets/images/爱宕洋榎.jpg"
+  },
+  {
+    "name": "空闲游真",
+    "romaji": "Kuga Yuma",
+    "birthday": "07-18",
+    "series": "境界触发者",
+    "cv": "村中知",
+    "image": ""
+  },
+  {
+    "name": "木野日鞠",
+    "romaji": "Kino Himari",
+    "birthday": "07-18",
+    "series": "恋语轻唱",
+    "cv": "嶋野花",
+    "image": "assets/images/木野日鞠.png"
   }
 ]
