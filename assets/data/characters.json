@@ -7726,5 +7726,101 @@
     "series": "恋语轻唱",
     "cv": "嶋野花",
     "image": "assets/images/木野日鞠.png"
+  },
+  {
+    "name": "篠原明里",
+    "romaji": "Shinohara Akari",
+    "birthday": "07-19",
+    "series": "秒速5厘米",
+    "cv": "近藤好美",
+    "image": "assets/images/篠原明里.png"
+  },
+  {
+    "name": "春日部咲",
+    "romaji": "Kasukabe Saki",
+    "birthday": "07-19",
+    "series": "现视研",
+    "cv": "雪野五月",
+    "image": "assets/images/春日部咲.png"
+  },
+  {
+    "name": "筱原夏希",
+    "romaji": "Shinohara Natsuki",
+    "birthday": "07-19",
+    "series": "夏日大作战",
+    "cv": "樱庭奈奈美",
+    "image": "assets/images/筱原夏希.png"
+  },
+  {
+    "name": "三浦梓",
+    "romaji": "Miura Azusa",
+    "birthday": "07-19",
+    "series": "偶像大师",
+    "cv": "高桥智秋",
+    "image": "assets/images/三浦梓.png"
+  },
+  {
+    "name": "篠崎幸子",
+    "romaji": "Shinozaki Sachiko",
+    "birthday": "07-19",
+    "series": "尸体派对",
+    "cv": "大谷育江",
+    "image": "assets/images/篠崎幸子.jpg"
+  },
+  {
+    "name": "久海菜菜美",
+    "romaji": "Hisami Nanami",
+    "birthday": "07-19",
+    "series": "Wake Up, Girls!",
+    "cv": "山下七海",
+    "image": "assets/images/久海菜菜美.png"
+  },
+  {
+    "name": "野间真智子",
+    "romaji": "Noma Machiko",
+    "birthday": "07-19",
+    "series": "高校舰队",
+    "cv": "小林优",
+    "image": "assets/images/野间真智子.png"
+  },
+  {
+    "name": "宮沢純葉",
+    "romaji": "Miyazawa Itoha",
+    "birthday": "07-19",
+    "series": "夏雪～summer_snow～",
+    "cv": "春日アン",
+    "image": "assets/images/宮沢純葉.png"
+  },
+  {
+    "name": "天川千夏",
+    "romaji": "Amakawa Chinatsu",
+    "birthday": "07-19",
+    "series": "秋之回忆：勾指起誓的记忆",
+    "cv": "鹿野优以",
+    "image": "assets/images/天川千夏.png"
+  },
+  {
+    "name": "樱塚名月",
+    "romaji": "Sakurazuka Meizuki",
+    "birthday": "07-19",
+    "series": "星宿恋曲",
+    "cv": "後藤麻衣",
+    "image": "assets/images/樱塚名月.png"
+  },
+  {
+    "name": "恋川志穗",
+    "romaji": "Koikawa Shiho",
+    "birthday": "07-19",
+    "series": "爱丽娅的明日盛典！",
+    "cv": "葵时绪",
+    "image": "assets/images/恋川志穗.png"
+  },
+  {
+    "name": "ちえ",
+    "romaji": "Chie",
+    "birthday": "07-19",
+    "series": "无法忍耐的处男哥哥和不直率的叛逆妹妹",
+    "cv": "小波铃",
+    "image": "assets/images/ちえ.jpg"
   }
 ]
