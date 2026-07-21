@@ -7990,5 +7990,141 @@
     "series": "世界计划 缤纷舞台！ feat. 初音未来",
     "cv": "Machico",
     "image": "assets/images/草薙宁宁.png"
+  },
+  {
+    "name": "籾冈里纱",
+    "romaji": "Momioka Risa",
+    "birthday": "07-21",
+    "series": "出包王女",
+    "cv": "柚木凉香",
+    "image": "assets/images/籾冈里纱.png"
+  },
+  {
+    "name": "法修·史丹比特",
+    "romaji": "Vash the Stampede",
+    "birthday": "07-21",
+    "series": "枪神",
+    "cv": "小野坂昌也",
+    "image": "assets/images/法修·史丹比特.png"
+  },
+  {
+    "name": "姬岛朱乃",
+    "romaji": "Himejima Akeno",
+    "birthday": "07-21",
+    "series": "恶魔高校 D×D",
+    "cv": "伊藤静",
+    "image": "assets/images/姬岛朱乃.png"
+  },
+  {
+    "name": "名濑博臣",
+    "romaji": "Nase Hiroomi",
+    "birthday": "07-21",
+    "series": "境界的彼方",
+    "cv": "铃木达央",
+    "image": "assets/images/名濑博臣.png"
+  },
+  {
+    "name": "小樱茉莉",
+    "romaji": "Kozakura Mari",
+    "birthday": "07-21",
+    "series": "目隐都市的演绎者",
+    "cv": "花泽香菜",
+    "image": "assets/images/小樱茉莉.png"
+  },
+  {
+    "name": "秋山枫",
+    "romaji": "Akiyama Kaede",
+    "birthday": "07-21",
+    "series": "拳愿阿修罗",
+    "cv": "内山夕实",
+    "image": "assets/images/秋山枫.png"
+  },
+  {
+    "name": "横田文",
+    "romaji": "Yokota Aya",
+    "birthday": "07-21",
+    "series": "神推偶像登上武道馆我就死而无憾",
+    "cv": "伊藤麻菜美",
+    "image": "assets/images/横田文.png"
+  },
+  {
+    "name": "吉村氏梅",
+    "romaji": "Yoshimura Thi Mai",
+    "birthday": "07-21",
+    "series": "突击莉莉",
+    "cv": "岩田阳葵",
+    "image": "assets/images/吉村氏梅.jpg"
+  },
+  {
+    "name": "结梦亲",
+    "romaji": "Yumechi",
+    "birthday": "07-21",
+    "series": "秋叶原冥途战争",
+    "cv": "田中美海",
+    "image": "assets/images/结梦亲.jpg"
+  },
+  {
+    "name": "夏江杏",
+    "romaji": "Natsue An",
+    "birthday": "07-21",
+    "series": "群花绽放，彷如修罗",
+    "cv": "和泉风花",
+    "image": "assets/images/夏江杏.png"
+  },
+  {
+    "name": "百井咲久",
+    "romaji": "Momoi Saku",
+    "birthday": "07-21",
+    "series": "女高中生的无所事事",
+    "cv": "长绳麻理亚",
+    "image": "assets/images/百井咲久.jpg"
+  },
+  {
+    "name": "二阶堂真红",
+    "romaji": "Nikaidou Shinku",
+    "birthday": "07-21",
+    "series": "五彩斑斓的世界",
+    "cv": "福圆美里",
+    "image": "assets/images/二阶堂真红.png"
+  },
+  {
+    "name": "二阶堂蓝",
+    "romaji": "Nikaidou Ai",
+    "birthday": "07-21",
+    "series": "五彩斑斓的世界",
+    "cv": "美波りお",
+    "image": "assets/images/二阶堂蓝.webp"
+  },
+  {
+    "name": "西园寺明",
+    "romaji": "Saionji Akira",
+    "birthday": "07-21",
+    "series": "向日葵",
+    "cv": "川澄绫子",
+    "image": "assets/images/西园寺明.jpg"
+  },
+  {
+    "name": "白石和美",
+    "romaji": "Shiraishi Nagomi",
+    "birthday": "07-21",
+    "series": "染红的街道",
+    "cv": "广桥凉",
+    "image": "assets/images/白石和美.png"
+  },
+  {
+    "name": "神掛由岐奈",
+    "romaji": "Kamikake Yukina",
+    "birthday": "07-21",
+    "series": "玉响未来",
+    "cv": "八ッ桥しなもん",
+    "image": "assets/images/神掛由岐奈.png"
+  },
+  {
+    "name": "四葉琥珀",
+    "romaji": "Yotsuba Kohaku",
+    "birthday": "07-21",
+    "series": "不可视之药与坎坷的命运",
+    "cv": "上原あおい",
+    "image": "assets/images/四葉琥珀.png"
   }
 ]
