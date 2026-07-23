@@ -8126,5 +8126,157 @@
     "series": "不可视之药与坎坷的命运",
     "cv": "上原あおい",
     "image": "assets/images/四葉琥珀.png"
+  },
+  {
+    "name": "神尾观铃",
+    "romaji": "Kamio Misuzu",
+    "birthday": "07-23",
+    "series": "AIR",
+    "cv": "川上伦子",
+    "image": "assets/images/神尾观铃.png"
+  },
+  {
+    "name": "宇智波佐助",
+    "romaji": "Uchiha Sasuke",
+    "birthday": "07-23",
+    "series": "火影忍者",
+    "cv": "杉山纪彰",
+    "image": "assets/images/宇智波佐助.png"
+  },
+  {
+    "name": "桃城武",
+    "romaji": "Momoshiro Takeshi",
+    "birthday": "07-23",
+    "series": "网球王子",
+    "cv": "小野坂昌也",
+    "image": "assets/images/桃城武.jpg"
+  },
+  {
+    "name": "矢野元晴",
+    "romaji": "Yano Motoharu",
+    "birthday": "07-23",
+    "series": "我们的存在",
+    "cv": "矢崎广",
+    "image": "assets/images/矢野元晴.jpg"
+  },
+  {
+    "name": "鹿矛围桐斗",
+    "romaji": "Kamui Kirito",
+    "birthday": "07-23",
+    "series": "心理测量者2",
+    "cv": "木村良平",
+    "image": "assets/images/鹿矛围桐斗.png"
+  },
+  {
+    "name": "蕾娜·普劳拉",
+    "romaji": "Reina Prowler",
+    "birthday": "07-23",
+    "series": "超时空要塞Δ",
+    "cv": "东山奈央",
+    "image": "assets/images/蕾娜·普劳拉.png"
+  },
+  {
+    "name": "西山芹奈",
+    "romaji": "Nishiyama Serina",
+    "birthday": "07-23",
+    "series": "三者三叶",
+    "cv": "Machico",
+    "image": "assets/images/西山芹奈.png"
+  },
+  {
+    "name": "关菖蒲",
+    "romaji": "Seki Ayame",
+    "birthday": "07-23",
+    "series": "斯特拉的魔法",
+    "cv": "小泽亚李",
+    "image": "assets/images/关菖蒲.jpg"
+  },
+  {
+    "name": "镜野七罪",
+    "romaji": "Kagami Natsumi",
+    "birthday": "07-23",
+    "series": "约会大作战",
+    "cv": "真野步",
+    "image": "assets/images/镜野七罪.jpg"
+  },
+  {
+    "name": "鸨羽舞衣",
+    "romaji": "Tokiha Mai",
+    "birthday": "07-22",
+    "series": "舞-HiME",
+    "cv": "中原麻衣",
+    "image": "assets/images/鸨羽舞衣.png"
+  },
+  {
+    "name": "矢泽日香",
+    "romaji": "Yazawa Nico",
+    "birthday": "07-22",
+    "series": "Love Live!",
+    "cv": "德井青空",
+    "image": "assets/images/矢泽日香.png"
+  },
+  {
+    "name": "吉川由纪",
+    "romaji": "Yoshikawa Yuki",
+    "birthday": "07-22",
+    "series": "堀与宫村",
+    "cv": "小松未可子",
+    "image": "assets/images/吉川由纪.png"
+  },
+  {
+    "name": "九条月夜",
+    "romaji": "Kujou Tsukiyo",
+    "birthday": "07-22",
+    "series": "只有神知道的世界",
+    "cv": "井口裕香",
+    "image": "assets/images/九条月夜.jpg"
+  },
+  {
+    "name": "音砂见张",
+    "romaji": "Otosuna Mihari",
+    "birthday": "07-22",
+    "series": "漫画家和助手",
+    "cv": "小林优",
+    "image": "assets/images/音砂见张.jpg"
+  },
+  {
+    "name": "八宫巡",
+    "romaji": "Hachimiya Meguru",
+    "birthday": "07-22",
+    "series": "偶像大师 闪耀色彩",
+    "cv": "峯田茉优",
+    "image": "assets/images/八宫巡.png"
+  },
+  {
+    "name": "和栗薰子",
+    "romaji": "Wakuri Kaoruko",
+    "birthday": "07-22",
+    "series": "薰香花朵凛然绽放",
+    "cv": "羊宫妃那",
+    "image": "assets/images/和栗薰子.png"
+  },
+  {
+    "name": "夏色祭",
+    "romaji": "Natsuiro Matsuri",
+    "birthday": "07-22",
+    "series": "hololive",
+    "cv": "夏色祭（本人）",
+    "image": "assets/images/夏色祭.png"
+  },
+  {
+    "name": "鹰仓杏铃",
+    "romaji": "Takakura Anzu",
+    "birthday": "07-23",
+    "series": "Clover Day's",
+    "cv": "种崎敦美（桐谷华）",
+    "image": "assets/images/鹰仓杏铃.png"
+  },
+  {
+    "name": "鹰仓杏璃",
+    "romaji": "Takakura Anri",
+    "birthday": "07-23",
+    "series": "Clover Day's",
+    "cv": "黑须桐子",
+    "image": "assets/images/鹰仓杏璃.png"
   }
 ]
