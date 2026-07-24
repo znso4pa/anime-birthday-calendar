@@ -8278,5 +8278,85 @@
     "series": "Clover Day's",
     "cv": "黑须桐子",
     "image": "assets/images/鹰仓杏璃.png"
+  },
+  {
+    "name": "米蕾·阿什弗德",
+    "romaji": "Milly Ashford",
+    "birthday": "07-24",
+    "series": "Code Geass 反叛的鲁路修",
+    "cv": "大原沙耶香",
+    "image": "assets/images/米蕾·阿什弗德.jpg"
+  },
+  {
+    "name": "赤座灯里",
+    "romaji": "Akaza Akari",
+    "birthday": "07-24",
+    "series": "摇曳百合",
+    "cv": "三上枝织",
+    "image": "assets/images/赤座灯里.png"
+  },
+  {
+    "name": "有川姬",
+    "romaji": "Arikawa Hime",
+    "birthday": "07-24",
+    "series": "搞姬日常",
+    "cv": "桑原由气",
+    "image": "assets/images/有川姬.jpg"
+  },
+  {
+    "name": "久世桥朱里",
+    "romaji": "Kuzehashi Akari",
+    "birthday": "07-24",
+    "series": "黄金拼图",
+    "cv": "大西沙织",
+    "image": "assets/images/久世桥朱里.png"
+  },
+  {
+    "name": "宫田沙耶香",
+    "romaji": "Miyata Sayaka",
+    "birthday": "07-24",
+    "series": "竞女",
+    "cv": "M·A·O",
+    "image": "assets/images/宫田沙耶香.jpg"
+  },
+  {
+    "name": "上矢上里",
+    "romaji": "Kamiya Agari",
+    "birthday": "07-24",
+    "series": "灼热的乒乓球娘",
+    "cv": "田中美海",
+    "image": "assets/images/上矢上里.jpg"
+  },
+  {
+    "name": "札克",
+    "romaji": "Zack",
+    "birthday": "07-24",
+    "series": "杀戮天使",
+    "cv": "冈本信彦",
+    "image": "assets/images/札克.png"
+  },
+  {
+    "name": "天堂真矢",
+    "romaji": "Tendō Maya",
+    "birthday": "07-24",
+    "series": "少女☆歌剧 Revue Starlight",
+    "cv": "富田麻帆",
+    "image": "assets/images/天堂真矢.png"
+  },
+  {
+    "name": "新星玲央",
+    "romaji": "Niiboshi Reo",
+    "birthday": "07-24",
+    "series": "皿三昧",
+    "cv": "宫野真守",
+    "image": "assets/images/新星玲央.png"
+  },
+  {
+    "name": "堀出实果",
+    "romaji": "Horiide Mika",
+    "birthday": "07-24",
+    "series": "下级生2",
+    "cv": "大津田裕美",
+    "image": "assets/images/堀出实果.png"
   }
 ]
